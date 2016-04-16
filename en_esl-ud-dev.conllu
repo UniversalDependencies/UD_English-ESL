@@ -4652,7 +4652,7 @@
 6	_	_	ADJ	JJ	_	7	amod	_	_
 7	_	_	NOUN	NN	_	2	ccomp	_	_
 8	_	_	VERB	VBG	_	7	acl	_	_
-9	_	_	ADP	IN	_	11	case	_	_
+9	_	_	ADV	RB	_	11	case	_	_
 10	_	_	ADP	IN	_	9	mwe	_	_
 11	_	_	PROPN	NNP	_	7	nmod	_	_
 12	_	_	PROPN	NNP	_	11	name	_	_
@@ -6216,7 +6216,7 @@
 22	_	_	CONJ	CC	_	21	cc	_	_
 23	_	_	DET	DT	_	24	det	_	_
 24	_	_	NOUN	NN	_	21	conj	_	_
-25	_	_	PROPN	NNP	_	21	appos	_	_
+25	_	_	PROPN	NNP	_	18	appos	_	_
 26	_	_	PROPN	NNP	_	25	name	_	_
 27	_	_	PUNCT	.	_	12	punct	_	_
 

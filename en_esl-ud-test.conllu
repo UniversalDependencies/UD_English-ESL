@@ -2493,7 +2493,7 @@
 19	_	_	ADV	RB	_	30	advmod	_	_
 20	_	_	PUNCT	,	_	30	punct	_	_
 21	_	_	DET	DT	_	22	det	_	_
-22	_	_	NOUN	NN	_	30	appos	_	_
+22	_	_	NOUN	NN	_	30	nmod:npmod	_	_
 23	_	_	DET	WDT	_	26	dobj	_	_
 24	_	_	PRON	PRP	_	26	nsubj	_	_
 25	_	_	ADV	RB	_	26	advmod	_	_
