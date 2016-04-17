@@ -2997,8 +2997,8 @@
 20	_	_	SCONJ	IN	_	24	mark	_	_
 21	_	_	PRON	PRP	_	24	nsubj	_	_
 22	_	_	AUX	MD	_	24	aux	_	_
-23	_	_	AUX	VB	_	24	cop	_	_
-24	_	_	VERB	VBN	_	19	ccomp	_	_
+23	_	_	VERB	VB	_	24	cop	_	_
+24	_	_	ADJ	JJ	_	19	ccomp	_	_
 25	_	_	SCONJ	IN	_	28	mark	_	_
 26	_	_	PRON	PRP	_	28	nsubj	_	_
 27	_	_	AUX	MD	_	28	aux	_	_
@@ -7190,7 +7190,7 @@
 25	_	_	ADP	IN	_	27	case	_	_
 26	_	_	DET	DT	_	27	det	_	_
 27	_	_	NOUN	NN	_	24	nmod	_	_
-28	_	_	AUX	VBZ	_	30	cop	_	_
+28	_	_	VERB	VBZ	_	30	cop	_	_
 29	_	_	PRON	PRP	_	30	nsubj	_	_
 30	_	_	ADJ	JJ	_	9	parataxis	_	_
 31	_	_	PUNCT	.	_	9	punct	_	_
@@ -10339,7 +10339,7 @@
 4	_	_	DET	DT	_	2	nmod	_	_
 5	_	_	PUNCT	,	_	8	punct	_	_
 6	_	_	PRON	PRP	_	8	nsubj	_	_
-7	_	_	AUX	VBZ	_	8	cop	_	_
+7	_	_	AUX	VBZ	_	8	aux	_	_
 8	_	_	VERB	VBG	_	0	root	_	_
 9	_	_	PART	TO	_	13	mark	_	_
 10	_	_	VERB	VB	_	13	cop	_	_
@@ -10595,7 +10595,7 @@
 9	_	_	CONJ	CC	_	3	cc	_	_
 10	_	_	VERB	VBZ	_	3	conj	_	_
 11	_	_	ADJ	JJ	_	10	xcomp	_	_
-12	_	_	PUNCT	.	_	6	punct	_	_
+12	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc2252.xml 6
 #SENT=
