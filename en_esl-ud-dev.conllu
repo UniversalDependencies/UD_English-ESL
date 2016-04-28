@@ -44,13 +44,13 @@
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	nmod	_	_
-4	_	_	PUNCT	,	_	3	punct	_	_
+4	_	_	PUNCT	,	_	6	punct	_	_
 5	_	_	PRON	PRP	_	6	nsubj	_	_
 6	_	_	VERB	VBD	_	0	root	_	_
 7	_	_	ADP	IN	_	8	case	_	_
 8	_	_	NOUN	NN	_	6	nmod	_	_
 9	_	_	ADV	RB	_	8	advmod	_	_
-10	_	_	PUNCT	-LRB-	_	12	punct	_	_
+10	_	_	PUNCT	-LRB-	_	11	punct	_	_
 11	_	_	CONJ	CC	_	8	cc	_	_
 12	_	_	NOUN	NN	_	8	conj	_	_
 13	_	_	ADP	IN	_	16	case	_	_
@@ -178,7 +178,7 @@
 34	_	_	ADP	IN	_	35	case	_	_
 35	_	_	NUM	CD	_	33	nmod	_	_
 36	_	_	PUNCT	-RRB-	_	33	punct	_	_
-37	_	_	PUNCT	.	_	6	punct	_	_
+37	_	_	PUNCT	.	_	2	punct	_	_
 
 #ID=/0102_2000_12/doc1852.xml 17
 #SENT=
@@ -203,7 +203,7 @@
 19	_	_	CONJ	CC	_	18	cc	_	_
 20	_	_	NOUN	NN	_	18	conj	_	_
 21	_	_	ADV	RB	_	14	advmod	_	_
-22	_	_	PUNCT	.	_	11	punct	_	_
+22	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc2096.xml 6
 #SENT=
@@ -251,8 +251,8 @@
 9	_	_	ADJ	JJR	_	3	advcl	_	_
 10	_	_	NOUN	NN	_	11	dobj	_	_
 11	_	_	VERB	VBG	_	9	csubj	_	_
-12	_	_	ADP	IN	_	13	mark	_	_
-13	_	_	VERB	VBG	_	9	xcomp	_	_
+12	_	_	SCONJ	IN	_	13	mark	_	_
+13	_	_	VERB	VBG	_	9	advcl	_	_
 14	_	_	NOUN	NNS	_	13	dobj	_	_
 15	_	_	ADP	IN	_	16	case	_	_
 16	_	_	NOUN	NN	_	13	nmod	_	_
@@ -309,7 +309,7 @@
 5	_	_	NOUN	NNS	_	3	dobj	_	_
 6	_	_	ADP	IN	_	7	case	_	_
 7	_	_	PRON	PRP	_	5	nmod	_	_
-8	_	_	PUNCT	.	_	5	punct	_	_
+8	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0100_2000_6/doc2388.xml 13
 #SENT=
@@ -394,7 +394,7 @@
 4	_	_	NOUN	NN	_	1	nmod	_	_
 5	_	_	PUNCT	,	_	4	punct	_	_
 6	_	_	PROPN	NNP	_	4	appos	_	_
-7	_	_	PUNCT	,	_	6	punct	_	_
+7	_	_	PUNCT	,	_	8	punct	_	_
 8	_	_	VERB	VBD	_	0	root	_	_
 9	_	_	PART	TO	_	10	mark	_	_
 10	_	_	VERB	VB	_	8	xcomp	_	_
@@ -403,7 +403,7 @@
 13	_	_	NOUN	NN	_	10	dobj	_	_
 14	_	_	DET	WDT	_	15	nsubj	_	_
 15	_	_	VERB	VBZ	_	13	acl:relcl	_	_
-16	_	_	NOUN	NN	_	15	dobj	_	_
+16	_	_	SYM	$	_	15	dobj	_	_
 17	_	_	NUM	CD	_	16	nummod	_	_
 18	_	_	PUNCT	.	_	8	punct	_	_
 
@@ -425,7 +425,7 @@
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
 4	_	_	SCONJ	IN	_	6	mark	_	_
-5	_	_	DET	EX	_	6	expl	_	_
+5	_	_	PRON	EX	_	6	expl	_	_
 6	_	_	VERB	VBD	_	3	ccomp	_	_
 7	_	_	DET	DT	_	8	det	_	_
 8	_	_	NOUN	NNS	_	6	nsubj	_	_
@@ -459,7 +459,7 @@
 
 #ID=/0100_2000_6/doc2494.xml 24
 #SENT=
-1	_	_	NOUN	NNS	_	4	advmod	_	_
+1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
 4	_	_	VERB	VBD	_	0	root	_	_
@@ -510,7 +510,7 @@
 6	_	_	PUNCT	,	_	5	punct	_	_
 7	_	_	NOUN	NN	_	5	conj	_	_
 8	_	_	DET	WDT	_	11	nsubjpass	_	_
-9	_	_	VERB	VBD	_	11	auxpass	_	_
+9	_	_	AUX	VBD	_	11	auxpass	_	_
 10	_	_	ADV	RB	_	11	advmod	_	_
 11	_	_	VERB	VBN	_	7	acl:relcl	_	_
 12	_	_	ADP	IN	_	11	nmod	_	_
@@ -667,9 +667,9 @@
 17	_	_	PUNCT	,	_	12	punct	_	_
 18	_	_	VERB	VBN	_	12	acl	_	_
 19	_	_	ADP	IN	_	23	case	_	_
-20	_	_	PUNCT	``	_	23	punct	_	_
+20	_	_	PUNCT	``	_	21	punct	_	_
 21	_	_	ADJ	JJ	_	23	amod	_	_
-22	_	_	PUNCT	''	_	23	punct	_	_
+22	_	_	PUNCT	''	_	21	punct	_	_
 23	_	_	NOUN	NNS	_	18	nmod	_	_
 24	_	_	PUNCT	,	_	33	punct	_	_
 25	_	_	NOUN	NNS	_	33	nsubj	_	_
@@ -681,8 +681,8 @@
 31	_	_	AUX	MD	_	33	aux	_	_
 32	_	_	VERB	VB	_	33	cop	_	_
 33	_	_	ADJ	JJ	_	5	ccomp	_	_
-34	_	_	ADP	IN	_	35	mark	_	_
-35	_	_	VERB	VBG	_	33	xcomp	_	_
+34	_	_	SCONJ	IN	_	35	mark	_	_
+35	_	_	VERB	VBG	_	33	advcl	_	_
 36	_	_	ADJ	JJR	_	35	dobj	_	_
 37	_	_	ADP	IN	_	39	case	_	_
 38	_	_	DET	DT	_	39	det	_	_
@@ -840,15 +840,15 @@
 22	_	_	NOUN	NN	_	17	nmod	_	_
 23	_	_	CONJ	CC	_	22	cc	_	_
 24	_	_	NOUN	NN	_	22	conj	_	_
-25	_	_	ADP	IN	_	26	case	_	_
-26	_	_	ADV	RB	_	22	advmod	_	_
+25	_	_	SCONJ	IN	_	26	mark	_	_
+26	_	_	ADV	RB	_	22	advcl	_	_
 27	_	_	PUNCT	.	_	17	punct	_	_
 
 #ID=/0100_2000_12/doc539.xml 22
 #SENT=
-1	_	_	ADV	RB	_	2	case	_	_
-2	_	_	ADV	RB	_	16	nmod	_	_
-3	_	_	PUNCT	,	_	2	punct	_	_
+1	_	_	ADV	RB	_	16	advmod	_	_
+2	_	_	ADV	RB	_	1	mwe	_	_
+3	_	_	PUNCT	,	_	16	punct	_	_
 4	_	_	SCONJ	IN	_	6	mark	_	_
 5	_	_	NOUN	NN	_	6	nsubj	_	_
 6	_	_	VERB	VBZ	_	16	advcl	_	_
@@ -856,7 +856,7 @@
 8	_	_	NOUN	NN	_	6	dobj	_	_
 9	_	_	CONJ	CC	_	8	cc	_	_
 10	_	_	NOUN	NN	_	8	conj	_	_
-11	_	_	PUNCT	,	_	6	punct	_	_
+11	_	_	PUNCT	,	_	16	punct	_	_
 12	_	_	DET	DT	_	13	det	_	_
 13	_	_	NOUN	NNS	_	16	nsubj	_	_
 14	_	_	AUX	MD	_	16	aux	_	_
@@ -920,8 +920,8 @@
 11	_	_	VERB	VBD	_	4	advcl	_	_
 12	_	_	ADV	RB	_	13	advmod	_	_
 13	_	_	DET	DT	_	14	neg	_	_
-14	_	_	NOUN	NNS	_	11	dobj	_	_
-15	_	_	ADJ	JJ	_	14	amod	_	_
+14	_	_	NOUN	NNS	_	11	nsubj	_	_
+15	_	_	ADJ	JJ	_	11	xcomp	_	_
 16	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0102_2000_6/doc614.xml 3
@@ -939,11 +939,11 @@
 11	_	_	DET	DT	_	13	det	_	_
 12	_	_	ADJ	JJ	_	13	amod	_	_
 13	_	_	NOUN	NN	_	9	nmod	_	_
-14	_	_	PUNCT	``	_	13	punct	_	_
+14	_	_	PUNCT	``	_	17	punct	_	_
 15	_	_	PROPN	NNP	_	17	case	_	_
 16	_	_	DET	DT	_	17	det	_	_
 17	_	_	PROPN	NNP	_	13	appos	_	_
-18	_	_	PUNCT	''	_	13	punct	_	_
+18	_	_	PUNCT	''	_	17	punct	_	_
 19	_	_	PUNCT	,	_	2	punct	_	_
 20	_	_	CONJ	CC	_	2	cc	_	_
 21	_	_	ADJ	JJ	_	22	amod	_	_
@@ -985,12 +985,12 @@
 14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	NOUN	NNS	_	16	compound	_	_
 16	_	_	NOUN	NN	_	13	nmod	_	_
-17	_	_	ADP	IN	_	19	case	_	_
-18	_	_	X	GW	_	19	goeswith	_	_
-19	_	_	NOUN	NN	_	13	nmod	_	_
-20	_	_	CONJ	CC	_	19	cc	_	_
+17	_	_	ADP	IN	_	18	case	_	_
+18	_	_	NOUN	NN	_	13	nmod	_	_
+19	_	_	X	GW	_	18	goeswith	_	_
+20	_	_	CONJ	CC	_	18	cc	_	_
 21	_	_	ADJ	JJ	_	22	amod	_	_
-22	_	_	NOUN	NNS	_	19	conj	_	_
+22	_	_	NOUN	NNS	_	18	conj	_	_
 23	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0102_2000_6/doc1353.xml 13
@@ -1005,7 +1005,7 @@
 8	_	_	PRON	PRP	_	7	iobj	_	_
 9	_	_	ADV	RB	_	7	compound:prt	_	_
 10	_	_	ADV	RB	_	11	case	_	_
-11	_	_	ADV	RB	_	12	nmod	_	_
+11	_	_	ADV	RBS	_	12	nmod	_	_
 12	_	_	NOUN	NN	_	7	dobj	_	_
 13	_	_	ADP	IN	_	16	case	_	_
 14	_	_	DET	DT	_	16	det	_	_
@@ -1068,7 +1068,7 @@
 5	_	_	DET	PRP$	_	7	nmod:poss	_	_
 6	_	_	NOUN	NN	_	7	compound	_	_
 7	_	_	NOUN	NNS	_	4	dobj	_	_
-8	_	_	ADP	IN	_	9	mark	_	_
+8	_	_	SCONJ	IN	_	9	mark	_	_
 9	_	_	VERB	VBG	_	4	advcl	_	_
 10	_	_	DET	DT	_	11	det	_	_
 11	_	_	NOUN	NN	_	9	dobj	_	_
@@ -1342,7 +1342,7 @@
 10	_	_	PART	RB	_	12	neg	_	_
 11	_	_	ADV	RB	_	12	advmod	_	_
 12	_	_	ADJ	JJ	_	5	ccomp	_	_
-13	_	_	PUNCT	''	_	5	punct	_	_
+13	_	_	PUNCT	''	_	12	punct	_	_
 14	_	_	CONJ	CC	_	5	cc	_	_
 15	_	_	PRON	WP	_	17	nsubj	_	_
 16	_	_	VERB	VBZ	_	17	cop	_	_
@@ -1446,7 +1446,7 @@
 14	_	_	CONJ	CC	_	13	cc	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	13	conj	_	_
-17	_	_	PUNCT	,	_	5	punct	_	_
+17	_	_	PUNCT	,	_	16	punct	_	_
 18	_	_	DET	DT	_	21	det	_	_
 19	_	_	ADJ	JJ	_	21	amod	_	_
 20	_	_	ADJ	JJ	_	21	amod	_	_
@@ -1517,7 +1517,7 @@
 14	_	_	NOUN	NNS	_	12	dobj	_	_
 15	_	_	ADP	IN	_	16	case	_	_
 16	_	_	NOUN	NN	_	12	nmod	_	_
-17	_	_	PUNCT	,	_	16	punct	_	_
+17	_	_	PUNCT	,	_	6	punct	_	_
 18	_	_	CONJ	CC	_	6	cc	_	_
 19	_	_	PRON	PRP	_	24	nsubj	_	_
 20	_	_	VERB	VBZ	_	24	cop	_	_
@@ -1541,11 +1541,11 @@
 7	_	_	DET	DT	_	9	det	_	_
 8	_	_	ADJ	JJ	_	9	amod	_	_
 9	_	_	NOUN	NN	_	5	nmod	_	_
-10	_	_	PUNCT	``	_	9	punct	_	_
+10	_	_	PUNCT	``	_	13	punct	_	_
 11	_	_	ADP	IN	_	13	case	_	_
 12	_	_	DET	DT	_	13	det	_	_
 13	_	_	PROPN	NNP	_	9	appos	_	_
-14	_	_	PUNCT	''	_	3	punct	_	_
+14	_	_	PUNCT	''	_	13	punct	_	_
 
 #ID=/0102_2000_6/doc1541.xml 21a
 #SENT=
@@ -1675,7 +1675,7 @@
 4	_	_	PRON	PRP	_	6	nsubj	_	_
 5	_	_	AUX	MD	_	6	aux	_	_
 6	_	_	VERB	VB	_	0	root	_	_
-7	_	_	SCONJ	TO	_	8	mark	_	_
+7	_	_	PART	TO	_	8	mark	_	_
 8	_	_	VERB	VB	_	6	xcomp	_	_
 9	_	_	ADJ	JJ	_	11	amod	_	_
 10	_	_	ADP	IN	_	11	case	_	_
@@ -1750,19 +1750,19 @@
 8	_	_	ADV	RB	_	9	advmod	_	_
 9	_	_	VERB	VB	_	1	parataxis	_	_
 10	_	_	VERB	VBG	_	9	xcomp	_	_
-11	_	_	PUNCT	,	_	9	punct	_	_
+11	_	_	PUNCT	,	_	1	punct	_	_
 12	_	_	ADV	WRB	_	14	mark	_	_
 13	_	_	PRON	PRP	_	14	nsubj	_	_
 14	_	_	VERB	VBP	_	22	advcl	_	_
 15	_	_	ADP	IN	_	17	case	_	_
 16	_	_	DET	PRP$	_	17	nmod:poss	_	_
 17	_	_	NOUN	NN	_	14	nmod	_	_
-18	_	_	PUNCT	,	_	14	punct	_	_
+18	_	_	PUNCT	,	_	22	punct	_	_
 19	_	_	PRON	PRP	_	22	nsubj	_	_
 20	_	_	AUX	MD	_	22	aux	_	_
 21	_	_	VERB	VB	_	22	cop	_	_
 22	_	_	ADJ	JJ	_	1	parataxis	_	_
-23	_	_	PUNCT	.	_	22	punct	_	_
+23	_	_	PUNCT	.	_	1	punct	_	_
 
 #ID=/0100_2000_6/doc1202.xml 30
 #SENT=
@@ -1780,7 +1780,7 @@
 1	_	_	ADV	RB	_	17	advmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	DET	DT	_	1	nmod	_	_
-4	_	_	PUNCT	,	_	1	punct	_	_
+4	_	_	PUNCT	,	_	17	punct	_	_
 5	_	_	DET	DT	_	6	det	_	_
 6	_	_	NOUN	NN	_	17	nsubj	_	_
 7	_	_	ADP	IN	_	8	case	_	_
@@ -1874,7 +1874,7 @@
 4	_	_	NOUN	NN	_	2	dobj	_	_
 5	_	_	ADP	IN	_	6	case	_	_
 6	_	_	NOUN	NNS	_	4	nmod	_	_
-7	_	_	ADP	IN	_	8	mark	_	_
+7	_	_	SCONJ	IN	_	8	mark	_	_
 8	_	_	VERB	VBG	_	2	advcl	_	_
 9	_	_	ADV	WRB	_	11	advmod	_	_
 10	_	_	AUX	MD	_	11	aux	_	_
@@ -2011,7 +2011,7 @@
 #ID=/0102_2000_6/doc2474.xml 13
 #SENT=
 1	_	_	ADV	RB	_	4	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
 4	_	_	VERB	VBP	_	0	root	_	_
 5	_	_	PRON	PRP	_	4	dobj	_	_
@@ -2116,18 +2116,18 @@
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	DET	DT	_	1	nmod	_	_
-4	_	_	PUNCT	,	_	1	punct	_	_
+4	_	_	PUNCT	,	_	7	punct	_	_
 5	_	_	DET	DT	_	6	det	_	_
 6	_	_	NOUN	NN	_	7	nsubj	_	_
 7	_	_	VERB	VB	_	0	root	_	_
 8	_	_	SCONJ	IN	_	10	mark	_	_
-9	_	_	DET	EX	_	10	expl	_	_
+9	_	_	PRON	EX	_	10	expl	_	_
 10	_	_	VERB	VBD	_	7	ccomp	_	_
 11	_	_	NOUN	NNS	_	10	nsubj	_	_
-12	_	_	ADJ	JJ	_	11	amod	_	_
-13	_	_	PUNCT	,	_	10	punct	_	_
+12	_	_	ADJ	JJ	_	10	xcomp	_	_
+13	_	_	PUNCT	,	_	7	punct	_	_
 14	_	_	CONJ	CC	_	7	cc	_	_
-15	_	_	DET	EX	_	16	expl	_	_
+15	_	_	PRON	EX	_	16	expl	_	_
 16	_	_	VERB	VBD	_	7	conj	_	_
 17	_	_	PART	RB	_	16	neg	_	_
 18	_	_	PUNCT	.	_	7	punct	_	_
@@ -2159,8 +2159,8 @@
 23	_	_	PART	TO	_	24	mark	_	_
 24	_	_	VERB	VB	_	8	advcl	_	_
 25	_	_	PRON	PRP	_	24	dobj	_	_
-26	_	_	ADP	IN	_	28	case	_	_
-27	_	_	ADJ	JJS	_	26	mwe	_	_
+26	_	_	ADV	RB	_	27	case	_	_
+27	_	_	ADV	RBS	_	28	nmod	_	_
 28	_	_	NUM	CD	_	29	nummod	_	_
 29	_	_	NOUN	NN	_	24	nmod	_	_
 30	_	_	PART	TO	_	31	mark	_	_
@@ -2269,8 +2269,8 @@
 16	_	_	VERB	VBD	_	3	parataxis	_	_
 17	_	_	VERB	VBG	_	16	xcomp	_	_
 18	_	_	ADV	RB	_	17	advmod	_	_
-19	_	_	PUNCT	:	_	16	punct	_	_
-20	_	_	PUNCT	HYPH	_	16	punct	_	_
+19	_	_	PUNCT	:	_	17	punct	_	_
+20	_	_	PUNCT	HYPH	_	17	punct	_	_
 21	_	_	PUNCT	``	_	25	punct	_	_
 22	_	_	ADV	RB	_	25	neg	_	_
 23	_	_	AUX	VBP	_	25	aux	_	_
@@ -2292,7 +2292,7 @@
 39	_	_	ADP	IN	_	41	case	_	_
 40	_	_	DET	DT	_	41	det	_	_
 41	_	_	NOUN	NN	_	34	nmod	_	_
-42	_	_	PUNCT	.	_	34	punct	_	_
+42	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0100_2001_6/doc2985.xml 28
 #SENT=
@@ -2379,7 +2379,7 @@
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	expl	_	_
 4	_	_	VERB	VBD	_	6	cop	_	_
-5	_	_	ADJ	JJS	_	6	amod	_	_
+5	_	_	ADJ	JJ	_	6	amod	_	_
 6	_	_	NOUN	NN	_	0	root	_	_
 7	_	_	PUNCT	,	_	6	punct	_	_
 8	_	_	PRON	PRP	_	13	nsubj	_	_
@@ -2394,7 +2394,7 @@
 17	_	_	ADP	IN	_	19	case	_	_
 18	_	_	DET	DT	_	19	det	_	_
 19	_	_	NOUN	NN	_	13	nmod	_	_
-20	_	_	PUNCT	.	_	13	punct	_	_
+20	_	_	PUNCT	.	_	6	punct	_	_
 
 #ID=/0100_2000_6/doc1310.xml 41
 #SENT=
@@ -2500,7 +2500,7 @@
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
-4	_	_	ADP	IN	_	5	mark	_	_
+4	_	_	SCONJ	IN	_	5	mark	_	_
 5	_	_	VERB	VBG	_	3	advcl	_	_
 6	_	_	DET	DT	_	7	det	_	_
 7	_	_	NOUN	NNS	_	5	dobj	_	_
@@ -2614,7 +2614,7 @@
 10	_	_	PUNCT	,	_	5	punct	_	_
 11	_	_	CONJ	CC	_	5	cc	_	_
 12	_	_	ADP	IN	_	14	case	_	_
-13	_	_	ADP	IN	_	14	case	_	_
+13	_	_	ADP	IN	_	12	mwe	_	_
 14	_	_	PRON	PRP	_	19	nmod	_	_
 15	_	_	PUNCT	,	_	19	punct	_	_
 16	_	_	PRON	PRP	_	19	nsubj	_	_
@@ -2638,14 +2638,14 @@
 10	_	_	NOUN	NN	_	8	nmod	_	_
 11	_	_	PRON	PRP	_	10	dobj	_	_
 12	_	_	CONJ	CC	_	4	cc	_	_
-13	_	_	PUNCT	,	_	19	punct	_	_
+13	_	_	PUNCT	,	_	4	punct	_	_
 14	_	_	ADV	RB	_	19	advmod	_	_
 15	_	_	ADP	IN	_	16	case	_	_
 16	_	_	DET	DT	_	14	nmod	_	_
 17	_	_	PUNCT	,	_	19	punct	_	_
 18	_	_	PRON	EX	_	19	expl	_	_
 19	_	_	VERB	VBP	_	4	conj	_	_
-20	_	_	ADJ	JJ	_	21	advmod	_	_
+20	_	_	ADJ	JJ	_	21	amod	_	_
 21	_	_	NOUN	NNS	_	19	nsubj	_	_
 22	_	_	PUNCT	.	_	4	punct	_	_
 
@@ -2702,7 +2702,7 @@
 6	_	_	DET	DT	_	8	det	_	_
 7	_	_	ADJ	JJ	_	8	amod	_	_
 8	_	_	NOUN	NN	_	5	dobj	_	_
-9	_	_	ADP	IN	_	10	mark	_	_
+9	_	_	SCONJ	IN	_	10	mark	_	_
 10	_	_	VERB	VB	_	8	acl	_	_
 11	_	_	NOUN	NN	_	10	dobj	_	_
 12	_	_	PUNCT	.	_	5	punct	_	_
@@ -2759,7 +2759,7 @@
 11	_	_	ADV	RBR	_	12	advmod	_	_
 12	_	_	ADJ	JJ	_	8	acl:relcl	_	_
 13	_	_	CONJ	CC	_	4	cc	_	_
-14	_	_	PUNCT	,	_	13	punct	_	_
+14	_	_	PUNCT	,	_	4	punct	_	_
 15	_	_	SCONJ	IN	_	19	mark	_	_
 16	_	_	PRON	PRP	_	19	nsubj	_	_
 17	_	_	AUX	VBP	_	19	aux	_	_
@@ -2768,7 +2768,7 @@
 20	_	_	NOUN	NNS	_	19	dobj	_	_
 21	_	_	ADP	IN	_	22	case	_	_
 22	_	_	NOUN	NNS	_	20	nmod	_	_
-23	_	_	PUNCT	,	_	22	punct	_	_
+23	_	_	PUNCT	,	_	27	punct	_	_
 24	_	_	PRON	PRP	_	27	nsubj	_	_
 25	_	_	VERB	VBP	_	27	cop	_	_
 26	_	_	ADV	RB	_	27	advmod	_	_
@@ -2806,7 +2806,7 @@
 22	_	_	ADP	IN	_	24	case	_	_
 23	_	_	DET	DT	_	24	det	_	_
 24	_	_	NOUN	NN	_	15	nmod	_	_
-25	_	_	PUNCT	,	_	5	punct	_	_
+25	_	_	PUNCT	,	_	7	punct	_	_
 26	_	_	DET	DT	_	27	det	_	_
 27	_	_	NOUN	NN	_	38	dobj	_	_
 28	_	_	ADP	IN	_	29	case	_	_
@@ -2862,7 +2862,7 @@
 7	_	_	NOUN	NN	_	2	nmod	_	_
 8	_	_	PUNCT	,	_	7	punct	_	_
 9	_	_	NOUN	NN	_	7	conj	_	_
-10	_	_	PUNCT	,	_	7	punct	_	_
+10	_	_	PUNCT	,	_	2	punct	_	_
 11	_	_	PRON	PRP	_	12	nsubj	_	_
 12	_	_	VERB	VBP	_	2	conj	_	_
 13	_	_	NOUN	NNS	_	12	dobj	_	_
@@ -2971,7 +2971,7 @@
 22	_	_	ADP	IN	_	24	case	_	_
 23	_	_	NUM	CD	_	24	nummod	_	_
 24	_	_	NOUN	NN	_	18	nmod	_	_
-25	_	_	PUNCT	,	_	24	punct	_	_
+25	_	_	PUNCT	,	_	8	punct	_	_
 
 #ID=/0100_2000_6/doc821.xml 6
 #SENT=
@@ -3007,7 +3007,7 @@
 30	_	_	NOUN	NN	_	28	nmod	_	_
 31	_	_	CONJ	CC	_	30	cc	_	_
 32	_	_	NOUN	NN	_	30	conj	_	_
-33	_	_	PUNCT	,	_	5	punct	_	_
+33	_	_	PUNCT	,	_	28	punct	_	_
 34	_	_	SCONJ	IN	_	38	mark	_	_
 35	_	_	PRON	PRP	_	38	nsubj	_	_
 36	_	_	VERB	VBP	_	38	cop	_	_
@@ -3079,7 +3079,7 @@
 32	_	_	NOUN	NN	_	30	dobj	_	_
 33	_	_	ADP	IN	_	34	case	_	_
 34	_	_	NOUN	NN	_	32	nmod	_	_
-35	_	_	PUNCT	.	_	20	punct	_	_
+35	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc662.xml 8
 #SENT=
@@ -3248,7 +3248,7 @@
 2	_	_	VERB	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
 4	_	_	ADJ	JJ	_	0	root	_	_
-5	_	_	ADP	IN	_	6	mark	_	_
+5	_	_	SCONJ	IN	_	6	mark	_	_
 6	_	_	VERB	VBG	_	4	advcl	_	_
 7	_	_	PUNCT	HYPH	_	4	punct	_	_
 8	_	_	SCONJ	IN	_	12	mark	_	_
@@ -3336,7 +3336,7 @@
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
 4	_	_	NOUN	NN	_	8	nmod	_	_
-5	_	_	PUNCT	,	_	1	punct	_	_
+5	_	_	PUNCT	,	_	8	punct	_	_
 6	_	_	DET	PRP$	_	7	nmod:poss	_	_
 7	_	_	NOUN	NN	_	8	nsubj	_	_
 8	_	_	VERB	VBZ	_	0	root	_	_
@@ -3351,7 +3351,7 @@
 17	_	_	DET	DT	_	19	det	_	_
 18	_	_	ADJ	JJ	_	19	amod	_	_
 19	_	_	NOUN	NN	_	8	ccomp	_	_
-20	_	_	PUNCT	,	_	25	punct	_	_
+20	_	_	PUNCT	,	_	8	punct	_	_
 21	_	_	SCONJ	IN	_	25	mark	_	_
 22	_	_	PRON	PRP	_	25	nsubj	_	_
 23	_	_	AUX	VBP	_	25	aux	_	_
@@ -3368,7 +3368,7 @@
 34	_	_	ADP	IN	_	36	case	_	_
 35	_	_	DET	DT	_	36	det	_	_
 36	_	_	NOUN	NN	_	33	nmod	_	_
-37	_	_	PUNCT	,	_	39	punct	_	_
+37	_	_	PUNCT	,	_	36	punct	_	_
 38	_	_	PRON	PRP	_	39	nsubj	_	_
 39	_	_	VERB	VBP	_	36	acl:relcl	_	_
 40	_	_	PART	TO	_	41	mark	_	_
@@ -3386,7 +3386,7 @@
 6	_	_	PROPN	NNP	_	8	compound	_	_
 7	_	_	PROPN	NNP	_	8	compound	_	_
 8	_	_	PROPN	NNP	_	4	nmod	_	_
-9	_	_	PUNCT	,	_	10	punct	_	_
+9	_	_	PUNCT	,	_	8	punct	_	_
 10	_	_	PROPN	NNP	_	8	list	_	_
 11	_	_	ADP	IN	_	12	case	_	_
 12	_	_	PROPN	NNP	_	4	nmod	_	_
@@ -3474,7 +3474,7 @@
 3	_	_	VERB	VBN	_	0	root	_	_
 4	_	_	PART	TO	_	5	mark	_	_
 5	_	_	VERB	VB	_	3	advcl	_	_
-6	_	_	VERB	VBG	_	3	dobj	_	_
+6	_	_	VERB	VBG	_	3	xcomp	_	_
 7	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc1541.xml 11
@@ -3607,7 +3607,7 @@
 11	_	_	PUNCT	,	_	4	punct	_	_
 12	_	_	ADV	RB	_	15	advmod	_	_
 13	_	_	PUNCT	,	_	15	punct	_	_
-14	_	_	DET	EX	_	15	expl	_	_
+14	_	_	PRON	EX	_	15	expl	_	_
 15	_	_	VERB	VBD	_	4	advcl	_	_
 16	_	_	DET	DT	_	17	det	_	_
 17	_	_	NOUN	NN	_	15	nsubj	_	_
@@ -3640,7 +3640,7 @@
 3	_	_	AUX	VBP	_	4	aux	_	_
 4	_	_	VERB	VBN	_	0	root	_	_
 5	_	_	NOUN	NN	_	4	dobj	_	_
-6	_	_	ADP	IN	_	7	mark	_	_
+6	_	_	SCONJ	IN	_	7	mark	_	_
 7	_	_	VERB	VBG	_	5	acl	_	_
 8	_	_	NOUN	NN	_	7	dobj	_	_
 9	_	_	PUNCT	-LRB-	_	10	punct	_	_
@@ -3725,8 +3725,8 @@
 
 #ID=/0100_2000_6/doc50.xml 14
 #SENT=
-1	_	_	ADP	IN	_	4	mark	_	_
-2	_	_	ADP	IN	_	4	case	_	_
+1	_	_	SCONJ	IN	_	4	mark	_	_
+2	_	_	SCONJ	IN	_	4	mark	_	_
 3	_	_	VERB	VBG	_	4	cop	_	_
 4	_	_	ADJ	JJ	_	8	advcl	_	_
 5	_	_	PUNCT	,	_	8	punct	_	_
@@ -3823,13 +3823,13 @@
 1	_	_	PRON	WP	_	3	nsubj	_	_
 2	_	_	VERB	VBD	_	3	cop	_	_
 3	_	_	ADJ	JJR	_	6	advcl	_	_
-4	_	_	PUNCT	,	_	3	punct	_	_
+4	_	_	PUNCT	,	_	6	punct	_	_
 5	_	_	PRON	PRP	_	6	nsubj	_	_
 6	_	_	VERB	VBD	_	0	root	_	_
 7	_	_	ADP	IN	_	9	case	_	_
 8	_	_	ADP	IN	_	7	mwe	_	_
 9	_	_	NOUN	NN	_	6	nmod	_	_
-10	_	_	PUNCT	.	_	3	punct	_	_
+10	_	_	PUNCT	.	_	6	punct	_	_
 
 #ID=/0100_2000_6/doc2578.xml 13
 #SENT=
@@ -3977,7 +3977,7 @@
 19	_	_	PART	TO	_	20	mark	_	_
 20	_	_	VERB	VB	_	18	xcomp	_	_
 21	_	_	PRON	PRP	_	20	dobj	_	_
-22	_	_	PUNCT	,	_	20	punct	_	_
+22	_	_	PUNCT	,	_	25	punct	_	_
 23	_	_	AUX	MD	_	25	aux	_	_
 24	_	_	VERB	VB	_	25	cop	_	_
 25	_	_	ADJ	JJ	_	10	ccomp	_	_
@@ -4090,7 +4090,7 @@
 13	_	_	DET	PRP$	_	14	nmod:poss	_	_
 14	_	_	NOUN	NN	_	12	dobj	_	_
 15	_	_	ADP	RP	_	12	compound:prt	_	_
-16	_	_	PUNCT	,	_	9	punct	_	_
+16	_	_	PUNCT	,	_	6	punct	_	_
 17	_	_	PRON	PRP	_	19	nsubj	_	_
 18	_	_	AUX	VBP	_	19	aux	_	_
 19	_	_	VERB	VBG	_	6	parataxis	_	_
@@ -4098,7 +4098,7 @@
 21	_	_	NOUN	NN	_	19	dobj	_	_
 22	_	_	ADP	IN	_	23	case	_	_
 23	_	_	DET	DT	_	19	nmod	_	_
-24	_	_	PUNCT	:	_	19	punct	_	_
+24	_	_	PUNCT	:	_	6	punct	_	_
 25	_	_	VERB	VB	_	6	parataxis	_	_
 26	_	_	PRON	PRP	_	29	nsubj	_	_
 27	_	_	AUX	MD	_	29	aux	_	_
@@ -4335,13 +4335,13 @@
 6	_	_	NOUN	NN	_	7	compound	_	_
 7	_	_	NOUN	NN	_	0	root	_	_
 8	_	_	VERB	VBN	_	7	acl	_	_
-9	_	_	PUNCT	``	_	8	punct	_	_
+9	_	_	PUNCT	``	_	11	punct	_	_
 10	_	_	ADJ	JJ	_	11	amod	_	_
 11	_	_	NOUN	NN	_	8	xcomp	_	_
 12	_	_	PUNCT	,	_	11	punct	_	_
 13	_	_	ADJ	JJ	_	14	amod	_	_
 14	_	_	NOUN	NN	_	11	conj	_	_
-15	_	_	PUNCT	''	_	7	punct	_	_
+15	_	_	PUNCT	''	_	11	punct	_	_
 16	_	_	PUNCT	.	_	7	punct	_	_
 
 #ID=/0102_2000_6/doc929.xml 11
@@ -4386,7 +4386,7 @@
 8	_	_	DET	DT	_	10	det	_	_
 9	_	_	ADJ	JJ	_	10	amod	_	_
 10	_	_	NOUN	NN	_	6	nmod	_	_
-11	_	_	PUNCT	,	_	10	punct	_	_
+11	_	_	PUNCT	,	_	12	punct	_	_
 12	_	_	VERB	VB	_	3	ccomp	_	_
 13	_	_	ADP	IN	_	15	case	_	_
 14	_	_	PROPN	NNP	_	15	compound	_	_
@@ -4401,7 +4401,7 @@
 2	_	_	ADV	RB	_	7	advmod	_	_
 3	_	_	ADP	IN	_	4	case	_	_
 4	_	_	DET	DT	_	2	nmod	_	_
-5	_	_	PUNCT	,	_	2	punct	_	_
+5	_	_	PUNCT	,	_	7	punct	_	_
 6	_	_	PRON	PRP	_	7	nsubj	_	_
 7	_	_	VERB	VBP	_	0	root	_	_
 8	_	_	ADJ	JJS	_	9	amod	_	_
@@ -4412,8 +4412,8 @@
 13	_	_	VERB	VBP	_	15	cop	_	_
 14	_	_	ADV	RB	_	15	advmod	_	_
 15	_	_	ADJ	JJ	_	7	ccomp	_	_
-16	_	_	PUNCT	,	_	7	punct	_	_
-17	_	_	ADP	IN	_	18	mark	_	_
+16	_	_	PUNCT	,	_	15	punct	_	_
+17	_	_	SCONJ	IN	_	18	mark	_	_
 18	_	_	VERB	VBG	_	15	advcl	_	_
 19	_	_	ADP	IN	_	21	case	_	_
 20	_	_	DET	DT	_	21	det	_	_
@@ -4725,7 +4725,7 @@
 11	_	_	NOUN	NNS	_	6	conj	_	_
 12	_	_	ADP	IN	_	15	case	_	_
 13	_	_	DET	DT	_	15	det	_	_
-14	_	_	X	GW	_	15	goeswith	_	_
+14	_	_	NOUN	NN	_	15	compound	_	_
 15	_	_	NOUN	NN	_	2	nmod	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
@@ -5086,7 +5086,7 @@
 #SENT=
 1	_	_	PROPN	NNP	_	0	root	_	_
 2	_	_	PROPN	NNP	_	1	name	_	_
-3	_	_	ADP	IN	_	5	mark	_	_
+3	_	_	SCONJ	IN	_	5	mark	_	_
 4	_	_	ADV	RB	_	5	advmod	_	_
 5	_	_	VERB	VBG	_	1	advcl	_	_
 6	_	_	ADP	IN	_	9	case	_	_
@@ -5105,7 +5105,7 @@
 19	_	_	ADP	IN	_	21	case	_	_
 20	_	_	DET	DT	_	21	det	_	_
 21	_	_	NOUN	NN	_	18	nmod	_	_
-22	_	_	ADP	IN	_	23	mark	_	_
+22	_	_	SCONJ	IN	_	23	mark	_	_
 23	_	_	VERB	VBG	_	21	acl	_	_
 24	_	_	DET	DT	_	26	det	_	_
 25	_	_	ADJ	JJ	_	26	amod	_	_
@@ -5206,7 +5206,7 @@
 #SENT=
 1	_	_	VERB	VBP	_	0	root	_	_
 2	_	_	PRON	PRP	_	1	dobj	_	_
-3	_	_	ADP	IN	_	4	mark	_	_
+3	_	_	SCONJ	IN	_	4	mark	_	_
 4	_	_	VERB	VBN	_	2	advcl	_	_
 5	_	_	DET	PRP$	_	6	nmod:poss	_	_
 6	_	_	NOUN	NN	_	4	dobj	_	_
@@ -5345,7 +5345,7 @@
 #ID=/0100_2000_6/doc2765.xml 2
 #SENT=
 1	_	_	INTJ	UH	_	11	discourse	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	11	punct	_	_
 3	_	_	PART	TO	_	4	mark	_	_
 4	_	_	VERB	VB	_	11	advcl	_	_
 5	_	_	ADP	IN	_	7	case	_	_
@@ -5449,7 +5449,7 @@
 28	_	_	CONJ	CC	_	24	cc	_	_
 29	_	_	ADV	RB	_	30	advmod	_	_
 30	_	_	ADV	RB	_	24	conj	_	_
-31	_	_	PUNCT	.	_	20	punct	_	_
+31	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc2333.xml 7
 #SENT=
@@ -5503,14 +5503,14 @@
 17	_	_	PROPN	NNP	_	10	conj	_	_
 18	_	_	VERB	VBP	_	19	cop	_	_
 19	_	_	ADJ	JJ	_	8	ccomp	_	_
-20	_	_	ADP	IN	_	21	mark	_	_
+20	_	_	SCONJ	IN	_	21	mark	_	_
 21	_	_	VERB	VBG	_	19	advcl	_	_
 22	_	_	PUNCT	.	_	8	punct	_	_
 
 #ID=/0102_2000_6/doc1201.xml 14a
 #SENT=
 1	_	_	ADV	RB	_	6	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
 4	_	_	NOUN	NNS	_	6	nsubj	_	_
 5	_	_	AUX	VBP	_	6	aux	_	_
@@ -5642,7 +5642,7 @@
 #ID=/0102_2000_6/doc1841.xml 10
 #SENT=
 1	_	_	ADV	WRB	_	3	advmod	_	_
-2	_	_	DET	EX	_	3	expl	_	_
+2	_	_	PRON	EX	_	3	expl	_	_
 3	_	_	VERB	VBD	_	7	advcl	_	_
 4	_	_	DET	DT	_	5	det	_	_
 5	_	_	ADJ	JJ	_	3	nsubj	_	_
@@ -5759,7 +5759,7 @@
 #ID=/0102_2000_12/doc211.xml 24
 #SENT=
 1	_	_	ADV	RB	_	5	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
 4	_	_	VERB	VBP	_	5	cop	_	_
 5	_	_	ADJ	JJ	_	0	root	_	_
@@ -5777,10 +5777,10 @@
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
-4	_	_	ADP	IN	_	5	case	_	_
-5	_	_	NOUN	NN	_	3	nmod	_	_
+4	_	_	ADP	IN	_	7	mark	_	_
+5	_	_	NOUN	NN	_	4	mwe	_	_
 6	_	_	PART	TO	_	7	mark	_	_
-7	_	_	VERB	VB	_	5	xcomp	_	_
+7	_	_	VERB	VB	_	3	advcl	_	_
 8	_	_	DET	PRP$	_	9	nmod:poss	_	_
 9	_	_	NOUN	NN	_	7	dobj	_	_
 10	_	_	ADP	IN	_	12	case	_	_
@@ -5792,14 +5792,14 @@
 16	_	_	NOUN	NN	_	12	appos	_	_
 17	_	_	PUNCT	''	_	16	punct	_	_
 18	_	_	VERB	VBD	_	12	acl	_	_
-19	_	_	NUM	CD	_	12	nummod	_	_
+19	_	_	NUM	CD	_	20	nummod	_	_
 20	_	_	NOUN	NNS	_	21	nmod:npmod	_	_
 21	_	_	ADV	RB	_	18	advmod	_	_
-22	_	_	PUNCT	,	_	21	punct	_	_
+22	_	_	PUNCT	,	_	3	punct	_	_
 23	_	_	ADV	RB	_	28	advmod	_	_
 24	_	_	ADP	IN	_	25	case	_	_
-25	_	_	DET	DT	_	23	det	_	_
-26	_	_	PUNCT	,	_	25	punct	_	_
+25	_	_	DET	DT	_	23	nmod	_	_
+26	_	_	PUNCT	,	_	28	punct	_	_
 27	_	_	PRON	PRP	_	28	nsubj	_	_
 28	_	_	VERB	VBD	_	3	parataxis	_	_
 29	_	_	ADP	IN	_	31	case	_	_
@@ -5814,7 +5814,7 @@
 38	_	_	ADP	IN	_	40	case	_	_
 39	_	_	DET	DT	_	40	det	_	_
 40	_	_	NOUN	NN	_	37	nmod	_	_
-41	_	_	PUNCT	,	_	40	punct	_	_
+41	_	_	PUNCT	,	_	35	punct	_	_
 42	_	_	CONJ	CC	_	35	cc	_	_
 43	_	_	DET	DT	_	44	det	_	_
 44	_	_	NOUN	NN	_	49	nsubj	_	_
@@ -5829,7 +5829,7 @@
 53	_	_	VERB	VBD	_	55	cop	_	_
 54	_	_	ADV	RB	_	55	advmod	_	_
 55	_	_	ADJ	JJ	_	49	conj	_	_
-56	_	_	PUNCT	.	_	28	punct	_	_
+56	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0100_2000_12/doc928.xml 10
 #SENT=
@@ -5982,7 +5982,7 @@
 12	_	_	NOUN	NN	_	6	nmod	_	_
 13	_	_	PUNCT	,	_	12	punct	_	_
 14	_	_	NOUN	NN	_	12	list	_	_
-15	_	_	PUNCT	,	_	14	punct	_	_
+15	_	_	PUNCT	,	_	12	punct	_	_
 16	_	_	NOUN	NN	_	12	list	_	_
 17	_	_	ADV	RB	_	5	advmod	_	_
 18	_	_	ADV	RB	_	17	mwe	_	_
@@ -6099,7 +6099,7 @@
 3	_	_	AUX	VB	_	4	auxpass	_	_
 4	_	_	VERB	VBN	_	0	root	_	_
 5	_	_	DET	DT	_	7	det	_	_
-6	_	_	NOUN	NN	_	7	goeswith	_	_
+6	_	_	X	GW	_	7	goeswith	_	_
 7	_	_	NOUN	NN	_	4	dobj	_	_
 8	_	_	ADV	RB	_	4	advmod	_	_
 9	_	_	PUNCT	.	_	4	punct	_	_
@@ -6154,7 +6154,7 @@
 23	_	_	VERB	VBG	_	18	acl	_	_
 24	_	_	DET	DT	_	25	det	_	_
 25	_	_	NOUN	NN	_	23	dobj	_	_
-26	_	_	PUNCT	,	_	23	punct	_	_
+26	_	_	PUNCT	,	_	18	punct	_	_
 27	_	_	ADP	IN	_	28	case	_	_
 28	_	_	NOUN	NN	_	18	nmod	_	_
 29	_	_	ADV	RB	_	31	advmod	_	_
@@ -6291,10 +6291,10 @@
 29	_	_	NOUN	NNS	_	15	conj	_	_
 30	_	_	PUNCT	,	_	29	punct	_	_
 31	_	_	SCONJ	IN	_	41	mark	_	_
-32	_	_	PUNCT	``	_	41	punct	_	_
+32	_	_	PUNCT	``	_	34	punct	_	_
 33	_	_	DET	DT	_	34	det	_	_
 34	_	_	ADJ	JJ	_	41	nsubj	_	_
-35	_	_	PUNCT	''	_	41	punct	_	_
+35	_	_	PUNCT	''	_	34	punct	_	_
 36	_	_	VERB	VBZ	_	41	cop	_	_
 37	_	_	ADV	RB	_	41	advmod	_	_
 38	_	_	ADP	IN	_	41	case	_	_
@@ -6661,7 +6661,7 @@
 9	_	_	CONJ	CC	_	8	cc	_	_
 10	_	_	NOUN	NN	_	8	conj	_	_
 11	_	_	ADJ	JJ	_	10	amod	_	_
-12	_	_	PUNCT	,	_	3	punct	_	_
+12	_	_	PUNCT	,	_	15	punct	_	_
 13	_	_	AUX	VBP	_	15	aux	_	_
 14	_	_	PART	RB	_	15	neg	_	_
 15	_	_	VERB	VB	_	0	root	_	_
@@ -6702,7 +6702,7 @@
 6	_	_	ADP	IN	_	8	case	_	_
 7	_	_	DET	DT	_	8	det	_	_
 8	_	_	NOUN	NN	_	3	nmod	_	_
-9	_	_	ADP	IN	_	10	mark	_	_
+9	_	_	ADP	IN	_	10	case	_	_
 10	_	_	NOUN	NN	_	8	nmod	_	_
 11	_	_	PUNCT	,	_	3	punct	_	_
 12	_	_	ADP	IN	_	14	case	_	_
@@ -6748,7 +6748,7 @@
 7	_	_	NOUN	NNS	_	9	nmod:poss	_	_
 8	_	_	PART	POS	_	7	case	_	_
 9	_	_	NOUN	NNS	_	5	dobj	_	_
-10	_	_	PUNCT	,	_	9	punct	_	_
+10	_	_	PUNCT	,	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc1792.xml 6
 #SENT=
@@ -6778,7 +6778,7 @@
 6	_	_	PRON	PRP	_	7	nsubj	_	_
 7	_	_	VERB	VBP	_	4	acl	_	_
 8	_	_	NOUN	NN	_	7	dobj	_	_
-9	_	_	PUNCT	,	_	8	punct	_	_
+9	_	_	PUNCT	,	_	4	punct	_	_
 10	_	_	ADV	RB	_	4	advmod	_	_
 11	_	_	ADV	RB	_	10	mwe	_	_
 12	_	_	PUNCT	.	_	4	punct	_	_
@@ -6816,9 +6816,9 @@
 29	_	_	PRON	PRP	_	31	nsubj	_	_
 30	_	_	AUX	MD	_	31	aux	_	_
 31	_	_	VERB	VB	_	4	advcl	_	_
-32	_	_	PART	TO	_	34	mark	_	_
-33	_	_	AUX	VB	_	34	aux	_	_
-34	_	_	VERB	VBG	_	31	xcomp	_	_
+32	_	_	PART	TO	_	33	mark	_	_
+33	_	_	VERB	VB	_	31	xcomp	_	_
+34	_	_	NOUN	NN	_	33	dobj	_	_
 35	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0100_2000_12/doc2638.xml 8
@@ -6923,23 +6923,23 @@
 
 #ID=/0102_2000_6/doc1110.xml 16
 #SENT=
-1	_	_	ADV	RB	_	8	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+1	_	_	ADV	RB	_	7	advmod	_	_
+2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	ADP	IN	_	4	case	_	_
-4	_	_	PROPN	NNP	_	8	nmod	_	_
-5	_	_	PRON	PRP	_	8	expl	_	_
-6	_	_	AUX	VBD	_	8	aux	_	_
-7	_	_	VERB	VBD	_	8	cop	_	_
-8	_	_	ADJ	JJR	_	0	root	_	_
+4	_	_	PROPN	NNP	_	7	nmod	_	_
+5	_	_	PRON	PRP	_	7	expl	_	_
+6	_	_	AUX	VBD	_	7	aux	_	_
+7	_	_	VERB	VBD	_	0	root	_	_
+8	_	_	ADJ	JJR	_	7	xcomp	_	_
 9	_	_	PART	TO	_	10	mark	_	_
-10	_	_	VERB	VB	_	8	csubj	_	_
+10	_	_	VERB	VB	_	7	csubj	_	_
 11	_	_	DET	DT	_	13	det	_	_
 12	_	_	NOUN	NN	_	13	compound	_	_
 13	_	_	NOUN	NNS	_	10	dobj	_	_
-14	_	_	CONJ	CC	_	8	cc	_	_
+14	_	_	CONJ	CC	_	7	cc	_	_
 15	_	_	PRON	PRP	_	17	nsubj	_	_
 16	_	_	ADV	RB	_	17	advmod	_	_
-17	_	_	VERB	VBP	_	8	conj	_	_
+17	_	_	VERB	VBP	_	7	conj	_	_
 18	_	_	PART	TO	_	19	mark	_	_
 19	_	_	VERB	VB	_	17	xcomp	_	_
 20	_	_	ADP	IN	_	22	case	_	_
@@ -6956,7 +6956,7 @@
 31	_	_	ADJ	JJ	_	33	amod	_	_
 32	_	_	NOUN	NN	_	33	compound	_	_
 33	_	_	NOUN	NN	_	28	nmod	_	_
-34	_	_	PUNCT	.	_	8	punct	_	_
+34	_	_	PUNCT	.	_	7	punct	_	_
 
 #ID=/0100_2000_12/doc2305.xml 15
 #SENT=
@@ -7014,7 +7014,7 @@
 9	_	_	DET	DT	_	11	det	_	_
 10	_	_	NOUN	NN	_	11	compound	_	_
 11	_	_	NOUN	NN	_	7	nmod	_	_
-12	_	_	PUNCT	,	_	3	punct	_	_
+12	_	_	PUNCT	,	_	11	punct	_	_
 13	_	_	ADP	IN	_	14	case	_	_
 14	_	_	NOUN	NN	_	11	nmod	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
@@ -7055,7 +7055,7 @@
 4	_	_	PRON	PRP	_	5	nsubj	_	_
 5	_	_	AUX	MD	_	6	aux	_	_
 6	_	_	VERB	VB	_	0	root	_	_
-7	_	_	NOUN	NN	_	6	dobj	_	_
+7	_	_	VERB	VBG	_	6	xcomp	_	_
 8	_	_	CONJ	CC	_	7	cc	_	_
 9	_	_	CONJ	CC	_	7	conj	_	_
 10	_	_	PUNCT	.	_	6	punct	_	_
@@ -7268,7 +7268,7 @@
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	6	advcl	_	_
-4	_	_	PUNCT	,	_	3	punct	_	_
+4	_	_	PUNCT	,	_	6	punct	_	_
 5	_	_	PRON	PRP	_	6	nsubj	_	_
 6	_	_	VERB	VBD	_	0	root	_	_
 7	_	_	DET	DT	_	9	det	_	_
@@ -7350,7 +7350,7 @@
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	NOUN	NN	_	2	dobj	_	_
-4	_	_	ADP	IN	_	5	mark	_	_
+4	_	_	SCONJ	IN	_	5	mark	_	_
 5	_	_	VERB	VBG	_	3	acl	_	_
 6	_	_	CONJ	CC	_	5	cc	_	_
 7	_	_	VERB	VBG	_	5	conj	_	_
@@ -7372,11 +7372,11 @@
 #ID=/0102_2000_6/doc1320.xml 11
 #SENT=
 1	_	_	ADV	RB	_	9	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	9	punct	_	_
 3	_	_	ADP	IN	_	5	case	_	_
 4	_	_	DET	DT	_	5	det	_	_
 5	_	_	NOUN	NN	_	9	nmod	_	_
-6	_	_	PUNCT	,	_	5	punct	_	_
+6	_	_	PUNCT	,	_	9	punct	_	_
 7	_	_	PRON	PRP	_	9	nsubj	_	_
 8	_	_	AUX	MD	_	9	aux	_	_
 9	_	_	VERB	VB	_	0	root	_	_
@@ -7397,15 +7397,15 @@
 24	_	_	PUNCT	,	_	29	punct	_	_
 25	_	_	ADV	RB	_	29	advmod	_	_
 26	_	_	ADV	RB	_	25	mwe	_	_
-27	_	_	PUNCT	,	_	26	punct	_	_
+27	_	_	PUNCT	,	_	29	punct	_	_
 28	_	_	VERB	VBD	_	29	cop	_	_
 29	_	_	ADJ	JJ	_	20	acl:relcl	_	_
 30	_	_	ADP	IN	_	33	case	_	_
 31	_	_	DET	DT	_	33	det	_	_
 32	_	_	ADJ	JJ	_	33	amod	_	_
 33	_	_	NOUN	NN	_	29	nmod	_	_
-34	_	_	PUNCT	.	_	29	punct	_	_
-35	_	_	PUNCT	-RRB-	_	29	punct	_	_
+34	_	_	PUNCT	.	_	9	punct	_	_
+35	_	_	PUNCT	-RRB-	_	9	punct	_	_
 
 #ID=/0100_2001_6/doc3096.xml 14
 #SENT=
@@ -7471,7 +7471,7 @@
 14	_	_	VERB	VB	_	16	cop	_	_
 15	_	_	ADV	RB	_	16	advmod	_	_
 16	_	_	NOUN	NN	_	8	conj	_	_
-17	_	_	ADP	IN	_	20	mark	_	_
+17	_	_	SCONJ	IN	_	20	mark	_	_
 18	_	_	ADV	RB	_	20	advmod	_	_
 19	_	_	AUX	VBN	_	20	auxpass	_	_
 20	_	_	VERB	VBN	_	16	advcl	_	_
@@ -7527,12 +7527,12 @@
 #SENT=
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NNS	_	3	nmod:npmod	_	_
-3	_	_	ADP	IN	_	6	mark	_	_
+3	_	_	SCONJ	IN	_	6	mark	_	_
 4	_	_	PRON	PRP	_	6	nsubj	_	_
 5	_	_	AUX	VBD	_	6	aux	_	_
 6	_	_	VERB	VBG	_	10	advcl	_	_
 7	_	_	PRON	PRP	_	6	dobj	_	_
-8	_	_	PUNCT	,	_	6	punct	_	_
+8	_	_	PUNCT	,	_	10	punct	_	_
 9	_	_	PRON	PRP	_	10	nsubj	_	_
 10	_	_	VERB	VBP	_	0	root	_	_
 11	_	_	VERB	VBG	_	10	xcomp	_	_
@@ -7572,7 +7572,7 @@
 21	_	_	PRON	PRP	_	20	dobj	_	_
 22	_	_	DET	DT	_	23	det	_	_
 23	_	_	NOUN	NN	_	20	nmod:tmod	_	_
-24	_	_	ADP	IN	_	20	case	_	_
+24	_	_	ADP	IN	_	26	case	_	_
 25	_	_	DET	DT	_	26	det	_	_
 26	_	_	NOUN	NN	_	20	nmod	_	_
 27	_	_	ADP	IN	_	31	case	_	_
@@ -7708,7 +7708,7 @@
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
 4	_	_	NOUN	NN	_	10	nmod	_	_
-5	_	_	PUNCT	,	_	4	punct	_	_
+5	_	_	PUNCT	,	_	10	punct	_	_
 6	_	_	NOUN	NNS	_	10	nsubj	_	_
 7	_	_	CONJ	CC	_	6	cc	_	_
 8	_	_	NOUN	NNS	_	6	conj	_	_
@@ -7950,7 +7950,7 @@
 2	_	_	ADV	RB	_	4	advmod	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
 4	_	_	VERB	VBD	_	0	root	_	_
-5	_	_	PUNCT	``	_	4	punct	_	_
+5	_	_	PUNCT	``	_	30	punct	_	_
 6	_	_	SCONJ	IN	_	8	mark	_	_
 7	_	_	PRON	PRP	_	8	nsubj	_	_
 8	_	_	VERB	VB	_	30	advcl	_	_
@@ -7959,7 +7959,7 @@
 11	_	_	AUX	MD	_	13	aux	_	_
 12	_	_	PART	RB	_	13	neg	_	_
 13	_	_	VERB	VB	_	8	ccomp	_	_
-14	_	_	ADP	RP	_	13	compound:prt	_	_
+14	_	_	ADP	IN	_	17	case	_	_
 15	_	_	ADP	IN	_	17	case	_	_
 16	_	_	DET	DT	_	17	det	_	_
 17	_	_	NOUN	NN	_	13	nmod	_	_
@@ -7982,7 +7982,7 @@
 34	_	_	ADP	IN	_	36	case	_	_
 35	_	_	DET	PRP$	_	36	nmod:poss	_	_
 36	_	_	NOUN	NN	_	30	nmod	_	_
-37	_	_	PUNCT	''	_	4	punct	_	_
+37	_	_	PUNCT	''	_	30	punct	_	_
 38	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0102_2000_6/doc1496.xml 6
@@ -8010,7 +8010,7 @@
 21	_	_	NOUN	NN	_	18	nmod	_	_
 22	_	_	ADP	IN	_	23	case	_	_
 23	_	_	NOUN	NNS	_	21	nmod	_	_
-24	_	_	PUNCT	,	_	23	punct	_	_
+24	_	_	PUNCT	,	_	26	punct	_	_
 25	_	_	AUX	VBD	_	26	auxpass	_	_
 26	_	_	VERB	VBN	_	5	advcl	_	_
 27	_	_	PUNCT	.	_	3	punct	_	_
@@ -8033,7 +8033,7 @@
 14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	9	nmod	_	_
-17	_	_	PUNCT	.	_	2	punct	_	_
+17	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0102_2000_6/doc2349.xml 22
 #SENT=
@@ -8062,11 +8062,11 @@
 3	_	_	VERB	VBG	_	0	root	_	_
 4	_	_	ADJ	JJ	_	5	amod	_	_
 5	_	_	NOUN	NNS	_	3	dobj	_	_
-6	_	_	ADP	IN	_	7	mark	_	_
+6	_	_	SCONJ	IN	_	7	mark	_	_
 7	_	_	VERB	VBG	_	5	acl	_	_
 8	_	_	NOUN	NN	_	7	dobj	_	_
 9	_	_	ADP	IN	_	10	mark	_	_
-10	_	_	VERB	VBG	_	5	acl	_	_
+10	_	_	SCONJ	VBG	_	5	acl	_	_
 11	_	_	NOUN	NNS	_	10	dobj	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
@@ -8110,7 +8110,7 @@
 21	_	_	ADJ	JJ	_	2	parataxis	_	_
 22	_	_	CONJ	CC	_	21	cc	_	_
 23	_	_	ADJ	JJ	_	21	conj	_	_
-24	_	_	PUNCT	,	_	21	punct	_	_
+24	_	_	PUNCT	,	_	2	punct	_	_
 25	_	_	CONJ	CC	_	2	cc	_	_
 26	_	_	PRON	PRP	_	32	nsubj	_	_
 27	_	_	AUX	MD	_	32	aux	_	_
@@ -8124,7 +8124,7 @@
 #ID=/0100_2000_6/doc1780.xml 27
 #SENT=
 1	_	_	ADV	RB	_	7	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	DET	DT	_	6	det	_	_
 4	_	_	ADV	RBS	_	5	advmod	_	_
 5	_	_	ADJ	JJ	_	6	amod	_	_
@@ -8265,7 +8265,7 @@
 7	_	_	PRON	PRP	_	9	nsubj	_	_
 8	_	_	AUX	VBD	_	9	aux	_	_
 9	_	_	VERB	VBN	_	5	acl:relcl	_	_
-10	_	_	PUNCT	,	_	2	punct	_	_
+10	_	_	PUNCT	,	_	20	punct	_	_
 11	_	_	DET	DT	_	12	det	_	_
 12	_	_	NOUN	NN	_	20	nsubj	_	_
 13	_	_	DET	WDT	_	16	nsubjpass	_	_
@@ -8295,7 +8295,7 @@
 37	_	_	ADP	IN	_	39	case	_	_
 38	_	_	DET	DT	_	39	det	_	_
 39	_	_	NOUN	NN	_	36	nmod	_	_
-40	_	_	PUNCT	,	_	36	punct	_	_
+40	_	_	PUNCT	,	_	43	punct	_	_
 41	_	_	PRON	PRP	_	43	nsubj	_	_
 42	_	_	ADV	RB	_	43	advmod	_	_
 43	_	_	VERB	VBP	_	20	conj	_	_
@@ -8398,7 +8398,7 @@
 5	_	_	NUM	CD	_	6	nummod	_	_
 6	_	_	NOUN	NNS	_	7	nmod:tmod	_	_
 7	_	_	ADV	RB	_	2	advmod	_	_
-8	_	_	PUNCT	,	_	7	punct	_	_
+8	_	_	PUNCT	,	_	2	punct	_	_
 9	_	_	CONJ	CC	_	2	cc	_	_
 10	_	_	PRON	PRP	_	13	nsubj	_	_
 11	_	_	VERB	VBD	_	13	cop	_	_
@@ -8531,7 +8531,7 @@
 15	_	_	VERB	VB	_	3	parataxis	_	_
 16	_	_	DET	DT	_	17	det	_	_
 17	_	_	NOUN	NN	_	15	dobj	_	_
-18	_	_	PUNCT	.	_	15	punct	_	_
+18	_	_	PUNCT	.	_	3	punct	_	_
 
 #ID=/0102_2000_6/doc1201.xml 4
 #SENT=
@@ -8546,7 +8546,7 @@
 9	_	_	AUX	VBD	_	10	aux	_	_
 10	_	_	VERB	VBG	_	0	root	_	_
 11	_	_	NOUN	NNS	_	10	dobj	_	_
-12	_	_	ADJ	JJ	_	11	amod	_	_
+12	_	_	ADJ	JJ	_	10	xcomp	_	_
 13	_	_	PUNCT	,	_	10	punct	_	_
 14	_	_	ADV	RB	_	17	advmod	_	_
 15	_	_	PUNCT	,	_	17	punct	_	_
@@ -8611,7 +8611,7 @@
 18	_	_	DET	DT	_	20	det	_	_
 19	_	_	NOUN	NN	_	20	compound	_	_
 20	_	_	NOUN	NN	_	13	nmod	_	_
-21	_	_	PUNCT	,	_	16	punct	_	_
+21	_	_	PUNCT	,	_	13	punct	_	_
 22	_	_	SCONJ	IN	_	26	mark	_	_
 23	_	_	PRON	PRP	_	26	nsubj	_	_
 24	_	_	AUX	MD	_	26	aux	_	_
@@ -8628,7 +8628,7 @@
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	nmod	_	_
-4	_	_	PUNCT	,	_	3	punct	_	_
+4	_	_	PUNCT	,	_	6	punct	_	_
 5	_	_	PRON	PRP	_	6	nsubj	_	_
 6	_	_	VERB	VBD	_	0	root	_	_
 7	_	_	PART	TO	_	8	mark	_	_
@@ -8731,7 +8731,7 @@
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
 4	_	_	NOUN	NN	_	7	nmod	_	_
-5	_	_	PUNCT	,	_	4	punct	_	_
+5	_	_	PUNCT	,	_	7	punct	_	_
 6	_	_	PRON	EX	_	7	expl	_	_
 7	_	_	VERB	VBP	_	0	root	_	_
 8	_	_	ADJ	JJ	_	10	amod	_	_
@@ -8748,7 +8748,7 @@
 #ID=/0100_2000_6/doc958.xml 14
 #SENT=
 1	_	_	PRON	PRP	_	6	nsubj	_	_
-2	_	_	VERB	VBP	_	6	aux	_	_
+2	_	_	VERB	VBP	_	6	cop	_	_
 3	_	_	ADV	RB	_	6	advmod	_	_
 4	_	_	PART	RB	_	6	neg	_	_
 5	_	_	ADV	RB	_	6	advmod	_	_
@@ -8772,7 +8772,7 @@
 1	_	_	VERB	VBG	_	7	advcl	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	1	dobj	_	_
-4	_	_	PUNCT	,	_	1	punct	_	_
+4	_	_	PUNCT	,	_	7	punct	_	_
 5	_	_	PRON	PRP	_	7	nsubj	_	_
 6	_	_	AUX	MD	_	7	aux	_	_
 7	_	_	VERB	VB	_	0	root	_	_
@@ -8817,10 +8817,10 @@
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	NUM	CD	_	4	nummod	_	_
 4	_	_	SYM	NN	_	10	nsubj	_	_
-5	_	_	PUNCT	-LRB-	_	4	punct	_	_
-6	_	_	SYM	NN	_	4	appos	_	_
+5	_	_	PUNCT	-LRB-	_	6	punct	_	_
+6	_	_	SYM	$	_	4	appos	_	_
 7	_	_	NUM	CD	_	6	nummod	_	_
-8	_	_	PUNCT	-RRB-	_	4	punct	_	_
+8	_	_	PUNCT	-RRB-	_	6	punct	_	_
 9	_	_	VERB	VBZ	_	10	cop	_	_
 10	_	_	ADJ	JJ	_	2	ccomp	_	_
 11	_	_	PUNCT	.	_	2	punct	_	_
@@ -8944,7 +8944,7 @@
 #ID=/0100_2000_6/doc2594.xml 17
 #SENT=
 1	_	_	SCONJ	IN	_	6	mark	_	_
-2	_	_	SCONJ	IN	_	6	mark	_	_
+2	_	_	SCONJ	IN	_	1	mwe	_	_
 3	_	_	DET	DT	_	6	nsubj	_	_
 4	_	_	VERB	VBD	_	6	cop	_	_
 5	_	_	PART	RB	_	6	neg	_	_
@@ -9044,7 +9044,7 @@
 7	_	_	ADJ	JJ	_	0	root	_	_
 8	_	_	ADP	IN	_	9	case	_	_
 9	_	_	PRON	PRP	_	7	expl	_	_
-10	_	_	PUNCT	,	_	9	punct	_	_
+10	_	_	PUNCT	,	_	7	punct	_	_
 11	_	_	ADV	RB	_	12	advmod	_	_
 12	_	_	NOUN	NN	_	1	nmod	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
@@ -9056,7 +9056,7 @@
 3	_	_	PRON	PRP	_	4	nsubj	_	_
 4	_	_	VERB	VBD	_	0	root	_	_
 5	_	_	DET	DT	_	8	det	_	_
-6	_	_	SYM	SYM	_	8	compound	_	_
+6	_	_	SYM	$	_	8	compound	_	_
 7	_	_	NUM	CD	_	6	nummod	_	_
 8	_	_	NOUN	NN	_	4	dobj	_	_
 9	_	_	ADP	IN	_	11	case	_	_
@@ -9069,7 +9069,7 @@
 16	_	_	NOUN	NN	_	18	nsubj	_	_
 17	_	_	VERB	VBZ	_	18	cop	_	_
 18	_	_	ADJ	JJ	_	15	ccomp	_	_
-19	_	_	PUNCT	.	_	15	punct	_	_
+19	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0102_2000_6/doc1628.xml 1
 #SENT=
@@ -9230,7 +9230,7 @@
 2	_	_	VERB	VBZ	_	8	advcl	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
 4	_	_	NOUN	NNS	_	2	dobj	_	_
-5	_	_	PUNCT	,	_	2	punct	_	_
+5	_	_	PUNCT	,	_	8	punct	_	_
 6	_	_	PRON	PRP	_	8	nsubj	_	_
 7	_	_	AUX	MD	_	8	aux	_	_
 8	_	_	VERB	VB	_	0	root	_	_
@@ -9239,7 +9239,7 @@
 11	_	_	ADP	IN	_	12	case	_	_
 12	_	_	PROPN	NNP	_	10	nmod	_	_
 13	_	_	SCONJ	IN	_	20	mark	_	_
-14	_	_	ADP	IN	_	16	mark	_	_
+14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	20	nmod	_	_
 17	_	_	PRON	PRP	_	20	nsubj	_	_
@@ -9312,7 +9312,7 @@
 
 #ID=/0102_2000_6/doc2701.xml 5
 #SENT=
-1	_	_	DET	EX	_	2	expl	_	_
+1	_	_	PRON	EX	_	2	expl	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
 4	_	_	NOUN	NN	_	2	nsubj	_	_
@@ -9428,7 +9428,7 @@
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NNS	_	7	nmod	_	_
-4	_	_	PUNCT	,	_	3	punct	_	_
+4	_	_	PUNCT	,	_	7	punct	_	_
 5	_	_	PRON	EX	_	7	expl	_	_
 6	_	_	AUX	MD	_	7	aux	_	_
 7	_	_	VERB	VB	_	0	root	_	_
@@ -9507,7 +9507,7 @@
 5	_	_	ADJ	JJ	_	6	amod	_	_
 6	_	_	NOUN	NN	_	7	nsubj	_	_
 7	_	_	VERB	VBZ	_	0	root	_	_
-8	_	_	PUNCT	,	_	10	punct	_	_
+8	_	_	PUNCT	,	_	7	punct	_	_
 9	_	_	SCONJ	IN	_	10	mark	_	_
 10	_	_	VERB	VBG	_	23	advcl	_	_
 11	_	_	NOUN	NN	_	10	dobj	_	_
@@ -9520,7 +9520,7 @@
 18	_	_	ADP	IN	_	20	case	_	_
 19	_	_	DET	PDT	_	20	det:predet	_	_
 20	_	_	DET	DT	_	17	nmod	_	_
-21	_	_	PUNCT	,	_	10	punct	_	_
+21	_	_	PUNCT	,	_	23	punct	_	_
 22	_	_	PRON	PRP	_	23	nsubj	_	_
 23	_	_	VERB	VBP	_	7	ccomp	_	_
 24	_	_	SCONJ	IN	_	26	mark	_	_
@@ -9599,8 +9599,8 @@
 
 #ID=/0102_2000_12/doc107.xml 27
 #SENT=
-1	_	_	ADP	IN	_	8	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+1	_	_	ADV	RB	_	8	advmod	_	_
+2	_	_	PUNCT	,	_	8	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
 4	_	_	NOUN	NN	_	8	nsubj	_	_
 5	_	_	ADP	IN	_	6	case	_	_
@@ -9612,14 +9612,14 @@
 11	_	_	VERB	VBZ	_	13	cop	_	_
 12	_	_	DET	DT	_	13	det	_	_
 13	_	_	NOUN	NN	_	8	parataxis	_	_
-14	_	_	PUNCT	.	_	13	punct	_	_
+14	_	_	PUNCT	.	_	8	punct	_	_
 
 #ID=/0100_2001_6/doc3253.xml 7
 #SENT=
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	7	nmod	_	_
-4	_	_	PUNCT	,	_	3	punct	_	_
+4	_	_	PUNCT	,	_	7	punct	_	_
 5	_	_	PRON	PRP	_	7	nsubj	_	_
 6	_	_	AUX	VBP	_	7	aux	_	_
 7	_	_	VERB	VBG	_	0	root	_	_
@@ -9641,7 +9641,7 @@
 23	_	_	PRON	PRP	_	25	nsubj	_	_
 24	_	_	AUX	VBP	_	25	aux	_	_
 25	_	_	VERB	VBG	_	7	conj	_	_
-26	_	_	PART	TO	_	27	case	_	_
+26	_	_	PART	TO	_	27	mark	_	_
 27	_	_	VERB	VB	_	25	xcomp	_	_
 28	_	_	ADP	IN	_	31	case	_	_
 29	_	_	DET	DT	_	31	det	_	_
@@ -9809,7 +9809,7 @@
 31	_	_	VERB	VB	_	28	acl:relcl	_	_
 32	_	_	ADP	IN	_	33	case	_	_
 33	_	_	NUM	CD	_	31	nmod	_	_
-34	_	_	PUNCT	,	_	28	punct	_	_
+34	_	_	PUNCT	,	_	26	punct	_	_
 35	_	_	SCONJ	IN	_	39	mark	_	_
 36	_	_	PRON	PRP	_	39	nsubj	_	_
 37	_	_	AUX	MD	_	39	aux	_	_
@@ -9828,7 +9828,7 @@
 6	_	_	PRON	PRP	_	7	nsubj	_	_
 7	_	_	VERB	VBD	_	0	root	_	_
 8	_	_	NOUN	NNS	_	7	dobj	_	_
-9	_	_	PUNCT	,	_	7	punct	_	_
+9	_	_	PUNCT	,	_	8	punct	_	_
 10	_	_	VERB	VBN	_	8	acl	_	_
 11	_	_	ADP	IN	_	12	case	_	_
 12	_	_	NOUN	NN	_	10	nmod	_	_
@@ -9891,7 +9891,7 @@
 15	_	_	PUNCT	,	_	13	punct	_	_
 16	_	_	VERB	VBD	_	13	conj	_	_
 17	_	_	ADV	RB	_	16	advmod	_	_
-18	_	_	PUNCT	,	_	19	punct	_	_
+18	_	_	PUNCT	,	_	13	punct	_	_
 19	_	_	VERB	VBD	_	13	conj	_	_
 20	_	_	PRON	PRP	_	19	dobj	_	_
 21	_	_	ADP	IN	_	23	case	_	_
@@ -9917,7 +9917,7 @@
 
 #ID=/0100_2000_6/doc231.xml 22
 #SENT=
-1	_	_	ADP	IN	_	4	mark	_	_
+1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	NOUN	NN	_	4	nsubj	_	_
 4	_	_	VERB	VBD	_	9	advcl	_	_
@@ -10042,7 +10042,7 @@
 17	_	_	PART	RB	_	19	neg	_	_
 18	_	_	ADV	RB	_	19	advmod	_	_
 19	_	_	ADJ	JJ	_	9	advcl	_	_
-20	_	_	ADP	IN	_	21	mark	_	_
+20	_	_	SCONJ	IN	_	21	mark	_	_
 21	_	_	VERB	VBG	_	19	advcl	_	_
 22	_	_	NOUN	NNS	_	21	dobj	_	_
 23	_	_	PUNCT	.	_	9	punct	_	_
@@ -10061,11 +10061,11 @@
 10	_	_	VERB	VB	_	2	advcl	_	_
 11	_	_	DET	DT	_	12	det	_	_
 12	_	_	NOUN	NN	_	10	dobj	_	_
-13	_	_	PUNCT	``	_	12	punct	_	_
+13	_	_	PUNCT	``	_	16	punct	_	_
 14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	12	appos	_	_
-17	_	_	PUNCT	''	_	2	punct	_	_
+17	_	_	PUNCT	''	_	16	punct	_	_
 18	_	_	CONJ	CC	_	2	cc	_	_
 19	_	_	PRON	PRP	_	21	nsubj	_	_
 20	_	_	AUX	MD	_	21	aux	_	_
@@ -10080,13 +10080,13 @@
 #ID=/0102_2000_6/doc212.xml 20
 #SENT=
 1	_	_	ADV	RB	_	10	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	10	punct	_	_
 3	_	_	ADV	RB	_	5	advmod	_	_
 4	_	_	PRON	PRP	_	5	nsubj	_	_
 5	_	_	VERB	VBP	_	10	advcl	_	_
 6	_	_	DET	PRP$	_	7	nmod:poss	_	_
 7	_	_	NOUN	NN	_	5	dobj	_	_
-8	_	_	PUNCT	,	_	7	punct	_	_
+8	_	_	PUNCT	,	_	10	punct	_	_
 9	_	_	PRON	PRP	_	10	nsubj	_	_
 10	_	_	VERB	VBP	_	0	root	_	_
 11	_	_	DET	PRP$	_	12	nmod:poss	_	_
@@ -10095,14 +10095,14 @@
 14	_	_	DET	PRP$	_	15	nmod:poss	_	_
 15	_	_	NOUN	NN	_	10	nmod	_	_
 16	_	_	CONJ	CC	_	10	cc	_	_
-17	_	_	PUNCT	,	_	16	punct	_	_
+17	_	_	PUNCT	,	_	10	punct	_	_
 18	_	_	SCONJ	IN	_	20	mark	_	_
 19	_	_	PRON	PRP	_	20	nsubj	_	_
 20	_	_	VERB	VBP	_	26	advcl	_	_
 21	_	_	DET	DT	_	23	det	_	_
 22	_	_	ADJ	JJ	_	23	amod	_	_
 23	_	_	NOUN	NN	_	20	dobj	_	_
-24	_	_	PUNCT	,	_	23	punct	_	_
+24	_	_	PUNCT	,	_	26	punct	_	_
 25	_	_	PRON	PRP	_	26	nsubj	_	_
 26	_	_	VERB	VBP	_	10	conj	_	_
 27	_	_	DET	PRP$	_	29	nmod:poss	_	_
@@ -10143,7 +10143,7 @@
 11	_	_	PRON	PRP	_	10	dobj	_	_
 12	_	_	ADV	RB	_	13	advmod	_	_
 13	_	_	ADV	RB	_	10	advmod	_	_
-14	_	_	PUNCT	,	_	10	punct	_	_
+14	_	_	PUNCT	,	_	7	punct	_	_
 15	_	_	ADV	RB	_	18	advmod	_	_
 16	_	_	AUX	MD	_	18	aux	_	_
 17	_	_	PRON	PRP	_	18	nsubj	_	_
@@ -10446,11 +10446,11 @@
 10	_	_	NOUN	NN	_	11	compound	_	_
 11	_	_	NOUN	NN	_	7	nmod	_	_
 12	_	_	VERB	VBN	_	11	acl	_	_
-13	_	_	PUNCT	``	_	11	punct	_	_
+13	_	_	PUNCT	``	_	16	punct	_	_
 14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	12	xcomp	_	_
-17	_	_	PUNCT	''	_	11	punct	_	_
+17	_	_	PUNCT	''	_	16	punct	_	_
 
 #ID=/0100_2000_6/doc2442.xml 20
 #SENT=
@@ -10509,7 +10509,7 @@
 6	_	_	VERB	VBZ	_	0	root	_	_
 7	_	_	SCONJ	IN	_	15	mark	_	_
 8	_	_	NOUN	NNS	_	15	nsubj	_	_
-9	_	_	ADP	IN	_	10	mark	_	_
+9	_	_	SCONJ	IN	_	10	mark	_	_
 10	_	_	VERB	VBG	_	8	acl	_	_
 11	_	_	NOUN	NN	_	10	dobj	_	_
 12	_	_	CONJ	CC	_	10	cc	_	_
@@ -10523,9 +10523,9 @@
 20	_	_	ADP	IN	_	21	case	_	_
 21	_	_	NOUN	NN	_	19	nmod	_	_
 22	_	_	AUX	VBP	_	24	aux	_	_
-23	_	_	VERB	VBG	_	24	auxpass	_	_
+23	_	_	AUX	VBG	_	24	auxpass	_	_
 24	_	_	VERB	VBN	_	15	conj	_	_
-25	_	_	PUNCT	,	_	24	punct	_	_
+25	_	_	PUNCT	,	_	15	punct	_	_
 26	_	_	SCONJ	IN	_	29	mark	_	_
 27	_	_	DET	DT	_	28	det	_	_
 28	_	_	NOUN	NNS	_	29	nsubj	_	_
@@ -10540,7 +10540,7 @@
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
 4	_	_	VERB	VB	_	0	root	_	_
-5	_	_	ADP	IN	_	6	mark	_	_
+5	_	_	SCONJ	IN	_	6	mark	_	_
 6	_	_	VERB	VBG	_	4	advcl	_	_
 7	_	_	NUM	CD	_	8	nummod	_	_
 8	_	_	NOUN	NNS	_	6	nmod	_	_
@@ -10552,7 +10552,7 @@
 14	_	_	PUNCT	``	_	16	punct	_	_
 15	_	_	PROPN	NNP	_	16	compound	_	_
 16	_	_	PROPN	NNP	_	12	nmod	_	_
-17	_	_	PUNCT	''	_	4	punct	_	_
+17	_	_	PUNCT	''	_	16	punct	_	_
 18	_	_	PUNCT	.	_	4	punct	_	_
 
 #ID=/0100_2001_6/doc3122.xml 6
@@ -10618,7 +10618,7 @@
 #ID=/0100_2000_6/doc2218.xml 10
 #SENT=
 1	_	_	ADV	RB	_	7	advmod	_	_
-2	_	_	PUNCT	,	_	1	punct	_	_
+2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	PRON	PRP	_	7	nsubj	_	_
 4	_	_	ADV	RB	_	7	advmod	_	_
 5	_	_	AUX	VBP	_	7	aux	_	_
@@ -10701,7 +10701,7 @@
 #ID=/0102_2000_6/doc515.xml 4
 #SENT=
 1	_	_	ADV	RB	_	3	advmod	_	_
-2	_	_	DET	EX	_	3	expl	_	_
+2	_	_	PRON	EX	_	3	expl	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
 4	_	_	DET	DT	_	6	neg	_	_
 5	_	_	ADJ	JJ	_	6	amod	_	_
@@ -10938,7 +10938,7 @@
 8	_	_	VERB	VB	_	4	xcomp	_	_
 9	_	_	DET	DT	_	10	det	_	_
 10	_	_	NOUN	NN	_	8	dobj	_	_
-11	_	_	ADP	IN	_	14	mark	_	_
+11	_	_	SCONJ	IN	_	14	mark	_	_
 12	_	_	PRON	PRP	_	14	nsubj	_	_
 13	_	_	AUX	VBP	_	14	aux	_	_
 14	_	_	VERB	VBN	_	10	acl	_	_
@@ -10981,8 +10981,8 @@
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
 4	_	_	ADV	RB	_	3	advmod	_	_
-5	_	_	PART	TO	_	6	mark	_	_
-6	_	_	VERB	VBG	_	4	advcl	_	_
+5	_	_	SCONJ	IN	_	6	mark	_	_
+6	_	_	VERB	VBG	_	3	advcl	_	_
 7	_	_	ADP	IN	_	8	case	_	_
 8	_	_	PRON	PRP	_	6	nmod	_	_
 
@@ -11002,7 +11002,7 @@
 12	_	_	DET	DT	_	14	det	_	_
 13	_	_	ADJ	JJS	_	14	amod	_	_
 14	_	_	NOUN	NN	_	10	nmod	_	_
-15	_	_	PUNCT	,	_	20	punct	_	_
+15	_	_	PUNCT	,	_	14	punct	_	_
 16	_	_	DET	WDT	_	20	nsubj	_	_
 17	_	_	VERB	VBZ	_	20	cop	_	_
 18	_	_	ADV	RB	_	20	advmod	_	_
@@ -11010,7 +11010,7 @@
 20	_	_	NOUN	NN	_	14	acl:relcl	_	_
 21	_	_	ADP	IN	_	22	case	_	_
 22	_	_	NOUN	NN	_	20	nmod	_	_
-23	_	_	PUNCT	,	_	20	punct	_	_
+23	_	_	PUNCT	,	_	8	punct	_	_
 24	_	_	CONJ	CC	_	8	cc	_	_
 25	_	_	SCONJ	IN	_	27	mark	_	_
 26	_	_	PRON	PRP	_	27	nsubj	_	_
@@ -11022,7 +11022,7 @@
 32	_	_	NOUN	NN	_	34	nsubj	_	_
 33	_	_	VERB	VBZ	_	34	cop	_	_
 34	_	_	ADJ	JJR	_	29	acl:relcl	_	_
-35	_	_	PUNCT	,	_	27	punct	_	_
+35	_	_	PUNCT	,	_	39	punct	_	_
 36	_	_	PRON	PRP	_	39	nsubj	_	_
 37	_	_	AUX	MD	_	39	aux	_	_
 38	_	_	VERB	VB	_	39	cop	_	_
