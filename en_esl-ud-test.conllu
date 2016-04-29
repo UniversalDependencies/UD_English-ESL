@@ -1863,7 +1863,7 @@
 
 #ID=/0102_2000_6/doc1656.xml 4
 #SENT=
-1	_	_	PRON	PRP	_	4	nsubj	_	_
+1	_	_	PRON	PRP	_	4	nsubjpass	_	_
 2	_	_	AUX	VBD	_	4	aux	_	_
 3	_	_	AUX	VBN	_	4	auxpass	_	_
 4	_	_	VERB	VBN	_	0	root	_	_
@@ -4821,7 +4821,7 @@
 8	_	_	DET	DT	_	9	det	_	_
 9	_	_	NOUN	NNS	_	11	nsubj	_	_
 10	_	_	VERB	VBD	_	11	cop	_	_
-11	_	_	ADJ	JJ	_	6	ccomp	_	_
+11	_	_	ADJ	JJ	_	6	csubjpass	_	_
 12	_	_	CONJ	CC	_	6	cc	_	_
 13	_	_	PRON	PRP	_	14	nsubj	_	_
 14	_	_	VERB	VBD	_	6	conj	_	_
@@ -6726,7 +6726,7 @@
 7	_	_	PROPN	NNP	_	3	nmod	_	_
 8	_	_	ADP	IN	_	9	case	_	_
 9	_	_	NUM	CD	_	3	nmod	_	_
-10	_	_	PUNCT	HYPH	_	11	case	_	_
+10	_	_	SYM	HYPH	_	11	case	_	_
 11	_	_	NUM	CD	_	3	nmod	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
@@ -9788,7 +9788,7 @@
 4	_	_	AUX	VBZ	_	5	auxpass	_	_
 5	_	_	VERB	VBN	_	0	root	_	_
 6	_	_	SCONJ	IN	_	10	mark	_	_
-7	_	_	PRON	PRP	_	10	nsubj	_	_
+7	_	_	PRON	PRP	_	10	nsubjpass	_	_
 8	_	_	AUX	MD	_	10	aux	_	_
 9	_	_	AUX	VB	_	10	auxpass	_	_
 10	_	_	VERB	VBN	_	5	csubjpass	_	_
