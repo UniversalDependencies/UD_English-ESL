@@ -1,21 +1,18 @@
-Universal Dependencies for English as a Second Language (ESL)
+Treebank of Learner English (TLE)
 
 ===GENERAL===
 
 Manual UD annotations for 5,124 sentences from the Cambridge Learner Corpus 
 First Certificate in English (FCE) dataset. The annotations follow the 
 standard English UD guidelines, along with a set of supplementary guidelines 
-for ESL. The complete manual used by the annotators is available at
-http://people.csail.mit.edu/berzak/tle_guidelines/guidelines.pdf
-
-The sentences are split randomly to a training set of 4,124 sentences,
+for ESL. The treebank is split randomly to a training set of 4,124 sentences,
 development set of 500 sentences and a test set of 500 sentences.
 
 ===STATISTICS===
 
 Tree count:  5124
-Word count:  97683
-Token count: 97683
+Word count:  97681
+Token count: 97681
 Dep. relations: 46 of which 7 language specific
 POS tags: 17
 Category=value feature pairs: 0
@@ -48,11 +45,11 @@ Helen Yannakoudakis, Ted Briscoe and Ben Medlock (2011) "A New Dataset and Metho
 for Automatically Grading ESOL Texts", In Proceedings of the 49th Annual Meeting of the 
 Association for Computational Linguistics: Human Language Technologies (ACL), pages 180–189.
 
-=== Machine-readable metadata =================================================
+=== Machine-readable metadata ===
+
 Documentation status: complete
 Data source: manual
 Data available since: UD v1.3
 License: CC BY-SA 4.0
 Genre: learner-essays
 Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xian; Lam, Lucia; Mori, Keiko Sophie; Garza, Sebastian; Katz, Boris
-===============================================================================
