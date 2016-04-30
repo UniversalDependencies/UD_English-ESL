@@ -5676,7 +5676,7 @@
 10	_	_	VERB	VBD	_	2	conj	_	_
 11	_	_	ADP	IN	_	13	case	_	_
 12	_	_	DET	DT	_	13	det	_	_
-13	_	_	NOUN	NN	_	10	nsubj	_	_
+13	_	_	NOUN	NN	_	10	nmod	_	_
 14	_	_	ADP	IN	_	16	case	_	_
 15	_	_	DET	DT	_	16	det	_	_
 16	_	_	NOUN	NN	_	10	nmod	_	_
