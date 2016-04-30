@@ -785,7 +785,7 @@
 29	_	_	VERB	VB	_	32	cop	_	_
 30	_	_	DET	DT	_	32	det	_	_
 31	_	_	ADJ	JJS	_	32	amod	_	_
-32	_	_	NOUN	NN	_	27	xcomp	_	_
+32	_	_	NOUN	NN	_	27	csubjpass	_	_
 33	_	_	ADV	RB	_	32	advmod	_	_
 34	_	_	PUNCT	.	_	3	punct	_	_
 
