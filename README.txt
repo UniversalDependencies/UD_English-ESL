@@ -2,11 +2,13 @@ Treebank of Learner English (TLE)
 
 ===GENERAL===
 
-Manual UD annotations for 5,124 sentences from the Cambridge Learner Corpus 
-First Certificate in English (FCE) dataset. The annotations follow the 
+Manual POS tag and dependency annotations for 5,124 English as a Second
+Language (ESL) sentences. The sentences are drawn from the Cambridge Learner
+Corpus First Certificate in English (FCE) dataset. The annotations follow the 
 standard English UD guidelines, along with a set of supplementary guidelines 
 for ESL. The treebank is split randomly to a training set of 4,124 sentences,
 development set of 500 sentences and a test set of 500 sentences.
+Further information is available on esltreebank.org
 
 ===STATISTICS===
 
@@ -37,13 +39,16 @@ Available only in the merged version.
 
 ===CITATION===
 
+You are encouraged to cite the following papers when using the treebank:
+
 Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, 
 Keiko Sophie Mori, Sebastian Garza and Boris Katz (2016) "Universal Dependencies 
 for Learner English", arXiv preprint.
 
-Helen Yannakoudakis, Ted Briscoe and Ben Medlock (2011) "A New Dataset and Method 
-for Automatically Grading ESOL Texts", In Proceedings of the 49th Annual Meeting of the 
-Association for Computational Linguistics: Human Language Technologies (ACL), pages 180–189.
+Helen Yannakoudakis, Ted Briscoe and Ben Medlock (2011) "A New Dataset and 
+Method for Automatically Grading ESOL Texts", In Proceedings of the 49th 
+Annual Meeting of the Association for Computational Linguistics: Human 
+Language Technologies (ACL), pages 180–189.
 
 === Machine-readable metadata ===
 
