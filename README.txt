@@ -37,18 +37,37 @@ sent_id is the sentence number (with respect to the automatic sentence tokenizat
 #SENT=[sentence]: the error annotated xml version of the FCE sentence.
 Available only in the merged version.
 
+===CHANGELOG===
+
+v1.4
+--changed UPOS of indefinite, totality and negative pronouns from NOUN to PRON
+--changed UPOS of demonstrative pronouns from DET to PRON
+
 ===CITATION===
 
-You are encouraged to cite the following papers when using the treebank:
+You are encouraged to cite the following papers when using the TLE:
 
-Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam,
-Keiko Sophie Mori, Sebastian Garza and Boris Katz (2016) "Universal Dependencies
-for Learner English", arXiv preprint.
+@inproceedings{berzak2016tle,
+  author    = {Berzak, Yevgeni  and  Kenney, Jessica  and  Spadine, Carolyn  and  Wang, Jing Xian 
+               and  Lam, Lucia  and  Mori, Keiko Sophie  and  Garza, Sebastian  and  Katz, Boris},
+  title     = {Universal Dependencies for Learner English},
+  booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational 
+               Linguistics (Volume 1: Long Papers)},
+  year      = {2016},
+  publisher = {Association for Computational Linguistics},
+  pages     = {737--746},
+  url       = {http://www.aclweb.org/anthology/P16-1070}
+}
 
-Helen Yannakoudakis, Ted Briscoe and Ben Medlock (2011) "A New Dataset and
-Method for Automatically Grading ESOL Texts", In Proceedings of the 49th
-Annual Meeting of the Association for Computational Linguistics: Human
-Language Technologies (ACL), pages 180–189.
+@inproceedings{yannakoudakis2011fce,
+  title={A new dataset and method for automatically grading ESOL texts},
+  author={Yannakoudakis, Helen and Briscoe, Ted and Medlock, Ben},
+  booktitle={Proceedings of the 49th Annual Meeting of the Association for Computational 
+	     Linguistics: Human Language Technologies-Volume 1},
+  pages={180--189},
+  year={2011},
+  organization={Association for Computational Linguistics}
+}
 
 === Machine-readable metadata ===
 
@@ -58,4 +77,4 @@ Data available since: UD v1.3
 License: CC BY-SA 4.0
 Genre: learner-essays
 Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xian; Lam, Lucia; Mori, Keiko Sophie; Garza, Sebastian; Katz, Boris
-Contact:
+Contact: berzak@mit.edu
