@@ -1,7 +1,7 @@
 import os
 import urllib
 
-UD_RELEASE = "1.3"
+UD_RELEASE = "1.4"
 
 def check_fce():
     code = 0
