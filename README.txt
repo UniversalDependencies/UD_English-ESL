@@ -24,7 +24,7 @@ Category=value feature pairs: 0
 Due to FCE licensing restrictions, the annotations are released without
 the data. To merge the annotations with the corresponding FCE sentences,
 please follow these steps (require python).
-1) Download the FCE dataset from http://ilexir.co.uk/applications/clc-fce-dataset/
+1) Download the FCE dataset from https://www.ilexir.co.uk/datasets/index.html
 to the current directory, thereby signing the FCE license agreement.
 2) Unzip the downloaded file fce-released-dataset.zip.
 3) Run "python merge.py" to obtain annotation files with the FCE sentences.

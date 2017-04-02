@@ -9,7 +9,7 @@ def check_fce():
         code = os.stat("fce-released-dataset/license").st_size
     except OSError:
         print '''Error:  FCE folder 'fce-released-dataset' not in the current directory.
-        Please download the dataset from http://ilexir.co.uk/applications/clc-fce-dataset/
+        Please download the dataset from https://www.ilexir.co.uk/datasets/index.html
         and unzip the file in the current directory.'''
     return code
 
