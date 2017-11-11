@@ -10,7 +10,7 @@
   <lemmas unique="0" /><!--  -->
   <forms unique="0" /><!--  -->
   <fusions unique="0" /><!--  -->
-  <!-- Statistics of universal POS tags. The comments with the most frequent lemmas are optional (but easy to obtain). -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="17">
     <tag name="ADJ">5278</tag><!-- _ -->
     <tag name="ADP">7769</tag><!-- _ -->
@@ -30,7 +30,7 @@
     <tag name="VERB">13583</tag><!-- _ -->
     <tag name="X">60</tag><!-- _ -->
   </tags>
-  <!-- Statistics of features and values. The comments with the most frequent word forms are optional (but easy to obtain). -->
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="0">
   </feats>
   <!-- Statistics of universal dependency relations. -->
