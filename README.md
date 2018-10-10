@@ -8,7 +8,7 @@ UD English-ESL/TLE is a collection of 5,124 English as a Second Language (ESL) s
 
 # Acknowledgments
 
-The dataset and the annotation guidelines were developed at MIT by Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, Keiko Sophie Mori, Sebastian Garza and Boris Katz.
+The dataset and the annotation guidelines were developed at MIT by Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, Keiko Sophie Mori, Sebastian Garza, Boris Katz and Margarita Misirpashayeva.
 
 # Obtaining the text
 
@@ -20,6 +20,11 @@ to the current directory, thereby signing the FCE license agreement.
 2) Unzip the downloaded file fce-released-dataset.zip.
 3) Run "python merge.py" to obtain annotation files with the FCE sentences.
 
+# Obtaining the error corrected sentences
+
+The steps described above for obtaining the text will also generate a folder named "corrected".
+This folder contains a parallel corpus of error corrected versions of the sentences along with their syntactic annotations.
+
 # Metadata
 
 #ID=[document_id] [sent_id]: sentence identifier.
@@ -29,6 +34,10 @@ sent_id is the sentence number (with respect to the automatic sentence tokenizat
 Available only in the merged version.
 
 # Changelog
+
+v2.3
+--transitioned to v2 guidelines.
+--fixes to miscellaneous syntactic issues.
 
 v1.4
 --changed UPOS of indefinite, totality and negative pronouns from NOUN to PRON
@@ -70,7 +79,7 @@ UPOS: manual native
 XPOS: manual native
 Features: not available
 Relations: manual native
-Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xian; Lam, Lucia; Mori, Keiko Sophie; Garza, Sebastian; Katz, Boris
+Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xian; Lam, Lucia; Mori, Keiko Sophie; Garza, Sebastian; Katz, Boris; Misirpashayeva, Margarita;
 Contributing: elsewhere
 Contact: berzak@mit.edu
 ===============================================================================
