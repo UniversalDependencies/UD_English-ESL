@@ -40,35 +40,34 @@ Available only in the merged version:
  - changed UPOS of indefinite, totality and negative pronouns from NOUN to PRON.
  - changed UPOS of demonstrative pronouns from DET to PRON.
 
-# Acknowledgents and Citation
+# Acknowledgments
 
 The dataset and the annotation guidelines were developed at MIT by Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, Keiko Sophie Mori, Sebastian Garza, Boris Katz and Margarita Misirpashayeva.
 
+# Citation
+
 You are encouraged to cite the following papers when using the TLE:
 
-@inproceedings{berzak2016tle,
-  author    = {Berzak, Yevgeni  and  Kenney, Jessica  and  Spadine, Carolyn  and  Wang, Jing Xian 
-               and  Lam, Lucia  and  Mori, Keiko Sophie  and  Garza, Sebastian  and  Katz, Boris},
-  title     = {Universal Dependencies for Learner English},
-  booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational 
-               Linguistics (Volume 1: Long Papers)},
-  year      = {2016},
-  publisher = {Association for Computational Linguistics},
-  pages     = {737--746},
-  url       = {http://www.aclweb.org/anthology/P16-1070}
-}
+    @inproceedings{berzak2016tle,
+      author    = {Berzak, Yevgeni and Kenney, Jessica and Spadine, Carolyn and Wang, Jing Xian and Lam, Lucia and Mori, Keiko Sophie and Garza, Sebastian and Katz, Boris},
+      title     = {Universal Dependencies for Learner English},
+      booktitle = {Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+      year      = {2016},
+      publisher = {Association for Computational Linguistics},
+      pages     = {737--746},
+      url       = {http://www.aclweb.org/anthology/P16-1070}
+    }
 
-@inproceedings{yannakoudakis2011fce,
-  title={A new dataset and method for automatically grading ESOL texts},
-  author={Yannakoudakis, Helen and Briscoe, Ted and Medlock, Ben},
-  booktitle={Proceedings of the 49th Annual Meeting of the Association for Computational 
-	     Linguistics: Human Language Technologies-Volume 1},
-  pages={180--189},
-  year={2011},
-  organization={Association for Computational Linguistics}
-}
+    @inproceedings{yannakoudakis2011fce,
+     title={A new dataset and method for automatically grading ESOL texts},
+     author={Yannakoudakis, Helen and Briscoe, Ted and Medlock, Ben},
+     booktitle={Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies-Volume 1},
+     pages={180--189},
+     year={2011},
+     organization={Association for Computational Linguistics}
+    }
 
-
+<pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
 Data available since: UD v1.3
 License: CC BY-SA 4.0
@@ -83,5 +82,5 @@ Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xia
 Contributing: elsewhere
 Contact: berzak@mit.edu
 ===============================================================================
-
+</pre>
 
