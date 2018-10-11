@@ -1,5 +1,6 @@
-#ID=/0100_2000_12/doc2638.xml 6
-#SENT=
+# sent_id = 0100_2000_12-doc2638.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	EX	_	2	expl	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -17,8 +18,9 @@
 15	_	_	PRON	NN	_	14	obj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc999.xml 21
-#SENT=
+# sent_id = 0100_2000_6-doc999.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	4	nsubj	_	_
@@ -39,8 +41,9 @@
 18	_	_	NOUN	NNS	_	14	obl	_	_
 19	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1320.xml 12
-#SENT=
+# sent_id = 0102_2000_6-doc1320.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -69,8 +72,9 @@
 26	_	_	PRON	NN	_	23	obj	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1370.xml 16
-#SENT=
+# sent_id = 0102_2000_6-doc1370.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NNS	_	5	nsubj	_	_
 3	_	_	AUX	VBD	_	5	cop	_	_
@@ -93,8 +97,9 @@
 20	_	_	ADJ	JJ	_	5	conj	_	_
 21	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2001_6/doc3102.xml 15
-#SENT=
+# sent_id = 0100_2001_6-doc3102.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBG	_	7	advcl	_	_
 2	_	_	PRON	PRP	_	1	obj	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -125,8 +130,9 @@
 28	_	_	ADV	RB	_	19	advmod	_	_
 29	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc2674.xml 18
-#SENT=
+# sent_id = 0102_2000_6-doc2674.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	MD	_	5	aux	_	_
@@ -140,8 +146,9 @@
 11	_	_	NOUN	NNS	_	7	obl	_	_
 12	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc940.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc940.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	0	root	_	_
 3	_	_	PUNCT	,	_	2	punct	_	_
@@ -180,8 +187,9 @@
 36	_	_	PUNCT	-RRB-	_	33	punct	_	_
 37	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc1852.xml 17
-#SENT=
+# sent_id = 0102_2000_12-doc1852.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -205,8 +213,9 @@
 21	_	_	ADV	RB	_	14	advmod	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2096.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc2096.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -224,8 +233,9 @@
 15	_	_	NOUN	NN	_	10	obl	_	_
 16	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc830.xml 14b
-#SENT=
+# sent_id = 0102_2000_6-doc830.xml-14b
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NNS	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	AUX	VB	_	4	cop	_	_
@@ -238,8 +248,9 @@
 10	_	_	NOUN	NN	_	6	obl	_	_
 11	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc2963.xml 22
-#SENT=
+# sent_id = 0100_2001_6-doc2963.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	NOUN	NN	_	0	root	_	_
@@ -263,8 +274,9 @@
 21	_	_	PRON	NN	_	20	obj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc2546.xml 9
-#SENT=
+# sent_id = 0100_2000_12-doc2546.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	AUX	VB	_	4	cop	_	_
@@ -285,8 +297,9 @@
 18	_	_	ADV	RB	_	15	advmod	_	_
 19	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc2545.xml 6
-#SENT=
+# sent_id = 0100_2000_12-doc2545.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NNS	_	5	nsubj	_	_
 3	_	_	AUX	MD	_	5	aux	_	_
@@ -300,8 +313,9 @@
 11	_	_	PRON	PRP	_	10	nmod:npmod	_	_
 12	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc1588.xml 26
-#SENT=
+# sent_id = 0102_2000_6-doc1588.xml-26
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -311,8 +325,9 @@
 7	_	_	PRON	PRP	_	5	nmod	_	_
 8	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2388.xml 13
-#SENT=
+# sent_id = 0100_2000_6-doc2388.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -339,8 +354,9 @@
 24	_	_	VERB	VB	_	22	xcomp	_	_
 25	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc515.xml 24
-#SENT=
+# sent_id = 0102_2000_6-doc515.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	5	obl	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -368,8 +384,9 @@
 25	_	_	PRON	PRP	_	24	obj	_	_
 26	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1697.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc1697.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -386,8 +403,9 @@
 14	_	_	NOUN	NN	_	10	obl	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1902.xml 32
-#SENT=
+# sent_id = 0100_2000_6-doc1902.xml-32
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	8	nsubj	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -407,8 +425,9 @@
 17	_	_	NUM	CD	_	16	nummod	_	_
 18	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2001_6/doc3220.xml 7
-#SENT=
+# sent_id = 0100_2001_6-doc3220.xml-7
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	4	nsubj	_	_
@@ -419,8 +438,9 @@
 8	_	_	NOUN	NN	_	4	obl	_	_
 9	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc940.xml 3
-#SENT=
+# sent_id = 0102_2000_6-doc940.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -440,8 +460,9 @@
 17	_	_	VERB	VBN	_	14	acl:relcl	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc2121.xml 1
-#SENT=
+# sent_id = 0102_2000_12-doc2121.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	cop	_	_
 3	_	_	NUM	CD	_	0	root	_	_
@@ -457,8 +478,9 @@
 13	_	_	NOUN	NN	_	8	obj	_	_
 14	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2494.xml 24
-#SENT=
+# sent_id = 0100_2000_6-doc2494.xml-24
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -470,8 +492,9 @@
 9	_	_	NOUN	NN	_	4	obl	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2227.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc2227.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -489,8 +512,9 @@
 15	_	_	ADJ	JJ	_	16	amod	_	_
 16	_	_	NOUN	NN	_	14	obl:tmod	_	_
 
-#ID=/0102_2000_12/doc1852.xml 18
-#SENT=
+# sent_id = 0102_2000_12-doc1852.xml-18
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RBS	_	2	advmod	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	7	nsubj	_	_
@@ -500,8 +524,9 @@
 7	_	_	NOUN	NN	_	0	root	_	_
 8	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc235.xml 21
-#SENT=
+# sent_id = 0102_2000_6-doc235.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -528,8 +553,9 @@
 24	_	_	NOUN	NNS	_	21	obj	_	_
 25	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1030.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc1030.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	VBZ	_	5	cop	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -546,8 +572,9 @@
 14	_	_	ADJ	JJ	_	10	conj	_	_
 15	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc1530.xml 5
-#SENT=
+# sent_id = 0100_2000_12-doc1530.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	6	obl	_	_
 3	_	_	PUNCT	,	_	6	punct	_	_
@@ -571,8 +598,9 @@
 21	_	_	NOUN	NN	_	18	nmod	_	_
 22	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_12/doc123.xml 16
-#SENT=
+# sent_id = 0102_2000_12-doc123.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -594,8 +622,9 @@
 19	_	_	NOUN	NN	_	15	conj	_	_
 20	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc710.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc710.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -618,8 +647,9 @@
 20	_	_	ADV	RB	_	19	advmod	_	_
 21	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc605.xml 2
-#SENT=
+# sent_id = 0102_2000_12-doc605.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBN	_	0	root	_	_
@@ -646,8 +676,9 @@
 24	_	_	PROPN	NNP	_	18	obl	_	_
 25	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2583.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc2583.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	0	root	_	_
 2	_	_	PUNCT	HYPH	_	1	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -699,8 +730,9 @@
 49	_	_	NOUN	NNS	_	47	nmod	_	_
 50	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0100_2000_6/doc710.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc710.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	PRON	DT	_	4	obl	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -715,8 +747,9 @@
 12	_	_	NOUN	NN	_	10	nmod	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1153.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc1153.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	PRP$	_	3	nmod:poss	_	_
 3	_	_	NOUN	NNS	_	9	obl	_	_
@@ -749,8 +782,9 @@
 30	_	_	ADJ	JJ	_	28	advmod	_	_
 31	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc1697.xml 0
-#SENT=
+# sent_id = 0100_2000_6-doc1697.xml-0
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -772,8 +806,9 @@
 19	_	_	NOUN	NN	_	15	obl	_	_
 20	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2356.xml 18
-#SENT=
+# sent_id = 0102_2000_6-doc2356.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PROPN	NNP	_	2	obj	_	_
@@ -796,8 +831,9 @@
 20	_	_	PRON	DT	_	19	obj	_	_
 21	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_12/doc198.xml 17
-#SENT=
+# sent_id = 0100_2000_12-doc198.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJS	_	4	nsubj	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	PRON	PRP	_	1	obl	_	_
@@ -814,8 +850,9 @@
 14	_	_	ADJ	JJ	_	4	conj	_	_
 15	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc403.xml 27
-#SENT=
+# sent_id = 0100_2000_6-doc403.xml-27
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	17	cc	_	_
 2	_	_	SCONJ	IN	_	4	mark	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -844,8 +881,9 @@
 26	_	_	ADV	RB	_	22	advcl	_	_
 27	_	_	PUNCT	.	_	17	punct	_	_
 
-#ID=/0100_2000_12/doc539.xml 22
-#SENT=
+# sent_id = 0100_2000_12-doc539.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	16	advmod	_	_
 2	_	_	ADV	RB	_	1	fixed	_	_
 3	_	_	PUNCT	,	_	16	punct	_	_
@@ -864,8 +902,9 @@
 16	_	_	ADJ	JJR	_	0	root	_	_
 17	_	_	PUNCT	.	_	16	punct	_	_
 
-#ID=/0102_2000_12/doc284.xml 10
-#SENT=
+# sent_id = 0102_2000_12-doc284.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	SCONJ	IN	_	14	mark	_	_
@@ -884,8 +923,9 @@
 16	_	_	NOUN	NN	_	14	obl:tmod	_	_
 17	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1731.xml 22
-#SENT=
+# sent_id = 0102_2000_6-doc1731.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -905,8 +945,9 @@
 17	_	_	ADV	RB	_	13	advmod	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1110.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc1110.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	4	nsubj	_	_
@@ -924,8 +965,9 @@
 15	_	_	ADJ	JJ	_	11	xcomp	_	_
 16	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc614.xml 3
-#SENT=
+# sent_id = 0102_2000_6-doc614.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADV	RB	_	2	advmod	_	_
@@ -952,8 +994,9 @@
 24	_	_	ADJ	JJ	_	2	conj	_	_
 25	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc558.xml 17
-#SENT=
+# sent_id = 0102_2000_12-doc558.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	CCONJ	CC	_	3	cc	_	_
 3	_	_	ADV	RB	_	1	conj	_	_
@@ -967,8 +1010,9 @@
 11	_	_	NOUN	NNS	_	8	obl	_	_
 12	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_12/doc579.xml 6
-#SENT=
+# sent_id = 0100_2000_12-doc579.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -993,8 +1037,9 @@
 22	_	_	NOUN	NNS	_	18	conj	_	_
 23	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1353.xml 13
-#SENT=
+# sent_id = 0102_2000_6-doc1353.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	VBP	_	4	aux	_	_
@@ -1021,8 +1066,9 @@
 24	_	_	PRON	PRP	_	22	obl	_	_
 25	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_12/doc483.xml 16
-#SENT=
+# sent_id = 0102_2000_12-doc483.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -1035,8 +1081,9 @@
 10	_	_	NOUN	NN	_	7	obl	_	_
 11	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc161.xml 20
-#SENT=
+# sent_id = 0100_2000_6-doc161.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	15	advcl	_	_
@@ -1059,8 +1106,9 @@
 20	_	_	NOUN	NN	_	18	nmod	_	_
 21	_	_	PUNCT	.	_	15	punct	_	_
 
-#ID=/0102_2000_6/doc651.xml 15
-#SENT=
+# sent_id = 0102_2000_6-doc651.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -1091,8 +1139,9 @@
 28	_	_	NOUN	NN	_	25	obl	_	_
 29	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1246.xml 14
-#SENT=
+# sent_id = 0100_2000_6-doc1246.xml-14
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -1101,8 +1150,9 @@
 6	_	_	NOUN	NN	_	4	obj	_	_
 7	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2076.xml 21
-#SENT=
+# sent_id = 0102_2000_6-doc2076.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	Polarity=Neg	2	advmod	_	_
 2	_	_	ADV	RB	_	6	advmod	_	_
 3	_	_	ADP	IN	_	6	case	_	_
@@ -1118,8 +1168,9 @@
 13	_	_	NOUN	NNS	_	6	conj	_	_
 14	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2001_6/doc2984.xml 21
-#SENT=
+# sent_id = 0100_2001_6-doc2984.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	0	root	_	_
 2	_	_	PUNCT	:	_	1	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -1146,8 +1197,9 @@
 24	_	_	NOUN	NN	_	20	nmod	_	_
 25	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0100_2000_6/doc358.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc358.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	7	obl	_	_
@@ -1166,8 +1218,9 @@
 16	_	_	NOUN	NN	_	12	obl	_	_
 17	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1026.xml 12
-#SENT=
+# sent_id = 0102_2000_6-doc1026.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	13	cc	_	_
 2	_	_	NUM	CD	_	3	nummod	_	_
 3	_	_	NOUN	NN	_	13	obl:npmod	_	_
@@ -1195,8 +1248,9 @@
 25	_	_	NOUN	NN	_	22	obj	_	_
 26	_	_	PUNCT	.	_	13	punct	_	_
 
-#ID=/0100_2000_6/doc1021.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc1021.xml-4
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	VBZ	_	3	cop	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -1204,8 +1258,9 @@
 5	_	_	PRON	PRP	_	3	obl	_	_
 6	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3122.xml 21
-#SENT=
+# sent_id = 0100_2001_6-doc3122.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	7	nsubj	_	_
@@ -1223,8 +1278,9 @@
 15	_	_	NOUN	NN	_	7	obl	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2192.xml 50
-#SENT=
+# sent_id = 0102_2000_6-doc2192.xml-50
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -1233,8 +1289,9 @@
 6	_	_	NOUN	NN	_	3	obl	_	_
 7	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc257.xml 31
-#SENT=
+# sent_id = 0102_2000_12-doc257.xml-31
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADP	RP	_	2	compound:prt	_	_
@@ -1243,8 +1300,9 @@
 6	_	_	ADJ	JJ	_	5	xcomp	_	_
 7	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc277.xml 20c
-#SENT=
+# sent_id = 0100_2000_6-doc277.xml-20c
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PRON	PRP	_	2	obj	_	_
@@ -1264,8 +1322,9 @@
 17	_	_	ADV	RB	_	15	advmod	_	_
 18	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1813.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc1813.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	8	nsubj	_	_
@@ -1288,8 +1347,9 @@
 20	_	_	ADJ	JJ	_	14	advcl	_	_
 21	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc234.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc234.xml-23
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBD	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -1300,8 +1360,9 @@
 8	_	_	NOUN	NN	_	6	nmod	_	_
 9	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc1018.xml 14
-#SENT=
+# sent_id = 0100_2000_12-doc1018.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	AUX	VBG	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	5	csubj	_	_
@@ -1328,8 +1389,9 @@
 24	_	_	NOUN	NNS	_	22	obj	_	_
 25	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1677.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc1677.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	EX	_	2	expl	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	PRON	NN	_	2	nsubj	_	_
@@ -1354,8 +1416,9 @@
 22	_	_	VERB	VBG	_	21	xcomp	_	_
 23	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2677.xml 30
-#SENT=
+# sent_id = 0102_2000_6-doc2677.xml-30
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	10	obl	_	_
 3	_	_	CCONJ	CC	_	6	cc	_	_
@@ -1375,8 +1438,9 @@
 17	_	_	NOUN	NN	_	10	obl	_	_
 18	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_6/doc1677.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc1677.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	23	advcl	_	_
@@ -1402,8 +1466,9 @@
 23	_	_	NOUN	NN	_	0	root	_	_
 24	_	_	PUNCT	.	_	23	punct	_	_
 
-#ID=/0102_2000_6/doc1851.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc1851.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -1428,8 +1493,9 @@
 22	_	_	PROPN	NNP	_	20	conj	_	_
 23	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc983.xml 13
-#SENT=
+# sent_id = 0102_2000_6-doc983.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	5	nsubj	_	_
 2	_	_	AUX	MD	_	5	aux	_	_
 3	_	_	AUX	VB	_	5	cop	_	_
@@ -1453,8 +1519,9 @@
 21	_	_	NOUN	NN	_	16	appos	_	_
 22	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc770.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc770.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NNS	_	7	nsubj	_	_
 3	_	_	ADV	RB	_	6	mark	_	_
@@ -1475,8 +1542,9 @@
 18	_	_	PRON	PRP	_	2	conj	_	_
 19	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1477.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc1477.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	5	obl	_	_
@@ -1499,8 +1567,9 @@
 20	_	_	NOUN	NN	_	17	nmod	_	_
 21	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2351.xml 26
-#SENT=
+# sent_id = 0102_2000_6-doc2351.xml-26
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VB	_	0	root	_	_
 2	_	_	SCONJ	IN	_	6	mark	_	_
 3	_	_	DET	PDT	_	5	det:predet	_	_
@@ -1530,8 +1599,9 @@
 27	_	_	NOUN	NN	_	24	nmod	_	_
 28	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc2006.xml 2a
-#SENT=
+# sent_id = 0102_2000_6-doc2006.xml-2a
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -1547,8 +1617,9 @@
 13	_	_	PROPN	NNP	_	9	appos	_	_
 14	_	_	PUNCT	''	_	13	punct	_	_
 
-#ID=/0102_2000_6/doc1541.xml 21a
-#SENT=
+# sent_id = 0102_2000_6-doc1541.xml-21a
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	X	GW	_	7	advmod	_	_
 2	_	_	ADV	RB	_	1	goeswith	_	_
 3	_	_	PRON	PRP	_	7	expl	_	_
@@ -1561,8 +1632,9 @@
 10	_	_	PRON	PRP	_	9	obj	_	_
 11	_	_	PUNCT	,	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1472.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc1472.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -1575,8 +1647,9 @@
 10	_	_	SCONJ	IN	_	11	mark	_	_
 11	_	_	ADJ	JJ	_	9	advcl	_	_
 
-#ID=/0100_2000_6/doc2579.xml 1b
-#SENT=
+# sent_id = 0100_2000_6-doc2579.xml-1b
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -1591,8 +1664,9 @@
 12	_	_	NOUN	NN	_	9	obj	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_12/doc740.xml 1
-#SENT=
+# sent_id = 0102_2000_12-doc740.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -1609,8 +1683,9 @@
 14	_	_	NOUN	NN	_	5	obl:tmod	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1055.xml 1
-#SENT=
+# sent_id = 0100_2000_6-doc1055.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -1632,8 +1707,9 @@
 19	_	_	PRON	DT	_	14	obl	_	_
 20	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1902.xml 31
-#SENT=
+# sent_id = 0100_2000_6-doc1902.xml-31
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	7	expl	_	_
 2	_	_	AUX	MD	_	7	aux	_	_
 3	_	_	AUX	VB	_	7	cop	_	_
@@ -1655,8 +1731,9 @@
 19	_	_	PRON	PRP	_	18	obj	_	_
 20	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc818.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc818.xml-22
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	SCONJ	IN	_	6	mark	_	_
@@ -1667,8 +1744,9 @@
 8	_	_	NOUN	NN	_	6	obl	_	_
 9	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1754.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc1754.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	ADV	RBS	_	6	obl	_	_
 3	_	_	PUNCT	,	_	6	punct	_	_
@@ -1690,8 +1768,9 @@
 19	_	_	NOUN	NN	_	14	obl	_	_
 20	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2001_6/doc3116.xml 32d
-#SENT=
+# sent_id = 0100_2001_6-doc3116.xml-32d
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -1709,8 +1788,9 @@
 15	_	_	NOUN	NN	_	13	obl	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1099.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc1099.xml-14
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	5	obl	_	_
@@ -1722,8 +1802,9 @@
 9	_	_	ADJ	JJ	_	5	ccomp	_	_
 10	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc481.xml 8
-#SENT=
+# sent_id = 0102_2000_12-doc481.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -1738,8 +1819,9 @@
 12	_	_	NOUN	NN	_	10	obj	_	_
 13	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1676.xml 13
-#SENT=
+# sent_id = 0100_2000_6-doc1676.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	0	root	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	NOUN	NN	_	1	nmod	_	_
@@ -1764,8 +1846,9 @@
 22	_	_	ADJ	JJ	_	1	parataxis	_	_
 23	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0100_2000_6/doc1202.xml 30
-#SENT=
+# sent_id = 0100_2000_6-doc1202.xml-30
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -1775,8 +1858,9 @@
 7	_	_	PRON	PRP	_	4	obl	_	_
 8	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3152.xml 3
-#SENT=
+# sent_id = 0100_2001_6-doc3152.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	17	advmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	DET	DT	_	1	obl	_	_
@@ -1796,8 +1880,9 @@
 17	_	_	PROPN	NNP	_	0	root	_	_
 18	_	_	PUNCT	.	_	17	punct	_	_
 
-#ID=/0102_2000_6/doc2246.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc2246.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -1830,8 +1915,9 @@
 30	_	_	AUX	VBD	_	28	cop	_	_
 31	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc518.xml 22
-#SENT=
+# sent_id = 0102_2000_12-doc518.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VB	_	0	root	_	_
 2	_	_	ADP	RP	_	1	compound:prt	_	_
 3	_	_	DET	PRP$	_	5	nmod:poss	_	_
@@ -1852,8 +1938,9 @@
 18	_	_	ADV	RB	_	15	advmod	_	_
 19	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc842.xml 27
-#SENT=
+# sent_id = 0102_2000_6-doc842.xml-27
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NN	_	8	obl:npmod	_	_
 3	_	_	PUNCT	,	_	8	punct	_	_
@@ -1866,8 +1953,9 @@
 10	_	_	NOUN	NN	_	8	obj	_	_
 11	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc958.xml 29
-#SENT=
+# sent_id = 0100_2000_6-doc958.xml-29
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -1884,8 +1972,9 @@
 14	_	_	NOUN	NN	_	11	nsubj	_	_
 15	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_12/doc1358.xml 7
-#SENT=
+# sent_id = 0100_2000_12-doc1358.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	6	nsubj	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	VBP	_	4	aux	_	_
@@ -1905,8 +1994,9 @@
 17	_	_	NOUN	NN	_	15	appos	_	_
 18	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc2376.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc2376.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NNP	_	4	nsubj	_	_
 2	_	_	ADV	RB	_	4	advmod	_	_
 3	_	_	AUX	VBD	_	4	aux	_	_
@@ -1921,8 +2011,9 @@
 12	_	_	PRON	PRP	_	11	obj	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc1611.xml 18
-#SENT=
+# sent_id = 0100_2000_12-doc1611.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	5	obl:tmod	_	_
 3	_	_	PUNCT	,	_	5	punct	_	_
@@ -1947,8 +2038,9 @@
 22	_	_	VERB	VBN	_	19	xcomp	_	_
 23	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1021.xml 25
-#SENT=
+# sent_id = 0100_2000_6-doc1021.xml-25
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	VB	_	3	aux	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -1956,8 +2048,9 @@
 5	_	_	NOUN	NN	_	3	obj	_	_
 6	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1676.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc1676.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -1989,8 +2082,9 @@
 29	_	_	NOUN	NN	_	23	obl:tmod	_	_
 30	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3025.xml 28
-#SENT=
+# sent_id = 0100_2001_6-doc3025.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	2	advmod	_	_
 2	_	_	ADV	RB	_	13	advmod	_	_
 3	_	_	PUNCT	,	_	13	punct	_	_
@@ -2008,8 +2102,9 @@
 15	_	_	PRON	NN	_	13	obl	_	_
 16	_	_	PUNCT	.	_	13	punct	_	_
 
-#ID=/0102_2000_6/doc2474.xml 13
-#SENT=
+# sent_id = 0102_2000_6-doc2474.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -2024,8 +2119,9 @@
 12	_	_	PRON	PRP	_	7	obl	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2475.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc2475.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -2045,8 +2141,9 @@
 17	_	_	ADV	RB	_	11	advmod	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2395.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc2395.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	6	nsubj	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -2070,8 +2167,9 @@
 21	_	_	NOUN	NN	_	6	conj	_	_
 22	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc2695.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc2695.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -2090,8 +2188,9 @@
 16	_	_	PART	TO	_	15	obl	_	_
 17	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc192.xml 15
-#SENT=
+# sent_id = 0102_2000_12-doc192.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	VERB	VB	_	2	xcomp	_	_
@@ -2111,8 +2210,9 @@
 17	_	_	NOUN	NN	_	13	obj	_	_
 18	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1628.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc1628.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	PRON	DT	_	1	obl	_	_
@@ -2132,8 +2232,9 @@
 17	_	_	PART	RB	Polarity=Neg	16	advmod	_	_
 18	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_12/doc1358.xml 18
-#SENT=
+# sent_id = 0100_2000_12-doc1358.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	PRP$	_	3	det	_	_
 3	_	_	NOUN	NN	_	8	obl	_	_
@@ -2168,8 +2269,9 @@
 32	_	_	ADJ	JJ	_	31	xcomp	_	_
 33	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc470.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc470.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	VBP	_	5	cop	_	_
 3	_	_	PART	RB	Polarity=Neg	5	advmod	_	_
@@ -2187,8 +2289,9 @@
 15	_	_	NOUN	NNS	_	11	obl	_	_
 16	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1902.xml 36
-#SENT=
+# sent_id = 0100_2000_6-doc1902.xml-36
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -2197,8 +2300,9 @@
 6	_	_	PRON	DT	_	2	obl	_	_
 7	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc49.xml 11
-#SENT=
+# sent_id = 0100_2000_6-doc49.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJ	_	2	amod	_	_
 2	_	_	NOUN	NN	_	4	obl:tmod	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -2225,8 +2329,9 @@
 24	_	_	VERB	VBD	_	22	acl:relcl	_	_
 25	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc2302.xml 1
-#SENT=
+# sent_id = 0100_2000_12-doc2302.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	DET	DT	_	1	obl	_	_
@@ -2249,8 +2354,9 @@
 20	_	_	PROPN	NNP	_	18	nmod	_	_
 21	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1861.xml 19
-#SENT=
+# sent_id = 0102_2000_6-doc1861.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -2294,8 +2400,9 @@
 41	_	_	NOUN	NN	_	34	obl	_	_
 42	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc2985.xml 28
-#SENT=
+# sent_id = 0100_2001_6-doc2985.xml-28
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	5	nsubj	_	_
 2	_	_	AUX	VBZ	_	5	cop	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -2305,8 +2412,9 @@
 7	_	_	PROPN	NNP	_	5	nmod	_	_
 8	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc461.xml 18
-#SENT=
+# sent_id = 0102_2000_12-doc461.xml-18
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -2317,15 +2425,17 @@
 8	_	_	NOUN	NN	_	5	obl	_	_
 9	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2012.xml 3b
-#SENT=
+# sent_id = 0102_2000_6-doc2012.xml-3b
+# text = _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	0	root	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	NOUN	NN	_	1	nmod	_	_
 4	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc1223.xml 21
-#SENT=
+# sent_id = 0102_2000_6-doc1223.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBG	_	7	advcl	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJS	_	4	amod	_	_
@@ -2338,8 +2448,9 @@
 10	_	_	ADV	RB	_	9	advmod	_	_
 11	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1555.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc1555.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -2358,8 +2469,9 @@
 16	_	_	ADV	RB	_	13	advmod	_	_
 17	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1543.xml 16
-#SENT=
+# sent_id = 0100_2000_6-doc1543.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NNS	_	3	obl:npmod	_	_
 3	_	_	ADV	RB	_	6	advmod	_	_
@@ -2373,8 +2485,9 @@
 11	_	_	NOUN	NN	_	9	nmod	_	_
 12	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1477.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc1477.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	expl	_	_
@@ -2396,8 +2509,9 @@
 19	_	_	NOUN	NN	_	13	obl	_	_
 20	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc1310.xml 41
-#SENT=
+# sent_id = 0100_2000_6-doc1310.xml-41
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	5	cc	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	VBP	_	5	aux	_	_
@@ -2408,8 +2522,9 @@
 8	_	_	NOUN	NNS	_	5	obj	_	_
 9	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc1952.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc1952.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	5	case	_	_
 2	_	_	DET	DT	_	5	det	_	_
 3	_	_	ADJ	JJ	_	5	amod	_	_
@@ -2441,8 +2556,9 @@
 29	_	_	ADV	RB	_	28	advmod	_	_
 30	_	_	PUNCT	.	_	24	punct	_	_
 
-#ID=/0102_2000_6/doc235.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc235.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	9	cc	_	_
 2	_	_	ADP	IN	_	5	case	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -2460,8 +2576,9 @@
 15	_	_	NOUN	NNS	_	14	obj	_	_
 16	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc385.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc385.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -2483,8 +2600,9 @@
 19	_	_	NOUN	NN	_	16	obj	_	_
 20	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2001_6/doc3152.xml 8
-#SENT=
+# sent_id = 0100_2001_6-doc3152.xml-8
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	SCONJ	IN	_	5	mark	_	_
@@ -2495,8 +2613,9 @@
 8	_	_	NOUN	NN	_	5	obj	_	_
 9	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc549.xml 25
-#SENT=
+# sent_id = 0102_2000_12-doc549.xml-25
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -2515,8 +2634,9 @@
 16	_	_	NOUN	NNS	_	14	conj	_	_
 17	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2485.xml 2
-#SENT=
+# sent_id = 0100_2000_6-doc2485.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	9	obl	_	_
@@ -2529,8 +2649,9 @@
 10	_	_	NOUN	NN	_	9	obj	_	_
 11	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0102_2000_6/doc213.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc213.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -2546,8 +2667,9 @@
 13	_	_	ADV	RB	_	10	advmod	_	_
 14	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1454.xml 28
-#SENT=
+# sent_id = 0102_2000_6-doc1454.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NNS	_	11	obl	_	_
@@ -2565,8 +2687,9 @@
 15	_	_	NOUN	NN	_	11	obl	_	_
 16	_	_	PUNCT	.	_	11	punct	_	_
 
-#ID=/0102_2000_6/doc940.xml 12
-#SENT=
+# sent_id = 0102_2000_6-doc940.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -2579,8 +2702,9 @@
 10	_	_	NOUN	NN	_	7	obl	_	_
 11	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1541.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc1541.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PRON	PRP	_	2	obj	_	_
@@ -2600,8 +2724,9 @@
 17	_	_	NOUN	NN	_	9	obl	_	_
 18	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1797.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc1797.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	PRP$	_	3	nmod:poss	_	_
 3	_	_	NOUN	NN	_	5	obl	_	_
@@ -2624,8 +2749,9 @@
 20	_	_	PRON	PRP	_	19	obj	_	_
 21	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc2039.xml 20
-#SENT=
+# sent_id = 0100_2000_6-doc2039.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	4	nsubj	_	_
 2	_	_	AUX	VBZ	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -2649,8 +2775,9 @@
 21	_	_	NOUN	NNS	_	19	nsubj	_	_
 22	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2514.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc2514.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -2670,8 +2797,9 @@
 17	_	_	VERB	VBD	_	8	advmod	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1155.xml 41
-#SENT=
+# sent_id = 0102_2000_6-doc1155.xml-41
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NN	_	5	nsubj	_	_
 3	_	_	AUX	VBD	_	5	cop	_	_
@@ -2692,8 +2820,9 @@
 18	_	_	ADJ	JJ	_	16	xcomp	_	_
 19	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1310.xml 40
-#SENT=
+# sent_id = 0100_2000_6-doc1310.xml-40
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	PROPN	NNP	_	5	obl:tmod	_	_
 3	_	_	PUNCT	,	_	5	punct	_	_
@@ -2707,8 +2836,9 @@
 11	_	_	NOUN	NN	_	10	obj	_	_
 12	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc2770.xml 16
-#SENT=
+# sent_id = 0100_2000_6-doc2770.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -2731,8 +2861,9 @@
 20	_	_	NOUN	NN	_	9	obl:tmod	_	_
 21	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1592.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc1592.xml-19
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -2744,8 +2875,9 @@
 9	_	_	VERB	VBN	_	6	acl:relcl	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc865.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc865.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	ADV	RB	_	4	advmod	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -2780,8 +2912,9 @@
 32	_	_	NOUN	NN	_	30	nmod	_	_
 33	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1193.xml 7
-#SENT=
+# sent_id = 0100_2000_6-doc1193.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -2836,8 +2969,9 @@
 52	_	_	PRON	PRP	_	49	nmod:npmod	_	_
 53	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc277.xml 11
-#SENT=
+# sent_id = 0100_2000_6-doc277.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VB	_	0	root	_	_
 2	_	_	PRON	PRP	_	1	obj	_	_
 3	_	_	PROPN	NNP	_	4	compound	_	_
@@ -2851,8 +2985,9 @@
 11	_	_	ADV	RB	_	9	advmod	_	_
 12	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc2631.xml 26
-#SENT=
+# sent_id = 0102_2000_6-doc2631.xml-26
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -2878,8 +3013,9 @@
 23	_	_	NOUN	NN	_	21	nmod	_	_
 24	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2371.xml 0b
-#SENT=
+# sent_id = 0100_2000_6-doc2371.xml-0b
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -2893,8 +3029,9 @@
 11	_	_	NOUN	NN	_	8	nmod	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1353.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc1353.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -2922,8 +3059,9 @@
 25	_	_	NOUN	NN	_	17	advcl	_	_
 26	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc2701.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc2701.xml-20
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -2932,8 +3070,9 @@
 6	_	_	NOUN	NN	_	2	obl	_	_
 7	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2001_6/doc3116.xml 29
-#SENT=
+# sent_id = 0100_2001_6-doc3116.xml-29
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	VERB	VBG	_	3	amod	_	_
 3	_	_	NOUN	NN	_	6	nsubj	_	_
@@ -2945,8 +3084,9 @@
 9	_	_	ADV	RB	_	6	advmod	_	_
 10	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc2012.xml 3a
-#SENT=
+# sent_id = 0102_2000_6-doc2012.xml-3a
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	NOUN	NN	_	3	compound	_	_
 3	_	_	NOUN	NN	_	8	nsubj	_	_
@@ -2973,8 +3113,9 @@
 24	_	_	NOUN	NN	_	18	obl	_	_
 25	_	_	PUNCT	,	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc821.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc821.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	PRP$	_	3	nmod:poss	_	_
 3	_	_	NOUN	NN	_	5	obl	_	_
@@ -3043,8 +3184,9 @@
 66	_	_	NOUN	NNS	_	65	obj	_	_
 67	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2592.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc2592.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -3081,8 +3223,9 @@
 34	_	_	NOUN	NN	_	32	nmod	_	_
 35	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc662.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc662.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -3106,8 +3249,9 @@
 21	_	_	NOUN	NN	_	18	nsubj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1307.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc1307.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -3123,8 +3267,9 @@
 13	_	_	NUM	CD	_	11	obl	_	_
 14	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1655.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc1655.xml-19
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	cop	_	_
 3	_	_	DET	DT	_	0	root	_	_
@@ -3135,8 +3280,9 @@
 8	_	_	VERB	VB	_	6	xcomp	_	_
 9	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc516.xml 24
-#SENT=
+# sent_id = 0100_2000_12-doc516.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADP	RP	_	2	compound:prt	_	_
@@ -3151,8 +3297,9 @@
 12	_	_	NOUN	NNS	_	9	conj	_	_
 13	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2034.xml 15
-#SENT=
+# sent_id = 0100_2000_6-doc2034.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -3196,8 +3343,9 @@
 41	_	_	VERB	VBN	_	11	advcl	_	_
 42	_	_	PUNCT	.	_	11	punct	_	_
 
-#ID=/0102_2000_6/doc983.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc983.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	PUNCT	,	_	8	punct	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -3225,8 +3373,9 @@
 25	_	_	PRON	DT	_	24	obj	_	_
 26	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_12/doc1852.xml 12
-#SENT=
+# sent_id = 0102_2000_12-doc1852.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	SCONJ	IN	_	10	mark	_	_
@@ -3242,8 +3391,9 @@
 13	_	_	NOUN	NN	_	10	nmod	_	_
 14	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc470.xml 31
-#SENT=
+# sent_id = 0100_2000_6-doc470.xml-31
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NNS	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -3261,8 +3411,9 @@
 15	_	_	ADJ	JJ	_	14	xcomp	_	_
 16	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc687.xml 26
-#SENT=
+# sent_id = 0102_2000_6-doc687.xml-26
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	MD	_	5	aux	_	_
@@ -3285,8 +3436,9 @@
 20	_	_	NOUN	NN	_	17	obl	_	_
 21	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1739.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc1739.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -3308,8 +3460,9 @@
 19	_	_	VERB	VBD	_	16	acl:relcl	_	_
 20	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2518.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc2518.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	12	advmod	_	_
 2	_	_	ADP	IN	_	5	case	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -3330,8 +3483,9 @@
 18	_	_	ADP	IN	_	14	case	_	_
 19	_	_	PUNCT	.	_	12	punct	_	_
 
-#ID=/0102_2000_12/doc1003.xml 10
-#SENT=
+# sent_id = 0102_2000_12-doc1003.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	8	cc	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -3376,8 +3530,9 @@
 42	_	_	ADP	IN	_	41	obl	_	_
 43	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_12/doc548.xml 7
-#SENT=
+# sent_id = 0100_2000_12-doc548.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	4	nsubj:pass	_	_
 3	_	_	AUX	VBZ	_	4	aux:pass	_	_
@@ -3391,8 +3546,9 @@
 11	_	_	ADP	IN	_	12	case	_	_
 12	_	_	PROPN	NNP	_	4	obl	_	_
 
-#ID=/0100_2000_6/doc1592.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc1592.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -3427,8 +3583,9 @@
 32	_	_	PROPN	NNP	_	18	obl	_	_
 33	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc2030.xml 44
-#SENT=
+# sent_id = 0100_2000_6-doc2030.xml-44
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	ADV	RB	Polarity=Neg	4	advmod	_	_
@@ -3443,8 +3600,9 @@
 12	_	_	NOUN	NN	_	6	obl	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2574.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc2574.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	7	obl	_	_
@@ -3467,8 +3625,9 @@
 20	_	_	NOUN	NNS	_	13	conj	_	_
 21	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc1696.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc1696.xml-12
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj:pass	_	_
 2	_	_	AUX	VBD	_	3	aux:pass	_	_
 3	_	_	VERB	VBN	_	0	root	_	_
@@ -3477,8 +3636,9 @@
 6	_	_	VERB	VBG	_	3	xcomp	_	_
 7	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1541.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc1541.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -3492,8 +3652,9 @@
 11	_	_	NOUN	NNS	_	4	obl	_	_
 12	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1253.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc1253.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PART	TO	_	2	mark	_	_
 2	_	_	VERB	VB	_	9	advcl	_	_
 3	_	_	NOUN	NN	_	2	obj	_	_
@@ -3520,8 +3681,9 @@
 24	_	_	NOUN	NN	_	21	nsubj	_	_
 25	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc280.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc280.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PUNCT	HYPH	_	7	punct	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -3536,8 +3698,9 @@
 12	_	_	NOUN	NNS	_	9	nmod	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc268.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc268.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	VBP	_	5	aux	_	_
@@ -3554,8 +3717,9 @@
 14	_	_	PRON	DT	_	12	nmod	_	_
 15	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc472.xml 41
-#SENT=
+# sent_id = 0102_2000_12-doc472.xml-41
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	NOUN	NN	_	3	compound	_	_
 3	_	_	NOUN	NNS	_	9	nsubj	_	_
@@ -3570,8 +3734,9 @@
 12	_	_	NOUN	NN	_	9	obl	_	_
 13	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0102_2000_6/doc2035.xml 9
-#SENT=
+# sent_id = 0102_2000_6-doc2035.xml-9
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	NN	_	5	nsubj	_	_
@@ -3581,8 +3746,9 @@
 7	_	_	ADV	RB	_	5	advmod	_	_
 8	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc1198.xml 24
-#SENT=
+# sent_id = 0102_2000_6-doc1198.xml-24
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -3592,8 +3758,9 @@
 7	_	_	NOUN	NN	_	3	obl	_	_
 8	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc357.xml 33
-#SENT=
+# sent_id = 0100_2000_6-doc357.xml-33
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	AUX	VBD	_	4	aux	_	_
@@ -3621,8 +3788,9 @@
 25	_	_	VERB	VBG	_	24	xcomp	_	_
 26	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2016.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc2016.xml-10
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -3633,8 +3801,9 @@
 8	_	_	PRON	PRP	_	6	nmod	_	_
 9	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2484.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc2484.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	4	cc	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	VBP	_	4	aux	_	_
@@ -3648,8 +3817,9 @@
 11	_	_	PUNCT	-RRB-	_	10	punct	_	_
 12	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1938.xml 22
-#SENT=
+# sent_id = 0102_2000_6-doc1938.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	expl	_	_
 2	_	_	AUX	VBZ	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -3662,8 +3832,9 @@
 10	_	_	NOUN	NN	_	7	obl	_	_
 11	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2521.xml 2
-#SENT=
+# sent_id = 0100_2000_6-doc2521.xml-2
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADP	IN	_	6	case	_	_
@@ -3672,16 +3843,18 @@
 6	_	_	NOUN	NNS	_	2	obl	_	_
 7	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2476.xml 16
-#SENT=
+# sent_id = 0102_2000_6-doc2476.xml-16
+# text = _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBP	_	0	root	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	PRON	PRP	_	4	nmod	_	_
 4	_	_	NOUN	NN	_	1	obl	_	_
 5	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc1459.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc1459.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	PRON	DT	_	12	obl	_	_
 3	_	_	PUNCT	,	_	12	punct	_	_
@@ -3723,8 +3896,9 @@
 39	_	_	NOUN	NNS	_	37	obj	_	_
 40	_	_	PUNCT	.	_	12	punct	_	_
 
-#ID=/0100_2000_6/doc50.xml 14
-#SENT=
+# sent_id = 0100_2000_6-doc50.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	SCONJ	IN	_	4	mark	_	_
 3	_	_	AUX	VBG	_	4	cop	_	_
@@ -3761,8 +3935,9 @@
 34	_	_	DET	WDT	_	33	det	_	_
 35	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_12/doc180.xml 2
-#SENT=
+# sent_id = 0102_2000_12-doc180.xml-2
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -3773,8 +3948,9 @@
 8	_	_	NOUN	NNS	_	5	obj	_	_
 9	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc579.xml 3
-#SENT=
+# sent_id = 0100_2000_12-doc579.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -3798,8 +3974,9 @@
 21	_	_	PRON	PRP	_	19	nmod	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2272.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc2272.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	5	cc	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	VBP	_	5	cop	_	_
@@ -3818,8 +3995,9 @@
 16	_	_	NOUN	NN	_	13	nmod	_	_
 17	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc1031.xml 13
-#SENT=
+# sent_id = 0102_2000_6-doc1031.xml-13
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	3	nsubj	_	_
 2	_	_	AUX	VBD	_	3	cop	_	_
 3	_	_	ADJ	JJR	_	6	advcl	_	_
@@ -3831,8 +4009,9 @@
 9	_	_	NOUN	NN	_	6	obl	_	_
 10	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc2578.xml 13
-#SENT=
+# sent_id = 0100_2000_6-doc2578.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -3847,8 +4026,9 @@
 12	_	_	NOUN	NN	_	8	conj	_	_
 13	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1784.xml 15
-#SENT=
+# sent_id = 0100_2000_6-doc1784.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VB	_	0	root	_	_
 2	_	_	PRON	EX	_	1	expl	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -3870,8 +4050,9 @@
 19	_	_	VERB	VB	_	17	xcomp	_	_
 20	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc2357.xml 19
-#SENT=
+# sent_id = 0102_2000_6-doc2357.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PART	TO	_	2	mark	_	_
 2	_	_	VERB	VB	_	4	advcl	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -3890,8 +4071,9 @@
 16	_	_	PRON	PRP	_	13	obl	_	_
 17	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1452.xml 2
-#SENT=
+# sent_id = 0100_2000_6-doc1452.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -3920,8 +4102,9 @@
 26	_	_	NOUN	NN	_	20	obl	_	_
 27	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc533.xml 11
-#SENT=
+# sent_id = 0100_2000_6-doc533.xml-11
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	0	root	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	1	nmod:npmod	_	_
@@ -3931,8 +4114,9 @@
 7	_	_	NOUN	NN	_	1	nmod	_	_
 8	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc2242.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc2242.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADP	IN	_	6	case	_	_
@@ -3954,8 +4138,9 @@
 19	_	_	ADJ	JJ	_	18	amod	_	_
 20	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2001_6/doc3253.xml 2
-#SENT=
+# sent_id = 0100_2001_6-doc3253.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -3983,8 +4168,9 @@
 25	_	_	ADJ	JJ	_	10	ccomp	_	_
 26	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1684.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc1684.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	SCONJ	IN	_	6	mark	_	_
@@ -4009,8 +4195,9 @@
 22	_	_	VERB	VBN	_	18	advcl	_	_
 23	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc704.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc704.xml-11
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -4019,8 +4206,9 @@
 6	_	_	ADV	RB	_	4	advmod	_	_
 7	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc82.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc82.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -4058,8 +4246,9 @@
 35	_	_	NOUN	NN	_	26	obl	_	_
 36	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc919.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc919.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	cop	_	_
 3	_	_	NUM	CD	_	0	root	_	_
@@ -4073,8 +4262,9 @@
 11	_	_	NOUN	NN	_	8	nmod	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc246.xml 9
-#SENT=
+# sent_id = 0102_2000_6-doc246.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	6	nsubj	_	_
@@ -4116,8 +4306,9 @@
 39	_	_	ADV	RB	_	37	advmod	_	_
 40	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc1246.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc1246.xml-23
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -4125,8 +4316,9 @@
 5	_	_	NOUN	NNS	_	2	obj	_	_
 6	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1031.xml 29
-#SENT=
+# sent_id = 0102_2000_6-doc1031.xml-29
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJ	_	2	amod	_	_
 2	_	_	NOUN	NN	_	5	nsubj	_	_
 3	_	_	AUX	VBZ	_	5	cop	_	_
@@ -4134,8 +4326,9 @@
 5	_	_	NOUN	NN	_	0	root	_	_
 6	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc2114.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc2114.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	8	nsubj	_	_
 3	_	_	CCONJ	CC	_	5	cc	_	_
@@ -4161,8 +4354,9 @@
 23	_	_	NOUN	NN	_	20	nmod	_	_
 24	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc2326.xml 35
-#SENT=
+# sent_id = 0100_2000_6-doc2326.xml-35
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBD	_	4	aux	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -4175,8 +4369,9 @@
 10	_	_	NOUN	NN	_	7	conj	_	_
 11	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2329.xml 19
-#SENT=
+# sent_id = 0102_2000_6-doc2329.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	7	expl	_	_
 2	_	_	AUX	VBZ	_	7	cop	_	_
 3	_	_	ADJ	JJ	_	7	amod	_	_
@@ -4205,8 +4400,9 @@
 26	_	_	PRON	PRP	_	24	obl	_	_
 27	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1650.xml 12
-#SENT=
+# sent_id = 0102_2000_6-doc1650.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	ADV	RB	_	5	obl	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -4233,8 +4429,9 @@
 24	_	_	ADJ	JJR	_	16	conj	_	_
 25	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc1806.xml 3
-#SENT=
+# sent_id = 0102_2000_6-doc1806.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -4257,8 +4454,9 @@
 20	_	_	ADP	RP	_	11	compound:prt	_	_
 21	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1329.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc1329.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	NOUN	NN	_	4	compound	_	_
@@ -4276,8 +4474,9 @@
 15	_	_	NOUN	NNS	_	12	obl	_	_
 16	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2001_6/doc3057.xml 14
-#SENT=
+# sent_id = 0100_2001_6-doc3057.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	ADV	RB	_	5	obl	_	_
 3	_	_	ADP	IN	_	2	fixed	_	_
@@ -4295,8 +4494,9 @@
 15	_	_	VERB	VBD	_	12	advcl	_	_
 16	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc1674.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc1674.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	8	nsubj	_	_
@@ -4325,8 +4525,9 @@
 26	_	_	NOUN	NN	_	23	obj	_	_
 27	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc2035.xml 21
-#SENT=
+# sent_id = 0102_2000_6-doc2035.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	VBP	_	7	aux	_	_
 2	_	_	PRON	PRP	_	7	nsubj	_	_
 3	_	_	ADV	RB	_	7	advmod	_	_
@@ -4344,8 +4545,9 @@
 15	_	_	PUNCT	''	_	11	punct	_	_
 16	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc929.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc929.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -4366,16 +4568,18 @@
 18	_	_	NOUN	NN	_	14	obl	_	_
 19	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1492.xml 11
-#SENT=
+# sent_id = 0100_2000_6-doc1492.xml-11
+# text = _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	4	nsubj	_	_
 2	_	_	AUX	VBZ	_	4	cop	_	_
 3	_	_	ADV	RBR	_	4	advmod	_	_
 4	_	_	ADJ	JJ	_	0	root	_	_
 5	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2542.xml 28
-#SENT=
+# sent_id = 0100_2000_6-doc2542.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -4395,8 +4599,9 @@
 17	_	_	PROPN	NNP	_	15	nmod	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc2135.xml 18
-#SENT=
+# sent_id = 0102_2000_12-doc2135.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	2	cc	_	_
 2	_	_	ADV	RB	_	7	advmod	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -4440,8 +4645,9 @@
 41	_	_	NOUN	NN	_	39	obj	_	_
 42	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc168.xml 30
-#SENT=
+# sent_id = 0100_2000_6-doc168.xml-30
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	MD	_	5	aux	_	_
 3	_	_	AUX	VB	_	5	cop	_	_
@@ -4452,8 +4658,9 @@
 8	_	_	NOUN	NN	_	5	obl	_	_
 9	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc599.xml 21
-#SENT=
+# sent_id = 0102_2000_12-doc599.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VB	_	0	root	_	_
 2	_	_	VERB	VBG	_	1	xcomp	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -4472,8 +4679,9 @@
 16	_	_	NOUN	NN	_	13	obj	_	_
 17	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0100_2001_6/doc3116.xml 23
-#SENT=
+# sent_id = 0100_2001_6-doc3116.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -4489,8 +4697,9 @@
 13	_	_	NOUN	NN	_	10	obl	_	_
 14	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1851.xml 16
-#SENT=
+# sent_id = 0102_2000_6-doc1851.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NN	_	4	obl:tmod	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -4504,8 +4713,9 @@
 11	_	_	NOUN	NN	_	6	obl	_	_
 12	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1809.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc1809.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advcl	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -4548,8 +4758,9 @@
 40	_	_	ADV	RB	_	39	fixed	_	_
 41	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_12/doc461.xml 13
-#SENT=
+# sent_id = 0102_2000_12-doc461.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -4567,8 +4778,9 @@
 15	_	_	ADJ	JJ	_	3	advcl	_	_
 16	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2478.xml 37
-#SENT=
+# sent_id = 0100_2000_6-doc2478.xml-37
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	5	nsubj	_	_
 2	_	_	AUX	VBZ	_	5	cop	_	_
 3	_	_	PART	RB	Polarity=Neg	5	advmod	_	_
@@ -4598,8 +4810,9 @@
 27	_	_	ADJ	JJ	_	22	conj	_	_
 28	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc661.xml 28
-#SENT=
+# sent_id = 0100_2000_6-doc661.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VBN	_	0	root	_	_
@@ -4614,8 +4827,9 @@
 12	_	_	NOUN	NN	_	10	obj	_	_
 13	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2462.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc2462.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -4630,8 +4844,9 @@
 12	_	_	NOUN	NN	_	6	nmod	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2091.xml 13
-#SENT=
+# sent_id = 0100_2000_6-doc2091.xml-13
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	7	mark	_	_
 2	_	_	SCONJ	IN	_	1	fixed	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -4642,8 +4857,9 @@
 8	_	_	ADV	RB	_	7	advmod	_	_
 9	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1198.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc1198.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	SCONJ	IN	_	7	mark	_	_
@@ -4658,8 +4874,9 @@
 12	_	_	PROPN	NNP	_	11	flat	_	_
 13	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2001_6/doc3252.xml 38
-#SENT=
+# sent_id = 0100_2001_6-doc3252.xml-38
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	5	nsubj	_	_
 3	_	_	AUX	VBP	_	5	cop	_	_
@@ -4675,8 +4892,9 @@
 13	_	_	PROPN	NNP	_	11	nmod	_	_
 14	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2001_6/doc2798.xml 1
-#SENT=
+# sent_id = 0100_2001_6-doc2798.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -4692,8 +4910,9 @@
 13	_	_	NOUN	NN	_	9	obl	_	_
 14	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2255.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc2255.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -4710,8 +4929,9 @@
 14	_	_	PRON	PRP	_	12	obl	_	_
 15	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3116.xml 21
-#SENT=
+# sent_id = 0100_2001_6-doc3116.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	NOUN	NN	_	4	compound	_	_
@@ -4729,8 +4949,9 @@
 15	_	_	NOUN	NN	_	2	obl	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1700.xml 11
-#SENT=
+# sent_id = 0100_2000_6-doc1700.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	cop	_	_
 3	_	_	NUM	CD	_	0	root	_	_
@@ -4748,8 +4969,9 @@
 15	_	_	NOUN	NN	_	3	nmod	_	_
 16	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1082.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc1082.xml-6
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBG	_	0	root	_	_
 2	_	_	PART	TO	_	3	mark	_	_
 3	_	_	VERB	VB	_	1	xcomp	_	_
@@ -4758,8 +4980,9 @@
 6	_	_	PRON	PRP	_	3	obl	_	_
 7	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_12/doc724.xml 15b
-#SENT=
+# sent_id = 0102_2000_12-doc724.xml-15b
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	expl	_	_
 2	_	_	AUX	VBD	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -4769,8 +4992,9 @@
 7	_	_	PRON	PRP	_	5	obl	_	_
 8	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1797.xml 17
-#SENT=
+# sent_id = 0102_2000_6-doc1797.xml-17
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NN	_	4	obl:tmod	_	_
 3	_	_	PROPN	NNP	_	4	nsubj	_	_
@@ -4779,8 +5003,9 @@
 6	_	_	NOUN	NN	_	4	obj	_	_
 7	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc1576.xml 16
-#SENT=
+# sent_id = 0100_2000_6-doc1576.xml-16
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	7	cc	_	_
 2	_	_	SCONJ	IN	_	7	mark	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -4791,8 +5016,9 @@
 8	_	_	NOUN	NNS	_	7	nsubj	_	_
 9	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc1022.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc1022.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -4826,8 +5052,9 @@
 31	_	_	NOUN	NN	_	29	obl	_	_
 32	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc192.xml 16
-#SENT=
+# sent_id = 0102_2000_12-doc192.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	5	obj	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VB	_	6	csubj	_	_
@@ -4847,8 +5074,9 @@
 17	_	_	ADJ	JJ	_	13	amod	_	_
 18	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_12/doc951.xml 33
-#SENT=
+# sent_id = 0100_2000_12-doc951.xml-33
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -4868,8 +5096,9 @@
 17	_	_	PRON	PRP	_	16	obj	_	_
 18	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2521.xml 25
-#SENT=
+# sent_id = 0100_2000_6-doc2521.xml-25
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NNS	_	5	nsubj	_	_
 3	_	_	AUX	VBZ	_	5	aux	_	_
@@ -4889,8 +5118,9 @@
 17	_	_	VERB	VB	_	15	acl	_	_
 18	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc2680.xml 3
-#SENT=
+# sent_id = 0100_2000_12-doc2680.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -4929,8 +5159,9 @@
 36	_	_	PRON	PRP	_	35	obj	_	_
 37	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc2215.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc2215.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	5	obl	_	_
 3	_	_	PUNCT	,	_	5	punct	_	_
@@ -4958,8 +5189,9 @@
 25	_	_	VERB	VBN	_	20	ccomp	_	_
 26	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc2478.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc2478.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -4975,8 +5207,9 @@
 13	_	_	NOUN	NNS	_	11	obj	_	_
 14	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2723.xml 19
-#SENT=
+# sent_id = 0102_2000_6-doc2723.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NNS	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADJ	JJR	_	6	amod	_	_
@@ -5006,8 +5239,9 @@
 27	_	_	NOUN	NNS	_	23	obj	_	_
 28	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc1852.xml 7
-#SENT=
+# sent_id = 0102_2000_12-doc1852.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	0	root	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	1	obl:tmod	_	_
@@ -5031,8 +5265,9 @@
 21	_	_	DET	DT	_	22	det	_	_
 22	_	_	NOUN	NN	_	15	obl	_	_
 
-#ID=/0100_2000_6/doc1220.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc1220.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	MD	_	4	aux	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	INTJ	UH	_	4	discourse	_	_
@@ -5060,8 +5295,9 @@
 25	_	_	NOUN	NN	_	23	obj	_	_
 26	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2481.xml 28
-#SENT=
+# sent_id = 0100_2000_6-doc2481.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -5074,16 +5310,18 @@
 10	_	_	ADJ	JJR	_	8	obj	_	_
 11	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc24.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc24.xml-17
+# text = _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	4	cc	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	VBD	_	4	cop	_	_
 4	_	_	ADJ	JJ	_	0	root	_	_
 5	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc933.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc933.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PROPN	NNP	_	0	root	_	_
 2	_	_	PROPN	NNP	_	1	flat	_	_
 3	_	_	SCONJ	IN	_	5	mark	_	_
@@ -5115,8 +5353,9 @@
 29	_	_	PROPN	NNP	_	26	nmod	_	_
 30	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0100_2000_6/doc4.xml 2
-#SENT=
+# sent_id = 0100_2000_6-doc4.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -5133,8 +5372,9 @@
 14	_	_	ADP	IN	_	15	case	_	_
 15	_	_	PROPN	NNP	_	13	obl	_	_
 
-#ID=/0102_2000_6/doc1797.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc1797.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	2	advmod	_	_
 2	_	_	ADV	RB	_	5	advmod	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -5151,8 +5391,9 @@
 14	_	_	NUM	CD	_	5	conj	_	_
 15	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc696.xml 18b
-#SENT=
+# sent_id = 0102_2000_6-doc696.xml-18b
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	6	obl:npmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	PRON	PRP	_	1	nmod	_	_
@@ -5173,8 +5414,9 @@
 18	_	_	NOUN	NNS	_	15	obj	_	_
 19	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc2648.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc2648.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -5187,8 +5429,9 @@
 10	_	_	ADP	IN	_	8	nmod	_	_
 11	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc49.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc49.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	MD	_	5	aux	_	_
 3	_	_	ADV	RB	Polarity=Neg	5	advmod	_	_
@@ -5202,8 +5445,9 @@
 11	_	_	NOUN	NN	_	8	obj	_	_
 12	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc754.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc754.xml-3
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBP	_	0	root	_	_
 2	_	_	PRON	PRP	_	1	obj	_	_
 3	_	_	SCONJ	IN	_	4	mark	_	_
@@ -5215,8 +5459,9 @@
 9	_	_	NOUN	NN	_	4	obl	_	_
 10	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc1714.xml 12
-#SENT=
+# sent_id = 0102_2000_6-doc1714.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -5236,8 +5481,9 @@
 17	_	_	ADP	RP	_	14	compound:prt	_	_
 18	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2001_6/doc3241.xml 16
-#SENT=
+# sent_id = 0100_2001_6-doc3241.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NNS	_	7	nsubj:pass	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -5254,8 +5500,9 @@
 14	_	_	ADV	RB	_	13	advmod	_	_
 15	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2001_6/doc2984.xml 23
-#SENT=
+# sent_id = 0100_2001_6-doc2984.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	0	root	_	_
 2	_	_	PUNCT	:	_	1	punct	_	_
 3	_	_	DET	DT	_	4	nsubj	_	_
@@ -5273,8 +5520,9 @@
 15	_	_	NOUN	NN	_	13	obl	_	_
 16	_	_	PUNCT	.	_	1	punct	_	_
 
-#ID=/0102_2000_6/doc940.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc940.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	8	advcl	_	_
@@ -5297,8 +5545,9 @@
 20	_	_	NOUN	NN	_	17	obl	_	_
 21	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_12/doc111.xml 18
-#SENT=
+# sent_id = 0100_2000_12-doc111.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PRON	NN	_	2	obj	_	_
@@ -5328,8 +5577,9 @@
 27	_	_	NOUN	NNS	_	18	obl	_	_
 28	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2579.xml 9
-#SENT=
+# sent_id = 0100_2000_6-doc2579.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	5	nsubj	_	_
 2	_	_	AUX	VBP	_	5	cop	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -5342,8 +5592,9 @@
 10	_	_	NOUN	NN	_	7	obl	_	_
 11	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc2765.xml 2
-#SENT=
+# sent_id = 0100_2000_6-doc2765.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	INTJ	UH	_	11	discourse	_	_
 2	_	_	PUNCT	,	_	11	punct	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -5378,8 +5629,9 @@
 32	_	_	NOUN	NNS	_	31	obj	_	_
 33	_	_	PUNCT	.	_	11	punct	_	_
 
-#ID=/0102_2000_6/doc2241.xml 23
-#SENT=
+# sent_id = 0102_2000_6-doc2241.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	SCONJ	IN	_	7	mark	_	_
@@ -5405,8 +5657,9 @@
 23	_	_	ADJ	JJ	_	19	xcomp	_	_
 24	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1359.xml 15
-#SENT=
+# sent_id = 0102_2000_6-doc1359.xml-15
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PROPN	NNP	_	5	nsubj	_	_
 2	_	_	AUX	VBD	_	5	cop	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -5417,8 +5670,9 @@
 8	_	_	NOUN	NNS	_	5	obl	_	_
 9	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc557.xml 3
-#SENT=
+# sent_id = 0100_2000_12-doc557.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBN	_	0	root	_	_
@@ -5451,8 +5705,9 @@
 30	_	_	ADV	RB	_	24	conj	_	_
 31	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2333.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc2333.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -5482,8 +5737,9 @@
 27	_	_	PRON	PRP	_	25	obl	_	_
 28	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc456.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc456.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBG	_	8	advcl	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -5507,8 +5763,9 @@
 21	_	_	VERB	VBG	_	19	advcl	_	_
 22	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc1201.xml 14a
-#SENT=
+# sent_id = 0102_2000_6-doc1201.xml-14a
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -5536,8 +5793,9 @@
 25	_	_	NOUN	NN	_	20	conj	_	_
 26	_	_	PUNCT	,	_	6	punct	_	_
 
-#ID=/0102_2000_12/doc1579.xml 12
-#SENT=
+# sent_id = 0102_2000_12-doc1579.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -5560,8 +5818,9 @@
 20	_	_	NOUN	NNS	_	18	obj	_	_
 21	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1722.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc1722.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	2	obj	_	_
@@ -5589,8 +5848,9 @@
 25	_	_	PRON	PRP	_	23	obl	_	_
 26	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2001_6/doc3275.xml 5
-#SENT=
+# sent_id = 0100_2001_6-doc3275.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	2	advmod	_	_
 2	_	_	ADV	RB	_	6	advmod	_	_
 3	_	_	PUNCT	,	_	6	punct	_	_
@@ -5616,8 +5876,9 @@
 23	_	_	NOUN	NN	_	20	obl	_	_
 24	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc705.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc705.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADV	RB	_	2	advmod	_	_
@@ -5639,8 +5900,9 @@
 19	_	_	NOUN	NN	_	16	nmod	_	_
 20	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1841.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc1841.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	3	advmod	_	_
 2	_	_	PRON	EX	_	3	expl	_	_
 3	_	_	VERB	VBD	_	7	advcl	_	_
@@ -5660,8 +5922,9 @@
 17	_	_	ADJ	JJ	_	13	advcl	_	_
 18	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_12/doc1357.xml 28
-#SENT=
+# sent_id = 0100_2000_12-doc1357.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -5674,8 +5937,9 @@
 10	_	_	ADV	RB	_	7	advmod	_	_
 11	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_12/doc123.xml 21
-#SENT=
+# sent_id = 0102_2000_12-doc123.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	3	cc	_	_
 2	_	_	PRON	EX	_	3	expl	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -5704,8 +5968,9 @@
 26	_	_	NOUN	NNS	_	23	obl	_	_
 27	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc125.xml 10
-#SENT=
+# sent_id = 0102_2000_12-doc125.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	5	nummod	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBN	_	5	amod	_	_
@@ -5733,8 +5998,9 @@
 25	_	_	NOUN	NN	_	22	obl:tmod	_	_
 26	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0102_2000_12/doc124.xml 13
-#SENT=
+# sent_id = 0102_2000_12-doc124.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJ	_	3	amod	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	4	obl:npmod	_	_
@@ -5756,8 +6022,9 @@
 19	_	_	NOUN	NN	_	17	nmod	_	_
 20	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_12/doc211.xml 24
-#SENT=
+# sent_id = 0102_2000_12-doc211.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -5772,8 +6039,9 @@
 12	_	_	NOUN	NN	_	5	advcl	_	_
 13	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2397.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc2397.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -5831,8 +6099,9 @@
 55	_	_	ADJ	JJ	_	49	conj	_	_
 56	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc928.xml 10
-#SENT=
+# sent_id = 0100_2000_12-doc928.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -5865,8 +6134,9 @@
 30	_	_	PROPN	NNP	_	28	nmod	_	_
 31	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1163.xml 28
-#SENT=
+# sent_id = 0102_2000_6-doc1163.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	2	advmod	_	_
 2	_	_	ADV	RB	_	5	advmod	_	_
 3	_	_	PUNCT	,	_	5	punct	_	_
@@ -5889,8 +6159,9 @@
 20	_	_	PRON	DT	_	18	obl	_	_
 21	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc2064.xml 23
-#SENT=
+# sent_id = 0100_2000_12-doc2064.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	8	obl	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -5916,8 +6187,9 @@
 23	_	_	NOUN	NN	_	20	conj	_	_
 24	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc2008.xml 3
-#SENT=
+# sent_id = 0102_2000_6-doc2008.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	AUX	VBD	_	4	aux	_	_
@@ -5945,8 +6217,9 @@
 25	_	_	NOUN	NN	_	22	obl:tmod	_	_
 26	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc723.xml 16
-#SENT=
+# sent_id = 0100_2000_6-doc723.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJ	_	2	amod	_	_
 2	_	_	NOUN	NN	_	9	obl:tmod	_	_
 3	_	_	ADV	WRB	_	5	advmod	_	_
@@ -5966,8 +6239,9 @@
 17	_	_	ADJ	JJ	_	14	conj	_	_
 18	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc2025.xml 18
-#SENT=
+# sent_id = 0100_2000_6-doc2025.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	5	obl	_	_
 3	_	_	NOUN	NN	_	4	compound	_	_
@@ -5988,8 +6262,9 @@
 18	_	_	ADV	RB	_	17	fixed	_	_
 19	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1777.xml 1
-#SENT=
+# sent_id = 0100_2000_6-doc1777.xml-1
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	expl	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -6001,8 +6276,9 @@
 9	_	_	NOUN	NN	_	7	obj	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1851.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc1851.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	expl	_	_
 2	_	_	AUX	MD	_	5	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	5	advmod	_	_
@@ -6048,8 +6324,9 @@
 43	_	_	NOUN	NN	_	39	obj	_	_
 44	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc754.xml 33
-#SENT=
+# sent_id = 0100_2000_6-doc754.xml-33
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	10	obl	_	_
 3	_	_	PUNCT	,	_	10	punct	_	_
@@ -6076,8 +6353,9 @@
 24	_	_	NOUN	NN	_	12	obl	_	_
 25	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0102_2000_6/doc1541.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc1541.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	4	nsubj	_	_
 2	_	_	AUX	VBZ	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -6092,8 +6370,9 @@
 12	_	_	NOUN	NN	_	9	obl	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc280.xml 16
-#SENT=
+# sent_id = 0100_2000_6-doc280.xml-16
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj:pass	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	AUX	VB	_	4	aux:pass	_	_
@@ -6104,8 +6383,9 @@
 8	_	_	ADV	RB	_	4	advmod	_	_
 9	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc2122.xml 14
-#SENT=
+# sent_id = 0100_2000_12-doc2122.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	10	obl	_	_
 3	_	_	ADP	IN	_	7	case	_	_
@@ -6127,8 +6407,9 @@
 19	_	_	NOUN	NN	_	15	conj	_	_
 20	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_12/doc1376.xml 23
-#SENT=
+# sent_id = 0100_2000_12-doc1376.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	3	nsubj	_	_
 2	_	_	AUX	VBD	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -6162,8 +6443,9 @@
 31	_	_	PRON	PRP	_	28	nmod	_	_
 32	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc1415.xml 8
-#SENT=
+# sent_id = 0100_2000_12-doc1415.xml-8
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -6175,8 +6457,9 @@
 9	_	_	NOUN	NN	_	4	obl	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2307.xml 18
-#SENT=
+# sent_id = 0102_2000_6-doc2307.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	PRON	PRP	_	2	obj	_	_
@@ -6190,8 +6473,9 @@
 11	_	_	NOUN	NN	_	9	conj	_	_
 12	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1895.xml 28
-#SENT=
+# sent_id = 0100_2000_6-doc1895.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	12	advmod	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	DET	DT	_	1	obl	_	_
@@ -6220,8 +6504,9 @@
 26	_	_	PROPN	NNP	_	25	flat	_	_
 27	_	_	PUNCT	.	_	12	punct	_	_
 
-#ID=/0100_2000_6/doc1130.xml 27
-#SENT=
+# sent_id = 0100_2000_6-doc1130.xml-27
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -6236,8 +6521,9 @@
 12	_	_	NOUN	NNS	_	9	obj	_	_
 13	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3006.xml 16
-#SENT=
+# sent_id = 0100_2001_6-doc3006.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	6	advcl	_	_
@@ -6258,8 +6544,9 @@
 18	_	_	PRON	DT	_	16	nmod	_	_
 19	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_12/doc1306.xml 17
-#SENT=
+# sent_id = 0100_2000_12-doc1306.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -6310,8 +6597,9 @@
 48	_	_	NOUN	NN	_	45	obl	_	_
 49	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1155.xml 38
-#SENT=
+# sent_id = 0102_2000_6-doc1155.xml-38
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	SCONJ	IN	_	4	mark	_	_
 3	_	_	PROPN	NNP	_	4	nsubj	_	_
@@ -6327,8 +6615,9 @@
 13	_	_	NOUN	NN	_	8	obl	_	_
 14	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2001_6/doc3040.xml 19
-#SENT=
+# sent_id = 0100_2001_6-doc3040.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJ	_	2	amod	_	_
 2	_	_	NOUN	NNS	_	9	nsubj	_	_
 3	_	_	CCONJ	CC	_	2	cc	_	_
@@ -6353,8 +6642,9 @@
 22	_	_	NOUN	NN	_	19	obl	_	_
 23	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc1383.xml 5
-#SENT=
+# sent_id = 0100_2000_6-doc1383.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	7	obl	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -6395,8 +6685,9 @@
 38	_	_	PROPN	NNP	_	36	nmod	_	_
 39	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc1153.xml 17a
-#SENT=
+# sent_id = 0100_2000_6-doc1153.xml-17a
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	4	obl:tmod	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -6410,8 +6701,9 @@
 11	_	_	DET	DT	_	12	det	_	_
 12	_	_	NOUN	NN	_	10	obj	_	_
 
-#ID=/0100_2000_6/doc1696.xml 26
-#SENT=
+# sent_id = 0100_2000_6-doc1696.xml-26
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	12	advmod	_	_
 2	_	_	ADV	WRB	_	4	mark	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -6434,8 +6726,9 @@
 20	_	_	VERB	VB	_	18	xcomp	_	_
 21	_	_	PUNCT	.	_	13	punct	_	_
 
-#ID=/0100_2000_6/doc1297.xml 21
-#SENT=
+# sent_id = 0100_2000_6-doc1297.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	2	compound	_	_
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -6449,8 +6742,9 @@
 11	_	_	NOUN	NN	_	9	nmod	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc788.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc788.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	19	advmod	_	_
 2	_	_	PUNCT	,	_	19	punct	_	_
 3	_	_	ADV	WRB	_	6	mark	_	_
@@ -6487,8 +6781,9 @@
 34	_	_	NOUN	NN	_	31	nmod	_	_
 35	_	_	PUNCT	.	_	19	punct	_	_
 
-#ID=/0102_2000_6/doc654.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc654.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NNS	_	4	nsubj	_	_
 3	_	_	AUX	VBD	_	4	aux	_	_
@@ -6519,8 +6814,9 @@
 28	_	_	PRON	NN	_	24	obl	_	_
 29	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2476.xml 35
-#SENT=
+# sent_id = 0102_2000_6-doc2476.xml-35
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	DT	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PROPN	NNP	_	2	obj	_	_
@@ -6531,8 +6827,9 @@
 8	_	_	VERB	VBN	_	2	conj	_	_
 9	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_12/doc1376.xml 6
-#SENT=
+# sent_id = 0100_2000_12-doc1376.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	VBZ	_	5	cop	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -6556,8 +6853,9 @@
 21	_	_	ADV	RB	_	20	advmod	_	_
 22	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc1357.xml 24
-#SENT=
+# sent_id = 0100_2000_12-doc1357.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBD	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -6572,8 +6870,9 @@
 12	_	_	VERB	VB	_	9	xcomp	_	_
 13	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1201.xml 15
-#SENT=
+# sent_id = 0102_2000_6-doc1201.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	PRON	DT	_	17	nsubj	_	_
 3	_	_	PRON	WP	_	4	nsubj	_	_
@@ -6608,8 +6907,9 @@
 32	_	_	NOUN	NN	_	30	obl	_	_
 33	_	_	PUNCT	.	_	17	punct	_	_
 
-#ID=/0102_2000_12/doc935.xml 14
-#SENT=
+# sent_id = 0102_2000_12-doc935.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	8	advcl	_	_
@@ -6637,8 +6937,9 @@
 25	_	_	NOUN	NN	_	22	conj	_	_
 26	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2001_6/doc3040.xml 14
-#SENT=
+# sent_id = 0100_2001_6-doc3040.xml-14
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	MD	_	3	aux	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -6648,8 +6949,9 @@
 7	_	_	NOUN	NN	_	5	nmod	_	_
 8	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3236.xml 13
-#SENT=
+# sent_id = 0100_2001_6-doc3236.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	15	advcl	_	_
@@ -6670,8 +6972,9 @@
 18	_	_	PRON	PRP	_	17	obj	_	_
 19	_	_	PUNCT	.	_	15	punct	_	_
 
-#ID=/0100_2000_6/doc67.xml 27
-#SENT=
+# sent_id = 0100_2000_6-doc67.xml-27
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PRON	PRP	_	7	nsubj	_	_
@@ -6681,8 +6984,9 @@
 7	_	_	NOUN	NN	_	2	ccomp	_	_
 8	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2514.xml 32
-#SENT=
+# sent_id = 0102_2000_6-doc2514.xml-32
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	INTJ	UH	_	7	discourse	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	PRON	PRP	_	7	nsubj	_	_
@@ -6692,8 +6996,9 @@
 7	_	_	NOUN	NN	_	0	root	_	_
 8	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc1784.xml 7
-#SENT=
+# sent_id = 0100_2000_6-doc1784.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	Polarity=Neg	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -6719,8 +7024,9 @@
 23	_	_	ADJ	JJ	_	21	conj	_	_
 24	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc1357.xml 29
-#SENT=
+# sent_id = 0100_2000_12-doc1357.xml-29
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -6737,8 +7043,9 @@
 14	_	_	PRON	PRP	_	13	obj	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc2638.xml 17a
-#SENT=
+# sent_id = 0100_2000_12-doc2638.xml-17a
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -6750,8 +7057,9 @@
 9	_	_	NOUN	NNS	_	5	obj	_	_
 10	_	_	PUNCT	,	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1792.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc1792.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -6768,8 +7076,9 @@
 14	_	_	PROPN	NNP	_	13	flat	_	_
 15	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc2546.xml 19
-#SENT=
+# sent_id = 0100_2000_12-doc2546.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBZ	_	4	cop	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -6783,8 +7092,9 @@
 11	_	_	ADV	RB	_	10	fixed	_	_
 12	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc460.xml 14
-#SENT=
+# sent_id = 0100_2000_6-doc460.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	NOUN	NNS	_	4	nsubj	_	_
@@ -6821,8 +7131,9 @@
 34	_	_	NOUN	NN	_	33	obj	_	_
 35	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc2638.xml 8
-#SENT=
+# sent_id = 0100_2000_12-doc2638.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -6866,8 +7177,9 @@
 41	_	_	NOUN	NN	_	37	obl	_	_
 42	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1241.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc1241.xml-6
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -6877,8 +7189,9 @@
 7	_	_	NUM	CD	_	5	obl	_	_
 8	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2763.xml 25
-#SENT=
+# sent_id = 0102_2000_6-doc2763.xml-25
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	4	cc	_	_
 2	_	_	NOUN	NNS	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -6894,16 +7207,18 @@
 13	_	_	NOUN	NNS	_	4	conj	_	_
 14	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1626.xml 16c
-#SENT=
+# sent_id = 0102_2000_6-doc1626.xml-16c
+# text = _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
 4	_	_	ADJ	JJ	_	3	xcomp	_	_
 5	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc1811.xml 15
-#SENT=
+# sent_id = 0100_2000_12-doc1811.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBZ	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -6921,8 +7236,9 @@
 15	_	_	NOUN	NN	_	13	obj	_	_
 16	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1110.xml 16
-#SENT=
+# sent_id = 0102_2000_6-doc1110.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -6958,8 +7274,9 @@
 33	_	_	NOUN	NN	_	28	nmod	_	_
 34	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_12/doc2305.xml 15
-#SENT=
+# sent_id = 0100_2000_12-doc2305.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	INTJ	UH	_	4	discourse	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -6982,8 +7299,9 @@
 20	_	_	VERB	VBP	_	18	acl:relcl	_	_
 21	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1472.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc1472.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NNS	_	5	nsubj:pass	_	_
@@ -7001,8 +7319,9 @@
 15	_	_	VERB	VBG	_	10	conj	_	_
 16	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1909.xml 8
-#SENT=
+# sent_id = 0100_2000_6-doc1909.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	VBP	_	3	aux	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -7019,8 +7338,9 @@
 14	_	_	NOUN	NN	_	11	nmod	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1981.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc1981.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	VBD	_	5	cop	_	_
 3	_	_	PART	RB	Polarity=Neg	5	advmod	_	_
@@ -7047,8 +7367,9 @@
 24	_	_	ADP	RP	_	20	compound:prt	_	_
 25	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1759.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc1759.xml-6
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -7060,8 +7381,9 @@
 9	_	_	CCONJ	CC	_	7	conj	_	_
 10	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_12/doc575.xml 7
-#SENT=
+# sent_id = 0102_2000_12-doc575.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PUNCT	HYPH	_	3	punct	_	_
 2	_	_	NOUN	NN	_	3	compound	_	_
 3	_	_	NOUN	NNS	_	0	root	_	_
@@ -7076,8 +7398,9 @@
 12	_	_	PUNCT	,	_	3	punct	_	_
 13	_	_	CCONJ	CC	_	3	cc	_	_
 
-#ID=/0100_2000_12/doc1037.xml 22a
-#SENT=
+# sent_id = 0100_2000_12-doc1037.xml-22a
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -7086,8 +7409,9 @@
 6	_	_	ADJ	JJ	_	0	root	_	_
 7	_	_	PUNCT	,	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1164.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc1164.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -7117,8 +7441,9 @@
 27	_	_	NOUN	NNS	_	25	conj	_	_
 28	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc964.xml 11
-#SENT=
+# sent_id = 0100_2000_12-doc964.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -7133,8 +7458,9 @@
 12	_	_	NOUN	NN	_	8	nmod	_	_
 13	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_12/doc1581.xml 34
-#SENT=
+# sent_id = 0100_2000_12-doc1581.xml-34
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -7146,8 +7472,9 @@
 9	_	_	NOUN	NNS	_	3	obl	_	_
 10	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2318.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc2318.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -7161,8 +7488,9 @@
 11	_	_	VERB	VB	_	8	acl:relcl	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc126.xml 2
-#SENT=
+# sent_id = 0100_2000_12-doc126.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	9	obl	_	_
@@ -7195,8 +7523,9 @@
 30	_	_	ADJ	JJ	_	9	parataxis	_	_
 31	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0102_2000_12/doc955.xml 32
-#SENT=
+# sent_id = 0102_2000_12-doc955.xml-32
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -7208,8 +7537,9 @@
 9	_	_	NOUN	NNS	_	4	obl	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_12/doc238.xml 9
-#SENT=
+# sent_id = 0102_2000_12-doc238.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -7229,8 +7559,9 @@
 17	_	_	NOUN	NN	_	14	obl:tmod	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc557.xml 9
-#SENT=
+# sent_id = 0100_2000_12-doc557.xml-9
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	cop	_	_
 3	_	_	ADJ	JJ	_	0	root	_	_
@@ -7240,8 +7571,9 @@
 7	_	_	NOUN	NN	_	5	obj	_	_
 8	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3252.xml 10
-#SENT=
+# sent_id = 0100_2001_6-doc3252.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -7263,8 +7595,9 @@
 19	_	_	NUM	CD	_	16	obl	_	_
 20	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2220.xml 11
-#SENT=
+# sent_id = 0100_2000_6-doc2220.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	6	advcl	_	_
@@ -7287,8 +7620,9 @@
 20	_	_	PROPN	NNP	_	19	xcomp	_	_
 21	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc425.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc425.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	PRON	DT	_	7	obl	_	_
 3	_	_	PUNCT	,	_	7	punct	_	_
@@ -7307,8 +7641,9 @@
 16	_	_	ADJ	JJ	_	7	advcl	_	_
 17	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1628.xml 2
-#SENT=
+# sent_id = 0102_2000_6-doc1628.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -7321,8 +7656,9 @@
 10	_	_	ADV	WRB	_	8	advmod	_	_
 11	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2745.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc2745.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	PUNCT	,	_	8	punct	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -7345,8 +7681,9 @@
 20	_	_	NOUN	NN	_	17	obl	_	_
 21	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc2406.xml 19
-#SENT=
+# sent_id = 0100_2000_6-doc2406.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	NOUN	NN	_	2	obj	_	_
@@ -7369,8 +7706,9 @@
 20	_	_	NOUN	NN	_	18	obl	_	_
 21	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1320.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc1320.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	9	advmod	_	_
 2	_	_	PUNCT	,	_	9	punct	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -7407,8 +7745,9 @@
 34	_	_	PUNCT	.	_	9	punct	_	_
 35	_	_	PUNCT	-RRB-	_	9	punct	_	_
 
-#ID=/0100_2001_6/doc3096.xml 14
-#SENT=
+# sent_id = 0100_2001_6-doc3096.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -7422,8 +7761,9 @@
 11	_	_	PRON	PRP	_	10	obj	_	_
 12	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0102_2000_6/doc92.xml 3
-#SENT=
+# sent_id = 0102_2000_6-doc92.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -7453,8 +7793,9 @@
 27	_	_	ADJ	JJ	_	18	advcl	_	_
 28	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2407.xml 19
-#SENT=
+# sent_id = 0102_2000_6-doc2407.xml-19
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	8	mark	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NNS	_	8	nsubj:pass	_	_
@@ -7477,8 +7818,9 @@
 20	_	_	VERB	VBN	_	16	advcl	_	_
 21	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc161.xml 6
-#SENT=
+# sent_id = 0100_2000_6-doc161.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	PRP$	_	4	nmod:poss	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -7491,8 +7833,9 @@
 10	_	_	VERB	VB	_	8	xcomp	_	_
 11	_	_	PUNCT	:	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc574.xml 25
-#SENT=
+# sent_id = 0102_2000_6-doc574.xml-25
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	expl	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	SCONJ	IN	_	8	mark	_	_
@@ -7507,8 +7850,9 @@
 12	_	_	PRON	PRP	_	8	obl	_	_
 13	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2091.xml 9
-#SENT=
+# sent_id = 0100_2000_6-doc2091.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -7523,8 +7867,9 @@
 12	_	_	PRON	PRP	_	10	nmod	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_12/doc1234.xml 26
-#SENT=
+# sent_id = 0100_2000_12-doc1234.xml-26
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NNS	_	3	obl	_	_
 3	_	_	SCONJ	IN	_	6	mark	_	_
@@ -7547,8 +7892,9 @@
 20	_	_	ADJ	JJ	_	18	xcomp	_	_
 21	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_6/doc444.xml 15
-#SENT=
+# sent_id = 0100_2000_6-doc444.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advcl	_	_
@@ -7586,8 +7932,9 @@
 35	_	_	AUX	VBN	_	31	acl:relcl	_	_
 36	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1307.xml 9
-#SENT=
+# sent_id = 0102_2000_6-doc1307.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	5	cc	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	5	nsubj	_	_
@@ -7611,8 +7958,9 @@
 21	_	_	NOUN	NN	_	19	obl	_	_
 22	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc350.xml 20
-#SENT=
+# sent_id = 0102_2000_12-doc350.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	ADP	IN	_	6	case	_	_
@@ -7627,8 +7975,9 @@
 12	_	_	NOUN	NN	_	10	obj	_	_
 13	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1576.xml 1
-#SENT=
+# sent_id = 0100_2000_6-doc1576.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -7643,8 +7992,9 @@
 12	_	_	NOUN	NN	_	9	obl	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1893.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc1893.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	7	cc	_	_
 2	_	_	ADP	IN	_	5	case	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -7659,8 +8009,9 @@
 12	_	_	PRON	PRP	_	11	obj	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc2514.xml 16
-#SENT=
+# sent_id = 0102_2000_6-doc2514.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -7682,8 +8033,9 @@
 19	_	_	NOUN	NN	_	16	obj	_	_
 20	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2441.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc2441.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -7702,8 +8054,9 @@
 16	_	_	NUM	CD	_	14	obl	_	_
 17	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_12/doc284.xml 9
-#SENT=
+# sent_id = 0102_2000_12-doc284.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -7716,8 +8069,9 @@
 10	_	_	ADJ	JJ	_	0	root	_	_
 11	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0102_2000_6/doc892.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc892.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJ	_	2	amod	_	_
 2	_	_	NOUN	NN	_	7	obl:tmod	_	_
 3	_	_	PRON	PRP	_	7	nsubj	_	_
@@ -7731,8 +8085,9 @@
 11	_	_	PROPN	NNP	_	9	nmod	_	_
 12	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2001_6/doc3220.xml 4
-#SENT=
+# sent_id = 0100_2001_6-doc3220.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	8	nsubj	_	_
@@ -7748,8 +8103,9 @@
 13	_	_	NOUN	NN	_	10	conj	_	_
 14	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc2045.xml 30
-#SENT=
+# sent_id = 0100_2000_6-doc2045.xml-30
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	5	obl:tmod	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -7768,8 +8124,9 @@
 16	_	_	NOUN	NNS	_	10	obl	_	_
 17	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc212.xml 24
-#SENT=
+# sent_id = 0102_2000_6-doc212.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -7794,8 +8151,9 @@
 22	_	_	NOUN	NN	_	18	obl	_	_
 23	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3063.xml 5
-#SENT=
+# sent_id = 0100_2001_6-doc3063.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	5	nsubj:pass	_	_
 3	_	_	AUX	VBZ	_	5	aux	_	_
@@ -7819,8 +8177,9 @@
 21	_	_	PUNCT	''	_	5	punct	_	_
 22	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2514.xml 31
-#SENT=
+# sent_id = 0102_2000_6-doc2514.xml-31
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	PRP$	_	2	nmod:poss	_	_
 2	_	_	NOUN	NN	_	4	nsubj	_	_
 3	_	_	ADV	RB	Polarity=Neg	4	advmod	_	_
@@ -7832,8 +8191,9 @@
 9	_	_	NOUN	NN	_	7	obj	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_12/doc151.xml 5
-#SENT=
+# sent_id = 0102_2000_12-doc151.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJR	_	3	amod	_	_
 2	_	_	NOUN	NN	_	3	compound	_	_
 3	_	_	NOUN	NNS	_	5	nsubj	_	_
@@ -7849,8 +8209,9 @@
 13	_	_	NOUN	NNS	_	11	nmod	_	_
 14	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc931.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc931.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -7868,8 +8229,9 @@
 15	_	_	NOUN	NNS	_	13	obj	_	_
 16	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3040.xml 6
-#SENT=
+# sent_id = 0100_2001_6-doc3040.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	9	advcl	_	_
@@ -7887,8 +8249,9 @@
 15	_	_	NOUN	NN	_	9	obl	_	_
 16	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc2222.xml 15
-#SENT=
+# sent_id = 0100_2000_6-doc2222.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NNS	_	4	nsubj	_	_
 3	_	_	AUX	VBP	_	4	aux	_	_
@@ -7912,8 +8275,9 @@
 21	_	_	PRON	PRP	_	20	obj	_	_
 22	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_12/doc2251.xml 18
-#SENT=
+# sent_id = 0102_2000_12-doc2251.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NN	_	6	nsubj	_	_
 3	_	_	CCONJ	CC	_	5	cc	_	_
@@ -7928,8 +8292,9 @@
 12	_	_	NOUN	NN	_	9	nmod	_	_
 13	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc213.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc213.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -7944,8 +8309,9 @@
 12	_	_	PROPN	NNP	_	8	obl	_	_
 13	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc932.xml 28
-#SENT=
+# sent_id = 0100_2000_6-doc932.xml-28
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	4	cc	_	_
 2	_	_	ADV	RB	_	4	advmod	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -7985,8 +8351,9 @@
 37	_	_	PUNCT	''	_	30	punct	_	_
 38	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1496.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc1496.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -8015,8 +8382,9 @@
 26	_	_	VERB	VBN	_	5	advcl	_	_
 27	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc92.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc92.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	expl	_	_
 2	_	_	AUX	VBD	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -8035,8 +8403,9 @@
 16	_	_	NOUN	NN	_	9	obl	_	_
 17	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2349.xml 22
-#SENT=
+# sent_id = 0102_2000_6-doc2349.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -8055,8 +8424,9 @@
 16	_	_	NOUN	NNS	_	14	obj	_	_
 17	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1763.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc1763.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBD	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -8070,8 +8440,9 @@
 11	_	_	NOUN	NNS	_	10	obj	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc41.xml 33
-#SENT=
+# sent_id = 0100_2000_6-doc41.xml-33
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	8	nmod	_	_
 3	_	_	PUNCT	,	_	8	punct	_	_
@@ -8085,8 +8456,9 @@
 11	_	_	ADV	RB	_	8	advmod	_	_
 12	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc1909.xml 13
-#SENT=
+# sent_id = 0100_2000_6-doc1909.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NN	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	PART	TO	_	7	mark	_	_
@@ -8121,8 +8493,9 @@
 32	_	_	NOUN	NN	_	2	conj	_	_
 33	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1780.xml 27
-#SENT=
+# sent_id = 0100_2000_6-doc1780.xml-27
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	DET	DT	_	6	det	_	_
@@ -8137,8 +8510,9 @@
 12	_	_	NOUN	NN	_	10	obj	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc4.xml 7
-#SENT=
+# sent_id = 0100_2000_6-doc4.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	5	advmod	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	VBD	_	5	cop	_	_
@@ -8155,8 +8529,9 @@
 14	_	_	NOUN	NN	_	11	nmod	_	_
 15	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1045.xml 16
-#SENT=
+# sent_id = 0102_2000_6-doc1045.xml-16
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	PRON	DT	_	4	obl	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -8174,8 +8549,9 @@
 15	_	_	ADV	RB	_	4	conj	_	_
 16	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc912.xml 21
-#SENT=
+# sent_id = 0100_2000_12-doc912.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -8199,8 +8575,9 @@
 21	_	_	ADV	RB	_	20	advmod	_	_
 22	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc932.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc932.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -8217,8 +8594,9 @@
 14	_	_	ADV	RB	_	13	advmod	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1638.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc1638.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -8254,8 +8632,9 @@
 33	_	_	VERB	VBP	_	31	acl:relcl	_	_
 34	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3002.xml 1
-#SENT=
+# sent_id = 0100_2001_6-doc3002.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	20	obl	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -8336,8 +8715,9 @@
 78	_	_	NOUN	NN	_	73	obl	_	_
 79	_	_	PUNCT	.	_	20	punct	_	_
 
-#ID=/0102_2000_12/doc1858.xml 26
-#SENT=
+# sent_id = 0102_2000_12-doc1858.xml-26
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	2	advmod	_	_
 2	_	_	ADJ	JJ	_	0	root	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -8345,8 +8725,9 @@
 5	_	_	AUX	VBP	_	2	cop	_	_
 6	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc761.xml 24
-#SENT=
+# sent_id = 0100_2000_6-doc761.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	5	nsubj	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -8368,8 +8749,9 @@
 19	_	_	NOUN	NNS	_	13	nmod	_	_
 20	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_12/doc2340.xml 6
-#SENT=
+# sent_id = 0102_2000_12-doc2340.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	DET	DT	_	5	det	_	_
@@ -8389,8 +8771,9 @@
 17	_	_	VERB	VB	_	13	ccomp	_	_
 18	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1370.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc1370.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -8408,8 +8791,9 @@
 15	_	_	PRON	PRP	_	13	obj	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2093.xml 50
-#SENT=
+# sent_id = 0102_2000_6-doc2093.xml-50
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	MD	_	3	aux	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -8440,8 +8824,9 @@
 28	_	_	NOUN	NNS	_	25	nmod	_	_
 29	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc461.xml 17b
-#SENT=
+# sent_id = 0102_2000_12-doc461.xml-17b
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VB	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -8454,8 +8839,9 @@
 10	_	_	PRON	PRP	_	8	nmod	_	_
 11	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1938.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc1938.xml-8
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	expl	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -8463,8 +8849,9 @@
 5	_	_	NOUN	NN	_	3	nsubj	_	_
 6	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1492.xml 24
-#SENT=
+# sent_id = 0100_2000_6-doc1492.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PART	TO	_	2	mark	_	_
 2	_	_	VERB	VB	_	15	advcl	_	_
 3	_	_	PUNCT	,	_	15	punct	_	_
@@ -8492,8 +8879,9 @@
 25	_	_	PRON	PRP	_	15	parataxis	_	_
 26	_	_	PUNCT	.	_	15	punct	_	_
 
-#ID=/0102_2000_12/doc1298.xml 20
-#SENT=
+# sent_id = 0102_2000_12-doc1298.xml-20
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	5	obl	_	_
 3	_	_	PUNCT	,	_	5	punct	_	_
@@ -8503,8 +8891,9 @@
 7	_	_	NOUN	NNS	_	5	nsubj	_	_
 8	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc814.xml 7
-#SENT=
+# sent_id = 0100_2000_12-doc814.xml-7
+# text = _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	NOUN	NNS	_	5	nsubj	_	_
@@ -8512,8 +8901,9 @@
 5	_	_	ADJ	JJ	_	0	root	_	_
 6	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc2599.xml 4b
-#SENT=
+# sent_id = 0100_2000_12-doc2599.xml-4b
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -8533,8 +8923,9 @@
 17	_	_	NOUN	NN	_	15	obj	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1201.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc1201.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	10	advmod	_	_
 2	_	_	PUNCT	,	_	10	punct	_	_
 3	_	_	ADV	WRB	_	5	advmod	_	_
@@ -8570,8 +8961,9 @@
 33	_	_	NOUN	NN	_	30	obl	_	_
 34	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0102_2000_6/doc278.xml 11
-#SENT=
+# sent_id = 0102_2000_6-doc278.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -8589,8 +8981,9 @@
 15	_	_	PRON	PRP	_	10	obl	_	_
 16	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1162.xml 15
-#SENT=
+# sent_id = 0100_2000_6-doc1162.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	2	advmod	_	_
 2	_	_	ADV	RB	_	13	advmod	_	_
 3	_	_	PUNCT	,	_	2	punct	_	_
@@ -8623,8 +9016,9 @@
 30	_	_	ADV	RB	_	28	conj	_	_
 31	_	_	PUNCT	.	_	13	punct	_	_
 
-#ID=/0102_2000_6/doc2035.xml 2
-#SENT=
+# sent_id = 0102_2000_6-doc2035.xml-2
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -8654,8 +9048,9 @@
 27	_	_	NOUN	NN	_	24	obl	_	_
 28	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1744.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc1744.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	cop	_	_
 3	_	_	ADJ	JJR	_	0	root	_	_
@@ -8675,8 +9070,9 @@
 17	_	_	PRON	PRP	_	16	obj	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc1462.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc1462.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -8697,8 +9093,9 @@
 18	_	_	NOUN	NN	_	17	obj	_	_
 19	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3102.xml 14
-#SENT=
+# sent_id = 0100_2001_6-doc3102.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	expl	_	_
 2	_	_	AUX	VBZ	_	4	cop	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -8725,8 +9122,9 @@
 24	_	_	NOUN	NN	_	22	nmod	_	_
 25	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc271.xml 22
-#SENT=
+# sent_id = 0100_2000_12-doc271.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -8745,8 +9143,9 @@
 16	_	_	NOUN	NN	_	14	obl	_	_
 17	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc958.xml 14
-#SENT=
+# sent_id = 0100_2000_6-doc958.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	6	nsubj	_	_
 2	_	_	AUX	VBP	_	6	cop	_	_
 3	_	_	ADV	RB	_	6	advmod	_	_
@@ -8767,8 +9166,9 @@
 18	_	_	NOUN	NNS	_	16	conj	_	_
 19	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc2709.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc2709.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBG	_	7	advcl	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	1	obj	_	_
@@ -8786,8 +9186,9 @@
 15	_	_	ADV	RB	_	14	advmod	_	_
 16	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc1592.xml 14
-#SENT=
+# sent_id = 0100_2000_6-doc1592.xml-14
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -8798,8 +9199,9 @@
 8	_	_	NOUN	NN	_	5	obl	_	_
 9	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3063.xml 15
-#SENT=
+# sent_id = 0100_2001_6-doc3063.xml-15
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -8811,8 +9213,9 @@
 9	_	_	NOUN	NN	_	3	obl	_	_
 10	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1650.xml 9
-#SENT=
+# sent_id = 0102_2000_6-doc1650.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	NUM	CD	_	4	nummod	_	_
@@ -8825,8 +9228,9 @@
 10	_	_	ADJ	JJ	_	2	ccomp	_	_
 11	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2703.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc2703.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADV	RB	_	5	advmod	_	_
@@ -8853,8 +9257,9 @@
 24	_	_	PROPN	NNP	_	22	nmod	_	_
 25	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_12/doc2638.xml 18
-#SENT=
+# sent_id = 0100_2000_12-doc2638.xml-18
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VB	_	0	root	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -8865,8 +9270,9 @@
 8	_	_	NOUN	NN	_	6	obj	_	_
 9	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc556.xml 4
-#SENT=
+# sent_id = 0102_2000_12-doc556.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -8904,8 +9310,9 @@
 35	_	_	NOUN	NNS	_	32	obl	_	_
 36	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2043.xml 34
-#SENT=
+# sent_id = 0100_2000_6-doc2043.xml-34
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	VERB	VBG	_	8	advcl	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	1	obj	_	_
@@ -8920,8 +9327,9 @@
 12	_	_	NOUN	NNS	_	10	obj	_	_
 13	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc2496.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc2496.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	3	cc	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -8941,8 +9349,9 @@
 17	_	_	VERB	VB	_	10	advcl	_	_
 18	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2594.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc2594.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	6	mark	_	_
 2	_	_	SCONJ	IN	_	1	fixed	_	_
 3	_	_	PRON	DT	_	6	nsubj	_	_
@@ -8964,8 +9373,9 @@
 19	_	_	ADJ	JJR	_	15	xcomp	_	_
 20	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc730.xml 24
-#SENT=
+# sent_id = 0100_2000_6-doc730.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	ADJ	JJ	_	8	obl	_	_
 3	_	_	PUNCT	,	_	8	punct	_	_
@@ -9000,8 +9410,9 @@
 32	_	_	ADV	RB	_	31	advmod	_	_
 33	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_12/doc1621.xml 23
-#SENT=
+# sent_id = 0100_2000_12-doc1621.xml-23
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -9012,8 +9423,9 @@
 8	_	_	NOUN	NN	_	5	obl	_	_
 9	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1637.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc1637.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	2	nsubj	_	_
 2	_	_	VERB	VBZ	_	0	root	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -9033,8 +9445,9 @@
 17	_	_	ADJ	JJ	_	2	conj	_	_
 18	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc4.xml 9
-#SENT=
+# sent_id = 0100_2000_6-doc4.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	7	obl	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -9049,8 +9462,9 @@
 12	_	_	NOUN	NN	_	1	nmod	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1714.xml 7
-#SENT=
+# sent_id = 0102_2000_6-doc1714.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	4	advmod	_	_
 2	_	_	PUNCT	,	_	4	punct	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -9071,8 +9485,9 @@
 18	_	_	ADJ	JJ	_	15	ccomp	_	_
 19	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1628.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc1628.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -9085,8 +9500,9 @@
 10	_	_	NOUN	NN	_	7	nmod	_	_
 11	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc124.xml 24
-#SENT=
+# sent_id = 0102_2000_12-doc124.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	6	nsubj	_	_
@@ -9106,8 +9522,9 @@
 17	_	_	PART	RB	Polarity=Neg	16	advmod	_	_
 18	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc1087.xml 21
-#SENT=
+# sent_id = 0100_2000_6-doc1087.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -9145,8 +9562,9 @@
 35	_	_	AUX	VBP	_	32	cop	_	_
 36	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1253.xml 13
-#SENT=
+# sent_id = 0102_2000_6-doc1253.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -9162,8 +9580,9 @@
 13	_	_	ADV	RB	_	8	advmod	_	_
 14	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_6/doc2475.xml 20
-#SENT=
+# sent_id = 0100_2000_6-doc2475.xml-20
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PUNCT	HYPH	_	3	punct	_	_
 2	_	_	ADP	IN	_	3	case	_	_
 3	_	_	NOUN	NN	_	0	root	_	_
@@ -9174,8 +9593,9 @@
 8	_	_	NUM	CD	_	7	obj	_	_
 9	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc15.xml 32
-#SENT=
+# sent_id = 0100_2000_6-doc15.xml-32
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -9187,8 +9607,9 @@
 9	_	_	NOUN	NN	_	3	obl	_	_
 10	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc604.xml 31
-#SENT=
+# sent_id = 0100_2000_6-doc604.xml-31
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	8	expl	_	_
@@ -9209,8 +9630,9 @@
 18	_	_	NOUN	NN	_	12	obl:tmod	_	_
 19	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_12/doc284.xml 8
-#SENT=
+# sent_id = 0102_2000_12-doc284.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -9224,8 +9646,9 @@
 11	_	_	NOUN	NN	_	5	obl:tmod	_	_
 12	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc268.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc268.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	2	mark	_	_
 2	_	_	VERB	VBZ	_	8	advcl	_	_
 3	_	_	DET	PRP$	_	4	nmod:poss	_	_
@@ -9280,8 +9703,9 @@
 52	_	_	NOUN	NN	_	49	obl	_	_
 53	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc2484.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc2484.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	VERB	VBG	_	2	xcomp	_	_
@@ -9297,8 +9721,9 @@
 13	_	_	NOUN	NN	_	9	nmod	_	_
 14	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2091.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc2091.xml-10
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	MD	_	4	aux	_	_
 2	_	_	PRON	PRP	_	4	expl	_	_
 3	_	_	AUX	VB	_	4	cop	_	_
@@ -9310,8 +9735,9 @@
 9	_	_	NOUN	NN	_	6	obj	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2701.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc2701.xml-5
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	EX	_	2	expl	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADJ	JJ	_	4	amod	_	_
@@ -9322,8 +9748,9 @@
 8	_	_	NOUN	NN	_	6	obj	_	_
 9	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2619.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc2619.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -9347,8 +9774,9 @@
 21	_	_	NOUN	NN	_	17	obj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2770.xml 1
-#SENT=
+# sent_id = 0100_2000_6-doc2770.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -9372,8 +9800,9 @@
 21	_	_	PROPN	NNP	_	18	nmod	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc372.xml 7
-#SENT=
+# sent_id = 0100_2000_6-doc372.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	MD	_	3	aux	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -9391,8 +9820,9 @@
 15	_	_	PRON	PRP	_	12	obl	_	_
 16	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc1253.xml 21
-#SENT=
+# sent_id = 0102_2000_6-doc1253.xml-21
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	7	obl	_	_
 3	_	_	PUNCT	,	_	7	punct	_	_
@@ -9407,8 +9837,9 @@
 12	_	_	VERB	VB	_	7	conj	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1806.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc1806.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBN	_	0	root	_	_
@@ -9423,8 +9854,9 @@
 12	_	_	VERB	VB	_	10	acl	_	_
 13	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc951.xml 29
-#SENT=
+# sent_id = 0100_2000_12-doc951.xml-29
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NNS	_	7	obl	_	_
@@ -9442,8 +9874,9 @@
 15	_	_	NOUN	NN	_	10	nmod	_	_
 16	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc2642.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc2642.xml-12
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	AUX	VBP	_	7	cop	_	_
 2	_	_	PRON	PRP	_	7	nsubj	_	_
 3	_	_	DET	DT	_	7	det	_	_
@@ -9453,8 +9886,9 @@
 7	_	_	NOUN	NN	_	0	root	_	_
 8	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc2577.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc2577.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	INTJ	UH	_	3	discourse	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBZ	_	0	root	_	_
@@ -9498,8 +9932,9 @@
 41	_	_	VERB	VBP	_	36	acl:relcl	_	_
 42	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc2237.xml 32
-#SENT=
+# sent_id = 0100_2000_6-doc2237.xml-32
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	7	cc	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	DET	DT	_	6	det	_	_
@@ -9533,8 +9968,9 @@
 31	_	_	VERB	MD	_	27	advcl	_	_
 32	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc878.xml 22
-#SENT=
+# sent_id = 0102_2000_6-doc878.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	10	obl	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -9554,8 +9990,9 @@
 17	_	_	NOUN	NNS	_	14	conj	_	_
 18	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_6/doc1597.xml 32
-#SENT=
+# sent_id = 0100_2000_6-doc1597.xml-32
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	ADV	RB	_	8	advmod	_	_
 3	_	_	PUNCT	,	_	8	punct	_	_
@@ -9572,8 +10009,9 @@
 14	_	_	ADV	RB	_	11	advmod	_	_
 15	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_12/doc198.xml 22
-#SENT=
+# sent_id = 0100_2000_12-doc198.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NN	_	8	nsubj	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -9597,8 +10035,9 @@
 21	_	_	PRON	PRP	_	20	obj	_	_
 22	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_12/doc107.xml 27
-#SENT=
+# sent_id = 0102_2000_12-doc107.xml-27
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	8	advmod	_	_
 2	_	_	PUNCT	,	_	8	punct	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -9614,8 +10053,9 @@
 13	_	_	NOUN	NN	_	8	parataxis	_	_
 14	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2001_6/doc3253.xml 7
-#SENT=
+# sent_id = 0100_2001_6-doc3253.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	7	obl	_	_
@@ -9657,8 +10097,9 @@
 39	_	_	PRON	PRP	_	37	obl	_	_
 40	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1155.xml 34
-#SENT=
+# sent_id = 0102_2000_6-doc1155.xml-34
+# text = _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	4	cc	_	_
 2	_	_	PRON	PRP	_	4	nsubj	_	_
 3	_	_	AUX	VBD	_	4	cop	_	_
@@ -9669,8 +10110,9 @@
 8	_	_	PRON	NN	_	7	obj	_	_
 9	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc92.xml 8
-#SENT=
+# sent_id = 0102_2000_6-doc92.xml-8
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	4	case	_	_
 2	_	_	DET	PDT	_	4	det:predet	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -9703,8 +10145,9 @@
 30	_	_	VERB	VB	_	28	xcomp	_	_
 31	_	_	PUNCT	.	_	11	punct	_	_
 
-#ID=/0102_2000_12/doc578.xml 11
-#SENT=
+# sent_id = 0102_2000_12-doc578.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	11	advcl	_	_
@@ -9744,8 +10187,9 @@
 37	_	_	NOUN	NN	_	35	obl	_	_
 38	_	_	PUNCT	.	_	11	punct	_	_
 
-#ID=/0102_2000_6/doc2556.xml 5
-#SENT=
+# sent_id = 0102_2000_6-doc2556.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	16	advmod	_	_
 2	_	_	PUNCT	,	_	16	punct	_	_
 3	_	_	ADV	RB	_	7	advmod	_	_
@@ -9774,8 +10218,9 @@
 26	_	_	VERB	VBZ	_	24	advcl	_	_
 27	_	_	PUNCT	.	_	16	punct	_	_
 
-#ID=/0102_2000_6/doc65.xml 3
-#SENT=
+# sent_id = 0102_2000_6-doc65.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -9818,8 +10263,9 @@
 40	_	_	PRON	PRP	_	39	obj	_	_
 41	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2663.xml 18
-#SENT=
+# sent_id = 0102_2000_6-doc2663.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	7	advcl	_	_
@@ -9834,8 +10280,9 @@
 12	_	_	NOUN	NN	_	10	obl	_	_
 13	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2001_6/doc3093.xml 4
-#SENT=
+# sent_id = 0100_2001_6-doc3093.xml-4
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -9847,8 +10294,9 @@
 9	_	_	PROPN	NNP	_	5	obl	_	_
 10	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2647.xml 26
-#SENT=
+# sent_id = 0100_2000_6-doc2647.xml-26
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	cop	_	_
 3	_	_	ADJ	JJR	_	0	root	_	_
@@ -9872,8 +10320,9 @@
 21	_	_	NOUN	NN	_	17	conj	_	_
 22	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2749.xml 17
-#SENT=
+# sent_id = 0102_2000_6-doc2749.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	13	advmod	_	_
 2	_	_	ADV	WRB	_	4	mark	_	_
 3	_	_	PROPN	NNP	_	4	nsubj	_	_
@@ -9899,8 +10348,9 @@
 23	_	_	NOUN	NN	_	19	obl	_	_
 24	_	_	PUNCT	.	_	13	punct	_	_
 
-#ID=/0102_2000_6/doc2407.xml 15
-#SENT=
+# sent_id = 0102_2000_6-doc2407.xml-15
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	DET	DT	_	4	nsubj	_	_
 3	_	_	AUX	MD	_	4	aux	_	_
@@ -9915,8 +10365,9 @@
 12	_	_	VERB	VBN	_	0	root	_	_
 13	_	_	PUNCT	.	_	12	punct	_	_
 
-#ID=/0100_2000_6/doc231.xml 22
-#SENT=
+# sent_id = 0100_2000_6-doc231.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	4	mark	_	_
 2	_	_	DET	DT	_	4	det	_	_
 3	_	_	NOUN	NN	_	4	nsubj	_	_
@@ -9946,8 +10397,9 @@
 27	_	_	NOUN	NN	_	24	nmod	_	_
 28	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0102_2000_6/doc1815.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc1815.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	ADP	IN	_	5	case	_	_
@@ -9974,8 +10426,9 @@
 24	_	_	PROPN	NNP	_	20	appos	_	_
 25	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc1555.xml 18
-#SENT=
+# sent_id = 0102_2000_6-doc1555.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -9989,8 +10442,9 @@
 11	_	_	PRON	NN	_	10	obj	_	_
 12	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc1099.xml 30
-#SENT=
+# sent_id = 0102_2000_6-doc1099.xml-30
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	10	advcl	_	_
@@ -10007,8 +10461,9 @@
 14	_	_	ADV	RB	_	10	advmod	_	_
 15	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_6/doc2031.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc2031.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -10021,8 +10476,9 @@
 10	_	_	VERB	VBD	_	8	acl:relcl	_	_
 11	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc983.xml 22
-#SENT=
+# sent_id = 0102_2000_6-doc983.xml-22
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	9	advmod	_	_
 2	_	_	DET	PDT	_	4	det:predet	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -10047,8 +10503,9 @@
 22	_	_	NOUN	NNS	_	21	obj	_	_
 23	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0102_2000_6/doc365.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc365.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	ADP	IN	_	6	case	_	_
@@ -10077,8 +10534,9 @@
 26	_	_	ADJ	JJ	_	24	xcomp	_	_
 27	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc212.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc212.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	10	advmod	_	_
 2	_	_	PUNCT	,	_	10	punct	_	_
 3	_	_	ADV	RB	_	5	advmod	_	_
@@ -10111,8 +10569,9 @@
 30	_	_	ADV	RB	_	26	advmod	_	_
 31	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_6/doc1602.xml 12
-#SENT=
+# sent_id = 0100_2000_6-doc1602.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	ADV	RB	_	3	advmod	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -10128,8 +10587,9 @@
 13	_	_	ADV	RB	_	12	advmod	_	_
 14	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_12/doc504.xml 7
-#SENT=
+# sent_id = 0102_2000_12-doc504.xml-7
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	2	det	_	_
 2	_	_	NOUN	NNS	_	7	nsubj	_	_
 3	_	_	CCONJ	CC	_	4	cc	_	_
@@ -10152,8 +10612,9 @@
 20	_	_	ADJ	JJ	_	21	amod	_	_
 21	_	_	NOUN	NN	_	18	obl:tmod	_	_
 
-#ID=/0100_2000_6/doc2255.xml 23
-#SENT=
+# sent_id = 0100_2000_6-doc2255.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -10174,8 +10635,9 @@
 18	_	_	VERB	VBP	_	12	ccomp	_	_
 19	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2001_6/doc3121.xml 11
-#SENT=
+# sent_id = 0100_2001_6-doc3121.xml-11
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	7	nsubj	_	_
 2	_	_	AUX	MD	_	7	aux	_	_
 3	_	_	AUX	VB	_	7	cop	_	_
@@ -10195,8 +10657,9 @@
 17	_	_	NOUN	NN	_	14	obj	_	_
 18	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0100_2000_6/doc2642.xml 4
-#SENT=
+# sent_id = 0100_2000_6-doc2642.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	10	advmod	_	_
 2	_	_	DET	PRP$	_	3	nmod:poss	_	_
 3	_	_	NOUN	NN	_	1	obl	_	_
@@ -10216,8 +10679,9 @@
 17	_	_	NOUN	NNS	_	12	obj	_	_
 18	_	_	PUNCT	.	_	10	punct	_	_
 
-#ID=/0100_2000_6/doc1015.xml 24
-#SENT=
+# sent_id = 0100_2000_6-doc1015.xml-24
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	NOUN	NN	_	3	compound	_	_
 3	_	_	NOUN	NN	_	6	obl	_	_
@@ -10249,8 +10713,9 @@
 29	_	_	NOUN	NN	_	26	nmod	_	_
 30	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_12/doc102.xml 5
-#SENT=
+# sent_id = 0100_2000_12-doc102.xml-5
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	5	advmod	_	_
 2	_	_	PUNCT	,	_	5	punct	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -10262,8 +10727,9 @@
 9	_	_	NOUN	NN	_	8	obj	_	_
 10	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_12/doc2599.xml 17
-#SENT=
+# sent_id = 0100_2000_12-doc2599.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	SCONJ	IN	_	5	mark	_	_
 2	_	_	PRON	PRP	_	5	nsubj	_	_
 3	_	_	AUX	VBD	_	5	aux	_	_
@@ -10300,8 +10766,9 @@
 34	_	_	NOUN	NN	_	23	advcl	_	_
 35	_	_	PUNCT	.	_	9	punct	_	_
 
-#ID=/0100_2000_6/doc1466.xml 7
-#SENT=
+# sent_id = 0100_2000_6-doc1466.xml-7
+# text = _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	MD	_	4	aux	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -10313,8 +10780,9 @@
 9	_	_	NOUN	NN	_	7	conj	_	_
 10	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc951.xml 5
-#SENT=
+# sent_id = 0100_2000_12-doc951.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	0	root	_	_
@@ -10331,8 +10799,9 @@
 14	_	_	NOUN	NN	_	11	obl	_	_
 15	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc537.xml 4
-#SENT=
+# sent_id = 0100_2000_12-doc537.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	8	obl	_	_
 3	_	_	ADP	IN	_	4	case	_	_
@@ -10361,8 +10830,9 @@
 26	_	_	ADJ	JJ	_	8	advcl	_	_
 27	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0100_2000_6/doc315.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc315.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -10387,8 +10857,9 @@
 22	_	_	PROPN	NNP	_	18	nmod	_	_
 23	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_12/doc126.xml 13
-#SENT=
+# sent_id = 0100_2000_12-doc126.xml-13
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	SCONJ	IN	_	7	mark	_	_
@@ -10409,8 +10880,9 @@
 18	_	_	NOUN	NNS	_	16	obj	_	_
 19	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc515.xml 14
-#SENT=
+# sent_id = 0102_2000_6-doc515.xml-14
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	7	cc	_	_
 2	_	_	DET	PRP$	_	4	nmod:poss	_	_
 3	_	_	NOUN	NN	_	4	compound	_	_
@@ -10432,8 +10904,9 @@
 19	_	_	ADV	RB	_	18	advmod	_	_
 20	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc428.xml 1
-#SENT=
+# sent_id = 0102_2000_6-doc428.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -10452,8 +10925,9 @@
 16	_	_	NOUN	NN	_	12	xcomp	_	_
 17	_	_	PUNCT	''	_	16	punct	_	_
 
-#ID=/0100_2000_6/doc2442.xml 20
-#SENT=
+# sent_id = 0100_2000_6-doc2442.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -10479,8 +10953,9 @@
 23	_	_	PRON	PRP	_	21	nsubj	_	_
 24	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_12/doc198.xml 5
-#SENT=
+# sent_id = 0100_2000_12-doc198.xml-5
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	5	nsubj	_	_
 2	_	_	AUX	MD	_	5	aux	_	_
 3	_	_	AUX	VB	_	5	cop	_	_
@@ -10499,8 +10974,9 @@
 16	_	_	ADV	RB	_	12	advmod	_	_
 17	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0102_2000_6/doc2021.xml 25
-#SENT=
+# sent_id = 0102_2000_6-doc2021.xml-25
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	DET	DT	_	3	det	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	6	nsubj	_	_
@@ -10534,8 +11010,9 @@
 31	_	_	ADJ	JJR	_	29	xcomp	_	_
 32	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_12/doc556.xml 9
-#SENT=
+# sent_id = 0102_2000_12-doc556.xml-9
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	4	obj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PRON	PRP	_	4	nsubj	_	_
@@ -10555,8 +11032,9 @@
 17	_	_	PUNCT	''	_	16	punct	_	_
 18	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2001_6/doc3122.xml 6
-#SENT=
+# sent_id = 0100_2001_6-doc3122.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADJ	JJR	_	6	nsubj	_	_
 2	_	_	ADP	IN	_	4	case	_	_
 3	_	_	DET	DT	_	4	det	_	_
@@ -10582,8 +11060,9 @@
 23	_	_	VERB	VBN	_	6	advcl	_	_
 24	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc1006.xml 6b
-#SENT=
+# sent_id = 0100_2000_6-doc1006.xml-6b
+# text = _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBZ	_	3	aux	_	_
 3	_	_	VERB	VBG	_	0	root	_	_
@@ -10597,8 +11076,9 @@
 11	_	_	ADJ	JJ	_	10	xcomp	_	_
 12	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2252.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc2252.xml-6
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBD	_	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -10615,8 +11095,9 @@
 14	_	_	ADJ	JJ	_	2	conj	_	_
 15	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc2218.xml 10
-#SENT=
+# sent_id = 0100_2000_6-doc2218.xml-10
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	7	advmod	_	_
 2	_	_	PUNCT	,	_	7	punct	_	_
 3	_	_	PRON	PRP	_	7	nsubj:pass	_	_
@@ -10638,8 +11119,9 @@
 19	_	_	PRON	PRP	_	17	obl	_	_
 20	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_12/doc2121.xml 23
-#SENT=
+# sent_id = 0102_2000_12-doc2121.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	8	obl	_	_
 3	_	_	PUNCT	``	_	8	punct	_	_
@@ -10662,8 +11144,9 @@
 20	_	_	PUNCT	''	_	8	punct	_	_
 21	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc1771.xml 37
-#SENT=
+# sent_id = 0102_2000_6-doc1771.xml-37
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	2	case	_	_
 2	_	_	NOUN	NN	_	5	obl	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -10679,8 +11162,9 @@
 13	_	_	VERB	VB	_	11	xcomp	_	_
 14	_	_	PUNCT	.	_	5	punct	_	_
 
-#ID=/0100_2000_6/doc1596.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc1596.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -10698,8 +11182,9 @@
 15	_	_	NOUN	NN	_	9	obl	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc515.xml 4
-#SENT=
+# sent_id = 0102_2000_6-doc515.xml-4
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	EX	_	3	expl	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -10726,8 +11211,9 @@
 24	_	_	NOUN	NN	_	22	obj	_	_
 25	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc651.xml 12
-#SENT=
+# sent_id = 0102_2000_6-doc651.xml-12
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	6	advmod	_	_
 2	_	_	PUNCT	,	_	6	punct	_	_
 3	_	_	PRON	PRP	_	6	nsubj	_	_
@@ -10764,8 +11250,9 @@
 34	_	_	ADJ	JJ	_	18	conj	_	_
 35	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc1099.xml 43
-#SENT=
+# sent_id = 0102_2000_6-doc1099.xml-43
+# text = _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	aux	_	_
 3	_	_	PART	RB	Polarity=Neg	4	advmod	_	_
@@ -10778,8 +11265,9 @@
 10	_	_	NOUN	NNS	_	6	obl	_	_
 11	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0102_2000_6/doc2356.xml 20
-#SENT=
+# sent_id = 0102_2000_6-doc2356.xml-20
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NUM	CD	_	2	nummod	_	_
 2	_	_	NOUN	NNS	_	3	obl:npmod	_	_
 3	_	_	ADV	RBR	_	6	advmod	_	_
@@ -10817,8 +11305,9 @@
 35	_	_	NOUN	NN	_	33	nmod	_	_
 36	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0100_2000_6/doc470.xml 17
-#SENT=
+# sent_id = 0100_2000_6-doc470.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	2	advmod	_	_
 2	_	_	ADJ	JJ	_	3	amod	_	_
 3	_	_	NOUN	NN	_	6	obj	_	_
@@ -10834,8 +11323,9 @@
 13	_	_	NOUN	NNS	_	6	parataxis	_	_
 14	_	_	PUNCT	.	_	6	punct	_	_
 
-#ID=/0102_2000_6/doc686.xml 10
-#SENT=
+# sent_id = 0102_2000_6-doc686.xml-10
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	WP	_	3	nsubj:pass	_	_
 2	_	_	AUX	VBD	_	3	aux:pass	_	_
 3	_	_	VERB	VBN	_	0	root	_	_
@@ -10844,8 +11334,9 @@
 6	_	_	NOUN	NN	_	3	obl	_	_
 7	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0102_2000_6/doc2763.xml 23
-#SENT=
+# sent_id = 0102_2000_6-doc2763.xml-23
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	SCONJ	IN	_	9	mark	_	_
@@ -10867,8 +11358,9 @@
 19	_	_	PUNCT	,	_	16	punct	_	_
 20	_	_	X	FW	_	16	conj	_	_
 
-#ID=/0100_2000_6/doc1784.xml 26
-#SENT=
+# sent_id = 0100_2000_6-doc1784.xml-26
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PRON	PRP	_	5	nsubj	_	_
@@ -10878,8 +11370,9 @@
 7	_	_	PRON	PRP	_	5	obl	_	_
 8	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0102_2000_6/doc2329.xml 6
-#SENT=
+# sent_id = 0102_2000_6-doc2329.xml-6
+# text = _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	RB	_	3	advmod	_	_
 2	_	_	PRON	EX	_	3	expl	_	_
 3	_	_	VERB	VBD	_	0	root	_	_
@@ -10888,8 +11381,9 @@
 6	_	_	NOUN	NN	_	3	nsubj	_	_
 7	_	_	PUNCT	.	_	3	punct	_	_
 
-#ID=/0100_2000_6/doc181.xml 3
-#SENT=
+# sent_id = 0100_2000_6-doc181.xml-3
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADP	IN	_	3	case	_	_
 2	_	_	DET	DT	_	3	det	_	_
 3	_	_	NOUN	NN	_	7	obl	_	_
@@ -10907,8 +11401,9 @@
 15	_	_	NOUN	NN	_	13	conj	_	_
 16	_	_	PUNCT	.	_	7	punct	_	_
 
-#ID=/0102_2000_6/doc1751.xml 18
-#SENT=
+# sent_id = 0102_2000_6-doc1751.xml-18
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	NN	_	2	nsubj	_	_
 2	_	_	VERB	VBP	_	0	root	_	_
 3	_	_	PART	TO	_	4	mark	_	_
@@ -10926,8 +11421,9 @@
 15	_	_	ADJ	JJ	_	2	advcl	_	_
 16	_	_	PUNCT	.	_	2	punct	_	_
 
-#ID=/0100_2000_6/doc1700.xml 1
-#SENT=
+# sent_id = 0100_2000_6-doc1700.xml-1
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	4	nsubj	_	_
 2	_	_	AUX	VBP	_	4	cop	_	_
 3	_	_	ADV	RB	_	4	advmod	_	_
@@ -10950,8 +11446,9 @@
 20	_	_	NOUN	NN	_	17	nmod	_	_
 21	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc927.xml 30
-#SENT=
+# sent_id = 0100_2000_12-doc927.xml-30
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	CCONJ	CC	_	4	cc	_	_
 2	_	_	NUM	CD	_	4	nummod	_	_
 3	_	_	ADJ	JJR	_	4	amod	_	_
@@ -10975,8 +11472,9 @@
 21	_	_	ADV	RB	_	19	obl	_	_
 22	_	_	PUNCT	.	_	4	punct	_	_
 
-#ID=/0100_2000_12/doc927.xml 14a
-#SENT=
+# sent_id = 0100_2000_12-doc927.xml-14a
+# text = _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	PRON	PRP	_	3	nsubj	_	_
 2	_	_	AUX	VBP	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
@@ -10986,8 +11484,9 @@
 7	_	_	ADP	IN	_	8	case	_	_
 8	_	_	PRON	PRP	_	6	obl	_	_
 
-#ID=/0100_2000_6/doc2688.xml 14b
-#SENT=
+# sent_id = 0100_2000_6-doc2688.xml-14b
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	ADV	WRB	_	3	mark	_	_
 2	_	_	PRON	PRP	_	3	nsubj	_	_
 3	_	_	VERB	VBP	_	8	advcl	_	_
@@ -11029,8 +11528,9 @@
 39	_	_	ADJ	JJ	_	8	conj	_	_
 40	_	_	PUNCT	.	_	8	punct	_	_
 
-#ID=/0102_2000_6/doc2670.xml 17
-#SENT=
+# sent_id = 0102_2000_6-doc2670.xml-17
+# text = _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+# error_annotation = 
 1	_	_	NOUN	NNS	_	3	nsubj	_	_
 2	_	_	AUX	MD	_	3	aux	_	_
 3	_	_	VERB	VB	_	0	root	_	_
