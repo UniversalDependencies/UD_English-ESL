@@ -6,19 +6,19 @@ UD English-ESL / Treebank of Learner English (TLE) contains manual POS tag and d
 
 UD English-ESL/TLE is a collection of 5,124 English as a Second Language (ESL) sentences (97,681 words), manually annotated with POS tags and dependency trees in the Universal Dependencies formalism. Each sentence is annotated both in its original and error corrected forms. The annotations follow the standard English UD guidelines, along with a set of supplementary guidelines for ESL. The dataset represents upper-intermediate level adult English learners from 10 native language backgrounds, with over 500 sentences for each native language. The sentences were randomly drawn from the Cambridge Learner Corpus First Certificate in English (FCE) corpus. The treebank is split randomly to a training set of 4,124 sentences, development set of 500 sentences and a test set of 500 sentences. 
 
-A query engine and further information on the treebank is available at [esltreebank.org].
+A query engine and further information on the treebank is available at <esltreebank.org>.
 
 # Obtaining the text and a treebank of error corrected sentences
 
 Due to FCE licensing restrictions, the annotations are released without the text.
 
 To merge the annotations with the corresponding FCE sentences, please follow these steps (require python).
-1) Download the FCE dataset from [https://www.ilexir.co.uk/datasets/index.html]
+1) Download the FCE dataset from <https://www.ilexir.co.uk/datasets/index.html>
 to the current directory, thereby signing the FCE license agreement.
 2) Unzip the downloaded file fce-released-dataset.zip.
-3) Run "python merge.py" to obtain annotation files with the FCE sentences. 
+3) Run "python merge.py" to obtain the annotation files with the FCE sentences. 
 
-The steps above will also download a parallel treebank of error corrected sentences.
+The downloaded folder will also contain a parallel treebank of error corrected sentences.
 
 # Metadata
 
