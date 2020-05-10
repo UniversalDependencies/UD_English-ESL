@@ -3,9 +3,9 @@ commit d71d1b63fd448a8b098d4b5a0329f8da3f7413b0
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Date:   Sat Apr 21 19:02:58 2018 +0200
 Evaluating the following revision of UD_English-ESL:
-commit 2b3bbc06a575ea14fb70e77f5e0ce000535bac03
+commit e7fe2a175d9afb8826b8509ffd6677d17e581616
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 10 21:06:54 2019 +0200
+Date:   Tue Nov 12 16:56:06 2019 +0100
 Size: counted 97681 of 97681 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.16341413452057.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -19,7 +19,7 @@ Features: 1177 out of 97681 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 35 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
-Udapi: found 34039 bugs.
+Udapi: found 34045 bugs.
 Udapi: worst expected case (threshold) is one bug per 10 words. There are 97681 words.
 Genres: found 1 out of 17 known.
 Availability: README does not say Includes text: yes
