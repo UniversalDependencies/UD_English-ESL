@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_English-ESL:
-commit be165c88e651ca3c700dd859fefb05bfd6fa175c
+commit 4c1058403783607acb180b705f7cd606423a658b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Thu May 13 09:05:08 2021 +0200
+Date:   Wed Nov 3 16:08:34 2021 +0100
 Size: counted 97681 of 97681 words (nodes).
 Size: min(0, log((N/1000)**2)) = 9.16341413452057.
 Size: maximum value 13.815511 is for 1000000 words or more.
@@ -28,45 +28,71 @@ Availability: README does not say Includes text: yes
 Availability: '_' is the most frequent form.
 validate.py --lang en --max-err=10 UD_English-ESL/en_esl-ud-dev.conllu
 [Line 985 Sent 0102_2000_6-doc614.xml-3 Node 15]: [L3 Syntax rel-upos-case] 'case' should not be 'PROPN'
+[Line 1033 Sent 0100_2000_12-doc579.xml-6 Node 18]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
 [Line 1437 Sent 0102_2000_6-doc2677.xml-30 Node 16]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADJ'
+[Line 1623 Sent 0102_2000_6-doc1541.xml-21a Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 1624 Sent 0102_2000_6-doc1541.xml-21a Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 1716 Sent 0100_2000_6-doc1902.xml-31 Node 3]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (3:_:cop --> 4:_:advmod)
 [Line 2767 Sent 0100_2000_6-doc2039.xml-20 Node 13]: [L3 Syntax punct-causes-nonproj] Punctuation must not cause non-projectivity of nodes [12]
 [Line 2797 Sent 0102_2000_6-doc2514.xml-6 Node 17]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
+[Line 6381 Sent 0100_2000_6-doc280.xml-16 Node 6]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 6382 Sent 0100_2000_6-doc280.xml-16 Node 7]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 6565 Sent 0100_2000_12-doc1306.xml-17 Node 16]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [17]
 [Line 7376 Sent 0100_2000_6-doc1759.xml-6 Node 5]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (5:_:aux --> 4:_:nsubj)
 [Line 8969 Sent 0102_2000_6-doc278.xml-11 Node 4]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (4:_:aux --> 3:_:nsubj)
 [Line 11044 Sent 0100_2001_6-doc3122.xml-6 Node 8]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (8:_:cop --> 7:_:mark)
 ...suppressing further errors regarding Syntax
+Morpho errors: 5
 Syntax errors: 10
-*** FAILED *** with 10 errors
+*** FAILED *** with 15 errors
 Exit code: 1
 validate.py --lang en --max-err=10 UD_English-ESL/en_esl-ud-test.conllu
 [Line 32 Sent 0102_2000_6-doc874.xml-21 Node 13]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [12]
 [Line 62 Sent 0100_2000_6-doc2542.xml-25 Node 20]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [22, 23, 24, 25, 26, 27]
+[Line 757 Sent 0100_2000_6-doc818.xml-25 Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 758 Sent 0100_2000_6-doc818.xml-25 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 942 Sent 0100_2000_6-doc2359.xml-30 Node 3]: [L3 Syntax leaf-mark-case] 'case' not expected to have children (3:_:case --> 2:_:mark)
+[Line 2304 Sent 0100_2000_6-doc166.xml-6 Node 20]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 2305 Sent 0100_2000_6-doc166.xml-6 Node 21]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 2380 Sent 0102_2000_6-doc1288.xml-10 Node 20]: [L3 Syntax rel-upos-det] 'det' should be 'DET' or 'PRON' but it is 'ADP'
 [Line 2732 Sent 0100_2000_6-doc584.xml-27 Node 5]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (5:_:aux --> 4:_:nsubj)
 [Line 3047 Sent 0102_2000_6-doc513.xml-10 Node 8]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (8:_:cop --> 5:_:mark)
 [Line 5792 Sent 0102_2000_12-doc558.xml-29 Node 2]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (2:_:aux --> 1:_:nsubj)
 [Line 6376 Sent 0100_2000_12-doc1029.xml-4 Node 2]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (2:_:cop --> 1:_:nsubj)
+[Line 6489 Sent 0100_2000_12-doc1840.xml-4 Node 46]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
 [Line 6495 Sent 0100_2000_12-doc1840.xml-4 Node 52]: [L3 Syntax punct-is-nonproj] Punctuation must not be attached non-projectively over nodes [37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51]
+[Line 6818 Sent 0100_2000_12-doc548.xml-9 Node 13]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
 ...suppressing further errors regarding Syntax
+[Line 10702 Sent 0100_2000_12-doc1293.xml-4 Node 14]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 11000 Sent 0100_2000_12-doc1357.xml-7 Node 13]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+Morpho errors: 8
 Syntax errors: 18
-*** FAILED *** with 18 errors
+*** FAILED *** with 26 errors
 Exit code: 1
 validate.py --lang en --max-err=10 UD_English-ESL/en_esl-ud-train.conllu
 [Line 1399 Sent 0100_2000_6-doc2740.xml-4 Node 13]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (13:_:aux --> 12:_:nsubj)
 [Line 4074 Sent 0100_2001_6-doc3158.xml-20 Node 19]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (19:_:aux --> 18:_:nsubj)
 [Line 4732 Sent 0102_2000_6-doc515.xml-27 Node 2]: [L3 Syntax leaf-aux-cop] 'cop' not expected to have children (2:_:cop --> 1:_:det)
 [Line 5333 Sent 0102_2000_6-doc2075.xml-7 Node 2]: [L3 Syntax rel-upos-case] 'case' should not be 'DET'
+[Line 5727 Sent 0102_2000_6-doc1198.xml-22 Node 4]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 5728 Sent 0102_2000_6-doc1198.xml-22 Node 5]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
 [Line 6326 Sent 0102_2000_6-doc2341.xml-6 Node 16]: [L3 Syntax rel-upos-mark] 'mark' should not be 'DET'
 [Line 6431 Sent 0100_2000_6-doc2049.xml-19 Node 2]: [L3 Syntax leaf-aux-cop] 'aux' not expected to have children (2:_:aux --> 1:_:mark)
 [Line 6600 Sent 0100_2000_6-doc66.xml-10 Node 9]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
 [Line 7470 Sent 0100_2000_12-doc241.xml-24 Node 32]: [L3 Syntax rel-upos-advmod] 'advmod' should be 'ADV' but it is 'VERB'
 [Line 8092 Sent 0100_2001_6-doc3158.xml-6 Node 21]: [L3 Syntax rel-upos-case] 'case' should not be 'ADJ'
 ...suppressing further errors regarding Syntax
-Syntax errors: 126
-*** FAILED *** with 126 errors
+[Line 13692 Sent 0100_2000_12-doc241.xml-7 Node 17]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 14154 Sent 0100_2000_12-doc904.xml-5 Node 16]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 14982 Sent 0100_2000_6-doc2070.xml-44 Node 1]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 14983 Sent 0100_2000_6-doc2070.xml-44 Node 2]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 14995 Sent 0100_2000_6-doc2070.xml-44 Node 14]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+[Line 14996 Sent 0100_2000_6-doc2070.xml-44 Node 15]: [L3 Morpho goeswith-upos] The UPOS tag of a 'goeswith'-connected word must be annotated only at the first part; the other parts must be tagged 'X'.
+[Line 16544 Sent 0100_2000_12-doc198.xml-7 Node 24]: [L3 Morpho goeswith-missing-typo] Since the treebank has morphological features, 'Typo=Yes' must be used with 'goeswith' heads.
+...suppressing further errors regarding Morpho
+Morpho errors: 70
+Syntax errors: 125
+*** FAILED *** with 195 errors
 Exit code: 1
 Validity: 0.01
 (weight=0.0769230769230769) * (score{features}=0.12) = 0.00923076923076923
