@@ -1,5 +1,5 @@
 import os
-import urllib
+import urllib.request
 
 UD_RELEASE = "2.3"
 
@@ -14,7 +14,7 @@ def check_fce():
     return code
 
 def obtain_data(code):
-    opener = urllib.URLopener()
+    opener = urllib.request.URLopener()
     try:
         opener.retrieve("http://esltreebank.org/data-"+UD_RELEASE+"-"+str(code)+"/data.zip", \
                         "data.zip")
