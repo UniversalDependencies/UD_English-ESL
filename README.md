@@ -68,6 +68,7 @@ You are encouraged to cite the following papers when using the TLE:
 Data available since: UD v1.3
 License: CC BY-SA 4.0
 Includes text: no
+Parallel: no
 Genre: learner-essays
 Lemmas: not available
 UPOS: manual native
