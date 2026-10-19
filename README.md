@@ -6,7 +6,7 @@ UD English-ESL / Treebank of Learner English (TLE) contains manual POS tag and d
 
 UD English-ESL/TLE is a collection of 5,124 English as a Second Language (ESL) sentences (97,681 words), manually annotated with POS tags and dependency trees in the Universal Dependencies formalism. Each sentence is annotated both in its original and error corrected forms. The annotations follow the standard English UD guidelines, along with a set of supplementary guidelines for ESL. The dataset represents upper-intermediate level adult English learners from 10 native language backgrounds, with over 500 sentences for each native language. The sentences were randomly drawn from the Cambridge Learner Corpus First Certificate in English (FCE) corpus. The treebank is split randomly to a training set of 4,124 sentences, development set of 500 sentences and a test set of 500 sentences. 
 
-A query engine and further information on the treebank is available at <esltreebank.org>.
+A query engine and further information on the treebank is available at <https://lacclab-esl-treebank.dds.technion.ac.il>.
 
 # Obtaining the text and a treebank of error corrected sentences
 
@@ -28,6 +28,20 @@ sent_index is the sentence number (with respect to the automatic sentence tokeni
 
 # Changelog
 
+**2026-11-15 v2.18**
+SYNTAX changes:
+- Erroneous dependency structures corrected (manual native)
+- UPOS-dependent relations fixed to agree (manual native)
+- Punctuation structures all annotated in accordance with original MIT annotation guidelines (manual native)
+
+MORPHO changes:
+- Goeswith structures reannotated in accordance with UDv2.18 guidelines (converted from manual)
+- Typo=Yes added to typos in original treebank (automatic with manual verification)
+
+Features:
+- FEATS column populated (converted from manual)
+- MISC column populated with `Note=parses_as_obj` and `Note=parses_as_nsubj` for structures in which ESL speakers introduce multiple obj/nsubj that do not pass UD validation checks (manual)
+
 **2018-11-15 v2.3**
  - transitioned to v2 guidelines.
  - fixes to miscellaneous syntactic issues.
@@ -38,7 +52,7 @@ sent_index is the sentence number (with respect to the automatic sentence tokeni
 
 # Acknowledgments
 
-The dataset and the annotation guidelines were developed at MIT by Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, Keiko Sophie Mori, Sebastian Garza, Boris Katz and Margarita Misirpashayeva.
+The dataset and the annotation guidelines were developed at MIT and at the Technion University by Yevgeni Berzak, Jessica Kenney, Carolyn Spadine, Jing Xian Wang, Lucia Lam, Keiko Sophie Mori, Sebastian Garza, Boris Katz, Margarita Misirpashayeva and Rivkah Bazlov.
 
 # Citation
 
@@ -70,14 +84,14 @@ License: CC BY-SA 4.0
 Includes text: no
 Parallel: no
 Genre: learner-essays
-Lemmas: not available
+Lemmas: automatic
 UPOS: manual native
 XPOS: manual native
-Features: not available
+Features: converted from manual
 Relations: manual native
-Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xian; Lam, Lucia; Mori, Keiko Sophie; Garza, Sebastian; Katz, Boris; Misirpashayeva, Margarita;
+Contributors: Berzak, Yevgeni; Kenney, Jessica; Spadine, Carolyn; Wang, Jing Xian; Lam, Lucia; Mori, Keiko Sophie; Garza, Sebastian; Katz, Boris; Misirpashayeva, Margarita; Bazlov, Rivkah;
 Contributing: elsewhere
-Contact: berzak@mit.edu
+Contact: r_udp@bazlov.uk; berzak@technion.ac.il
 ===============================================================================
 </pre>
 

@@ -1,7 +1,7 @@
 import os
 import urllib.request
 
-UD_RELEASE = "2.3"
+UD_RELEASE = "2.18"
 
 def check_fce():
     try:
