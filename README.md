@@ -28,7 +28,7 @@ sent_index is the sentence number (with respect to the automatic sentence tokeni
 
 # Changelog
 
-**2026-11-15 v2.18**
+## 2026-11-15 v2.18
 The UD English-ESL treebank was revised to bring the annotation into compliance with the current UD v2.18 validation requirements. Corrections were based on the original manually annotated treebank and the original MIT ESL annotation guidelines wherever possible.
 
 ### SYNTAX changes
@@ -108,11 +108,11 @@ This specifically resolves the `goeswith-missing-typo` validation condition for 
 - Added `Note=parses_as_nsubj` where an ESL construction contains a constituent that can naturally be interpreted as an additional subject but cannot remain as a second ordinary `nsubj` under the same predicate.
 - These annotations preserve information about the original learner construction without deliberately retaining dependency structures rejected by current UD validation.
 
-**2018-11-15 v2.3**
+## 2018-11-15 v2.3
  - transitioned to v2 guidelines.
  - fixes to miscellaneous syntactic issues.
 
-**2016-11-15 v1.4**
+## 2016-11-15 v1.4
  - changed UPOS of indefinite, totality and negative pronouns from NOUN to PRON.
  - changed UPOS of demonstrative pronouns from DET to PRON.
 
